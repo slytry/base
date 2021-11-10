@@ -1,0 +1,9 @@
+# Hosting guide
+- ==Technical support:== Does the hosting company have a good system for handling your technical questions? The better ones will answer your questions quickly either over the phone or via email.
+ - ==Data transfer:== This is a measure of the amount of pages and data the hosting company will let you send to your visitors during a given month. Most hosting companies offer reasonable amounts of data transfer for small sites in their most basic plans. If you’re creating a site that
+you expect will have lots of visitors, you may want to carefully look into this.
+-  ==Backups:== Does the hosting company regularly make a backup of your pages and data that can be recovered in the event that the server has a hardware failure?
+ - ==Domain names:== Does the hosting company include a domain name in its pricing? 
+ - ==Reliability:==Most hosting companies report keeping websites up 99% of the time or better.
+ - ==Goodies:== Does your package include other goodies such as email addresses, forums, or support for scripting languages (something that may become important to you in the future)?
+

@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "b2f610b29c5cee3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d367a1427c44da23",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/СилаТеплота.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca030ef361013f68",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c34ff9c3d36f1ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce16e1e4abd327b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "edfbe72d4a8bd562",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2425fab8555c776b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 412
+  },
+  "right": {
+    "id": "024ec4921ab359ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "f876acd8fb9bad65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0c16859902a115a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/СилаТеплота.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a6b061811fdcf3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "6775d49917697364",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/СилаТеплота.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 189.40000915527344
+  },
+  "active": "d367a1427c44da23",
+  "lastOpenFiles": [
+    "Base/СилаТеплота.md",
+    "Base/ФизическийДискомфорт.md",
+    "Base/Focused and Diffuse Modes.md",
+    "Templates/CourseOrBook.md",
+    "Templates/Note.md",
+    "Base/≈  Olivia Fox Cabane —  The Charisma Myth.md",
+    "Base/≈   Barbara Oakley — Learning How to Learn.md",
+    "Base/§ Personal knowledge management.md",
+    "Base/_Symbols.md",
+    "Base/_Index.md"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "promptDelete": false,
+  "fileSortOrder": "alphabetical",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Base",
+  "attachmentFolderPath": "Files",
+  "showLineNumber": false,
+  "readableLineLength": false
+}
