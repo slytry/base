@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Project README.md",
+            "file": "Base/GIT.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Project README.md",
+                "file": "Base/GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,18 +102,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "37755031e2017a3f",
   "lastOpenFiles": [
-    "Base/Project README.md",
-    "Base/Пример от bitbacket.md",
-    "Base/GitHub.md",
+    "Base/GIT.md",
+    "Files/005 code-style.png",
+    "Base/picture.md",
+    "Base/§HTML.md",
+    "Base/VS Code.md",
+    "Base/§Essential.md",
+    "Base/Отправка формы на сервер.md",
     "Base/AJAX и общение с сервером.md",
-    "Base/≈ Полный курс по JavaScript + React.md",
-    "Base/Обработка input.md",
-    "Base/Формат JSON, метод toJSON Глубокая копия объекта.md",
-    "Base/Копирование объектов в JavaScript.md",
     "Base/§JS.md",
     "Base/Модальное окно.md"
   ]

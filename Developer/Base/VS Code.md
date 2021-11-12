@@ -6,6 +6,8 @@ aliases:
 [# Я - фрилансер! Базовый курс для начинающих](https://webdesign-master.ru/_lp/freelance/)
 [Настройка VS Code для верстки](*https://webdesign-master.ru/blog/tools/vscode.html*)
 
+### Что я хочу
+Выделить все сопадения - ^+L
 
 ---
 ###### Related 
