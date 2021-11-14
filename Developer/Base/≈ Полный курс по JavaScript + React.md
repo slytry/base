@@ -3,12 +3,12 @@ tags: src/Course
 aliases: 
 ---
 https://keycode.info/
-
+[[Библиотеки]]
 ## Notes
 Основное тело записа
 
 # Structure
- - The JavaScript language
+ - ==The JavaScript language==
 	 - JavaScript Fundamentals
 		 - [[Способы подключения]]	
 		 - [[Стилистические правила]]
@@ -27,6 +27,7 @@ https://keycode.info/
 		 - [[Основы ООП]]
 		 - [[Динамическая типизация]]
 		 - [[Object model]]
+		 - [[Методы перебора]]
 	 - Objects: the basics
 		 - [[Объект]]
 		 - [[Краткая запись при совпадении свойства и ключа]]
@@ -39,11 +40,15 @@ https://keycode.info/
 		 - [[Дата и время]]
 		 - [[Формат JSON, метод toJSON Глубокая копия объекта]]
 	 - Advanced working with functions
-		 -  ==[[Spread оператор, rest (ES6-ES9)]]==
+		-  [[Spread оператор, rest (ES6-ES9)]]
 	 	- [[Время выполнения скрипта setTimeout and setInterval]]
 	 	- [[Дефолтное значение]]
+	- Promises, async/await
+		- [[Promise]]
+		- [[Promise API]]
+		- [[Async, await]]
 		
- - Browser: Document, Events, Interfaces
+ - ==Browser: Document, Events, Interfaces==
 	 - Document
 		 - [[Навигация по DOM дереву]]
 		 - [[Получение элементов со страницы]]
@@ -62,15 +67,23 @@ https://keycode.info/
 		 - [[Обработка input]]
 	 - Server
 		 - [[AJAX и общение с сервером]]
-
+- ==Additional articles==
+	- Storing data in the browser
+		- [[LocalStorage, sessionStorage]]
+	- Network requests
+		- [[Fetch API]]
+	- Regular expressions https://javascript.info/regular-expressions
+		- [[Patterns and flags]]
+		- [[Классы символов]]
+		- [[Unicode flag 'u' and class p{...}]]
+		- [[Multiline mode of anchors ^ $, flag 'm']]
+		- [[Sticky flag 'y', searching at position]]
 
 
 
 
 #### Citation
 - [Udemy](https://www.udemy.com/course/javascript_full/) Полный курс по JavaScript + React - с нуля до результата
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-
 
 Data: 27-08-2021
  

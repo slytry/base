@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "37755031e2017a3f",
+        "id": "a05dea326aadc951",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/GIT.md",
-            "mode": "preview"
+            "file": "Base/Калькулятор.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "entrie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/GIT.md",
+                "file": "Base/Калькулятор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,24 +98,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "37755031e2017a3f",
+  "active": "a05dea326aadc951",
   "lastOpenFiles": [
-    "Base/GIT.md",
-    "Files/005 code-style.png",
-    "Base/picture.md",
-    "Base/§HTML.md",
-    "Base/VS Code.md",
-    "Base/§Essential.md",
-    "Base/Отправка формы на сервер.md",
-    "Base/AJAX и общение с сервером.md",
+    "Base/Калькулятор.md",
     "Base/§JS.md",
-    "Base/Модальное окно.md"
+    "Base/Классы символов.md",
+    "Base/≈ Полный курс по JavaScript + React.md",
+    "Base/Patterns and flags.md",
+    "Base/Sticky flag 'y', searching at position.md",
+    "Base/Unicode flag 'u' and class p{...}.md",
+    "Base/Multiline mode of anchors ^ $, flag 'm'.md",
+    "Base/LocalStorage, sessionStorage.md",
+    "Base/Слайдер.md"
   ]
 }

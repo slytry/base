@@ -15,6 +15,7 @@ aliases:
 [[figma]]
 [[VS Code]]
 [[Сервер локальный]]
+[[npm проект]]
 
 ---
 ###### Citation 
