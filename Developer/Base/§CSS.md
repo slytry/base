@@ -5,6 +5,8 @@ aliases:
 
 # Structure
 [CSS Properties Sheet](https://docs.google.com/spreadsheets/d/1-pca7hev_jizbaKW1ns13kvHFQUz6R1rz7SyXg8dQAQ/edit#gid=0)
+[[Шаблон разметки Holy Grail]]
+
 ### Main
 - [[CSS definition]]
 - [[Selectors CSS]]

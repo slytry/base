@@ -6,11 +6,7 @@ aliases:
 - [[§HTML]]
 - [[§CSS]]
 - [[§JS]]
-	- [[≈ Полный курс по JavaScript + React]]
 - [[§Essential]]
-	- [[GIT]]
-	- [[Интернет]]
-	
 
 
 [[JavaScript разработка в 2021.pdf#page=1]]

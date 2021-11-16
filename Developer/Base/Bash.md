@@ -21,4 +21,7 @@ aliases:
  
 ---
 ###### Citation
+[Искусство командной строки](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
+[Как сделать красивую консоль в Mac и Linux](https://htmlacademy.ru/blog/boost/tools/how-to-make-a-beautiful-console-for-mac-and-linux)
+[Установка терминала на Windows](https://htmlacademy.ru/blog/boost/tools/installing-the-console-on-windows)
 Date: 14:17 14:17

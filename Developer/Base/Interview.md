@@ -8,6 +8,6 @@
 -   [50 вопросов по CSS. Собеседование на HTML верстальщика. Проверь свои знания!](https://www.youtube.com/watch?v=4YRG6cMAASI&list=WL&index=7)
 -   [СОБЕСЕДОВАНИЕ на FRONTEND разработчика JS CSS REACT VUE HTTP. Подготовка к собеседованию](https://www.youtube.com/watch?v=gV6eobXisYU&list=WL&index=2&t=1737s)
 -   https://github.com/YauhenKavalchuk/interview-questions
- 
+ - https://www.youtube.com/watch?v=RLgUEEAgvMg
 ---
 

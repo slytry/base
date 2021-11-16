@@ -2,10 +2,12 @@
 tags: src/Course
 aliases: 
 ---
+## Notes
 https://keycode.info/
 [[Библиотеки]]
-## Notes
-Основное тело записа
+https://www.makeuseof.com/tag/10-tips-writing-cleaner-better-code/
+[Законы космической инженерии, полезные всем инженерам вообще](https://habr.com/ru/post/354936/)
+[Что на самом деле делают программисты? Видео (на английском)](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
 
 # Structure
  - ==The JavaScript language==
@@ -19,7 +21,6 @@ https://keycode.info/
 		 - [[Условия]]
 		 - [[Циклы]]
 		 - [[Функции]]
-		 - [[Callback]]
 		 - [[Методы и свойства строк и чисел]] 
 		 - [[Объекты]]
 		 - [[Масив]]
@@ -28,11 +29,14 @@ https://keycode.info/
 		 - [[Динамическая типизация]]
 		 - [[Object model]]
 		 - [[Методы перебора]]
+	 - Code quality
+		 - [[Отладка в браузере]]
+		 - [[Полифиллы и транспилеры]]
+		 - [[Babel]]
 	 - Objects: the basics
 		 - [[Объект]]
 		 - [[Краткая запись при совпадении свойства и ключа]]
 		 - [[Копирование объектов и ссылки]]
-		 - [[Сборка мусора]]
 		 - [[Методы объекта this]]
 		 - [[Конструкторы, создание объектов через new]]
 		 - [[Классы]]
@@ -40,9 +44,11 @@ https://keycode.info/
 		 - [[Дата и время]]
 		 - [[Формат JSON, метод toJSON Глубокая копия объекта]]
 	 - Advanced working with functions
-		-  [[Spread оператор, rest (ES6-ES9)]]
+		- [[Spread оператор, rest (ES6-ES9)]]
 	 	- [[Время выполнения скрипта setTimeout and setInterval]]
 	 	- [[Дефолтное значение]]
+	- Конфигурация свойств объекта
+		- [[Геттеры и сеттеры]]
 	- Promises, async/await
 		- [[Promise]]
 		- [[Promise API]]
@@ -72,15 +78,18 @@ https://keycode.info/
 		- [[LocalStorage, sessionStorage]]
 	- Network requests
 		- [[Fetch API]]
-	- Regular expressions https://javascript.info/regular-expressions
+	- Regular expressions
 		- [[Patterns and flags]]
 		- [[Классы символов]]
 		- [[Unicode flag 'u' and class p{...}]]
 		- [[Multiline mode of anchors ^ $, flag 'm']]
 		- [[Sticky flag 'y', searching at position]]
-
-
-
+	- Модульность
+		- [[Модульность]]
+		- [[Webpack]]
+	- Отслеживание ошибок
+		- [[try...catch]]
+	
 
 #### Citation
 - [Udemy](https://www.udemy.com/course/javascript_full/) Полный курс по JavaScript + React - с нуля до результата

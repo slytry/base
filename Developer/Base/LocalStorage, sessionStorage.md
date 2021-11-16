@@ -23,5 +23,7 @@ aliases:
 
 ---
 ###### Citation
+https://tproger.ru/articles/localstorage/
 https://javascript.info/localstorage
+http://dev-test.nemikor.com/web-storage/support-test/
 Date: 2021-11-14T08:16
