@@ -2,6 +2,7 @@
 tags: 
 aliases: 
 ---
+[[#Citation|toBottom↓]]
 ## Table of contents
 
 - [[#Guides Git]]
@@ -38,7 +39,7 @@ aliases:
 | git commit --amend -m "Новый текст" | Исправить сообщение комита если ошибся например                                                    |
 | git rm fileName                     | Удалить файл из коммита. Файл был закомичен по ошибке. Он удалится и из папки                      |
 | git rm --cash fileName              | Удалить файл из коммита, но оставить на диске                                                      |
-| git commit --amend --no-edit        | Сделала манипуляции с файлами, но не хотим менять сообщения коммита, просто поменять его.                                                                                                   |
+| git commit --amend --no-edit        | Сделали манипуляции с файлами, но не хотим менять сообщения коммита, просто поменять его.                                                                                                   |
 
 ### Конфликты
 
@@ -156,6 +157,7 @@ HEAD → Указывает на текущее положени
 Курсы
 - [Обучение Git'у и его возможностям](https://githowto.com/ru) 
 - [Интерактивные уроки «Learn Git Branching»](https://learngitbranching.js.org/)
+- [Git Game](https://github.com/git-game/git-game)
 
 Статья
 - [Как склеить коммиты и зачем это нужно](https://htmlacademy.ru/blog/boost/tools/how-to-squash-commits-and-why-it-is-needed)
@@ -171,6 +173,7 @@ HEAD → Указывает на текущее положени
 -   [Atlassian SourceTree.](https://www.sourcetreeapp.com/ "https://www.sourcetreeapp.com/")
 -   [Sublime Merge.](https://www.sublimemerge.com/ "https://www.sublimemerge.com/")
 -   [Tower.](https://www.git-tower.com/ "https://www.git-tower.com/")
+
 Date: 08-10-2021 14:44
 
 

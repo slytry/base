@@ -3,3 +3,7 @@
 2. [Example](https://publish.obsidian.md/mobydiction/notes/_About)
 3. Vault "Workflow"
 4.  [What is PKM? What is Personal Knowledge Management?](https://www.youtube.com/watch?v=Q2WBHyqRsxA&list=PLXRQ6inbDn6fDEicAQglorjczZR7oudPA&index=3&t=15s)  [How I use Obsidian as a Second Brain](https://www.youtube.com/watch?v=uqVx22lo9_4&list=PLXRQ6inbDn6fDEicAQglorjczZR7oudPA&index=2&t=31s)
+5.  [Zettelkasten и Obsidian — лучшие друзья вашей памяти и креативности](https://vc.ru/life/223178-zettelkasten-i-obsidian-luchshie-druzya-vashey-pamyati-i-kreativnosti)
+6.   [Zettelkasten: как один немецкий учёный стал невероятно продуктивным](https://habr.com/ru/post/508672/)
+7.  [Зеттелькастен: как один немецкий учёный стал невероятно продуктивным](https://vonoiral.com/all/zettelkasten/)
+8.  [Как вести умные заметки](https://vc.ru/books/169130-kak-vesti-umnye-zametki)

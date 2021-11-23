@@ -12,8 +12,8 @@ aliases:
 `!` — отрицание
 `+x` — унарный плюс, превращает строку с число. (меняет тип данных)
 
----
-###### Related 
+
 ---
 ###### Citation
+Таблица приорететов операторов - https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 Date: 18:31 18:31

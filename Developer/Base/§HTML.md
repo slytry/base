@@ -1,16 +1,28 @@
-### Вопросы:
 
-[[HTMLBasicEl.]]
+ [5 HTML Tricks Nobody is Talking About](https://javascript.plainenglish.io/5-html-tricks-nobody-is-talking-about-a0480104fe19)
 
-[Критерии качества вёрстки 2021](https://habr.com/ru/company/htmlacademy/blog/566244/)
-1. What the difference are between Relatives and Absolutes path? — [answer](RelativesAbsolutesPath.md)
-3. What the HTTP is? — [answer](Protocols.md)
-4. How to get links better? —  [answer](GoodLinks.md)
-5. What's the difference between GIF, PNG, SVG, and JPG? — [answer](Image%20Formats.md)
-6. How to check HTML syntax? — [MarkupValidator](https://validator.w3.org/)
-7. [[IDsLink]]
-8. [[Semantics HTML]]
-9. [[Ускорение загрузки страницы]]
-10. [[Формы]]
-11. [[Таблицы]]
-12. [[picture]]
+[[Как подготовить вёрстку к Retina-экранам]]
+[[Как использовать ссылки mailto и tel]]
+
+### Качество кода
+- [[Критерии качества вёрстки 2021 чеклист]]
+- [[Влидаторы]]
+- [[Ускорение загрузки страницы]]
+-  [[Semantics HTML]]
+### Синтаксис
+- [[HTMLBasicEl.]]
+- [[RelativesAbsolutesPath]]
+- [[Формы]]
+- [[Таблицы]]
+- [[IDsLink]]
+- [[GoodLinks]]
+### Graphic
+- [[Image Formats]]
+- [[Вставка простой каритки]]
+- [[Значек страницы Favicon]]
+- [[picture одзывчивый дизайн]]
+- [[SVG иконка возле текста]]
+### Курс
+- [[≈  note Design and develop html5 css3]]
+- [[≈  lesson Design and develop html5 css3]]
+

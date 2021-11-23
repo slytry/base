@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 ---
-
+Файловая структура: # [Стартовый шаблон Glivera-Team](http://glivera-team.github.io/structure/2018/07/30/start-template.html)
 ### Tamplates 
 [[Template README by Frontend Mentor]]
 [README-Template.md](https://gist.github.com/timstockford/08c6ce7f142de50a5c50c5e02565c24d)

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6bd13fa50cd8e387",
+        "id": "d602cf880146d992",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Именование.md",
+            "file": "Base/§CSS.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "./",
+                "query": "пше",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Именование.md",
+                "file": "Base/§CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -98,24 +98,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "6bd13fa50cd8e387",
+  "active": "d602cf880146d992",
   "lastOpenFiles": [
-    "Base/Именование.md",
-    "Base/БЭМ.md",
-    "Base/§Essential.md",
     "Base/§CSS.md",
-    "Base/§HTML.md",
-    "Base/URL.md",
-    "Base/_Index.md",
-    "Base/≈ Полный курс по JavaScript + React.md",
-    "Base/Копирование объектов и ссылки.md",
-    "Base/Сборка мусора.md"
+    "Base/Функциональный CSS.md",
+    "Base/blend modes.md",
+    "Base/Типографика.md",
+    "Base/@supports.md",
+    "Base/кастомные селекторы.md",
+    "Base/Переменные.md",
+    "Base/).md",
+    "Base/CSS функция clamp().md",
+    "Base/§JS.md"
   ]
 }

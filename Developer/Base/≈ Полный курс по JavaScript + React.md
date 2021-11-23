@@ -2,14 +2,12 @@
 tags: src/Course
 aliases: 
 ---
-## Notes
-https://keycode.info/
-[[Библиотеки]]
-https://www.makeuseof.com/tag/10-tips-writing-cleaner-better-code/
-[Законы космической инженерии, полезные всем инженерам вообще](https://habr.com/ru/post/354936/)
-[Что на самом деле делают программисты? Видео (на английском)](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
+## Notes ## ==[[Reack]]==
+[[#Citation|toBottom↓]]
 
-# Structure
+Шпаргалка по ES6 - https://www.cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6/pdf_bw/
+ES6 по человечески - https://habr.com/post/305900/
+
  - ==The JavaScript language==
 	 - JavaScript Fundamentals
 		 - [[Способы подключения]]	
@@ -30,6 +28,7 @@ https://www.makeuseof.com/tag/10-tips-writing-cleaner-better-code/
 		 - [[Object model]]
 		 - [[Методы перебора]]
 	 - Code quality
+		 - [10 Tips for Writing Cleaner & Better Code](https://www.makeuseof.com/tag/10-tips-writing-cleaner-better-code/)
 		 - [[Отладка в браузере]]
 		 - [[Полифиллы и транспилеры]]
 		 - [[Babel]]
@@ -47,12 +46,21 @@ https://www.makeuseof.com/tag/10-tips-writing-cleaner-better-code/
 		- [[Spread оператор, rest (ES6-ES9)]]
 	 	- [[Время выполнения скрипта setTimeout and setInterval]]
 	 	- [[Дефолтное значение]]
-	- Конфигурация свойств объекта
+	- Object properties configuration
 		- [[Геттеры и сеттеры]]
+	- Classes
+		- [[Базовый синтаксис класса]]
+	 - Error handling		
+		- [[try...catch]]
 	- Promises, async/await
 		- [[Promise]]
 		- [[Promise API]]
 		- [[Async, await]]
+	- Generators, advanced iteration
+		- [[Функции генераторы]]
+	- Modules
+		- [[Модульность]]
+		- [[Webpack]]
 		
  - ==Browser: Document, Events, Interfaces==
 	 - Document
@@ -73,26 +81,49 @@ https://www.makeuseof.com/tag/10-tips-writing-cleaner-better-code/
 		 - [[Обработка input]]
 	 - Server
 		 - [[AJAX и общение с сервером]]
+	 - Miscellaneous
+		- [[Событийный цикл.   микрозадачи и макрозадания]]
 - ==Additional articles==
+	- [[Иммутабельность]]
 	- Storing data in the browser
 		- [[LocalStorage, sessionStorage]]
 	- Network requests
 		- [[Fetch API]]
+	- Animation
+		- [[JavaScript-анимации]]
 	- Regular expressions
 		- [[Patterns and flags]]
 		- [[Классы символов]]
 		- [[Unicode flag 'u' and class p{...}]]
 		- [[Multiline mode of anchors ^ $, flag 'm']]
 		- [[Sticky flag 'y', searching at position]]
-	- Модульность
-		- [[Модульность]]
-		- [[Webpack]]
-	- Отслеживание ошибок
-		- [[try...catch]]
+	- Tests
+		- [[Aotomatic test]]
+		
+- ==Libraries==
+	- Usage info
+		- [[Библиотеки определение]]
+		- [nisnom поиск бибилиотек](https://nisnom.com/)
+	- List
+		- [[axios]] — AJAX запросы
+		- [[jQuery]] — ну понятно
+		- [[tiny-slider]] — слайдер без jQuery
+		- [[OwlCarousel]] — слайдер с jQuery
+		- [[Slick-slider]] — слайдер с jQuery
+		- [[galleria.js]] — слайдер с jQuery
+		- [[fotorama]] — слайдер с jQuery
+		- [[Leaflet.js]] — карты. Гуг
+		- [[D3.js]] — инфорграфика, графики
+		- [[Three.js]] — 3Д графика
+		- [[Immutable.js]] — готовые механизмя иммутабельености
+		- [[hammerjs]] — для работы с событиями телефона
+		- [[Moment.js]] — все для работы с датами
+		- [[Highlight.js]] — автоматически определяет код в DOM. и подсвечивает его
+		- [[Voca.js]] — гибко и удобно работать со строками
 	
 
 #### Citation
 - [Udemy](https://www.udemy.com/course/javascript_full/) Полный курс по JavaScript + React - с нуля до результата
-
+- https://javascript.info/
 Data: 27-08-2021
  

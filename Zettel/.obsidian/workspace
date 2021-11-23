@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/СилаТеплота.md",
+            "file": "Base/§ Personal knowledge management.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/СилаТеплота.md",
+                "file": "Base/§ Personal knowledge management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/СилаТеплота.md"
+                "file": "Base/§ Personal knowledge management.md"
               }
             }
           }
@@ -112,19 +112,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 189.40000915527344
+    "width": 189.40000915527344,
+    "collapsed": true
   },
   "active": "d367a1427c44da23",
   "lastOpenFiles": [
-    "Base/СилаТеплота.md",
-    "Base/ФизическийДискомфорт.md",
-    "Base/Focused and Diffuse Modes.md",
-    "Templates/CourseOrBook.md",
-    "Templates/Note.md",
-    "Base/≈  Olivia Fox Cabane —  The Charisma Myth.md",
-    "Base/≈   Barbara Oakley — Learning How to Learn.md",
     "Base/§ Personal knowledge management.md",
     "Base/_Symbols.md",
-    "Base/_Index.md"
+    "Base/_Index.md",
+    "Base/_About.md",
+    "Base/ПередачаОтветственности.md",
+    "Base/Донести мысль.md",
+    "Base/Определение.md",
+    "Base/ПреодолениеДискомфорта.md",
+    "Base/СилаТеплота.md",
+    "Base/ФизическийДискомфорт.md"
   ]
 }
