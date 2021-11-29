@@ -24,6 +24,8 @@ CSS анимация позволяет анимировать большинс�
 
 ---
 ###### Citation
-[CSS анимация (CSS animation & @keyframes) // «Фрилансер по жизни»](https://fls.guru/cssanimation.html)
+- [CSS анимация (CSS animation & @keyframes) // «Фрилансер по жизни»](https://fls.guru/cssanimation.html)
 https://www.youtube.com/watch?v=GKgOOuTL0po
+- [Свойства Animation одной таблицей](https://yoksel.github.io/pages/svojstva-animation/)
+- [Css Animation](https://yoksel.github.io/css-animation/)
 Date: 11:21 11:21

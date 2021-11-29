@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "d602cf880146d992",
+        "id": "219ccfd1cc97873e",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Верстка.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "1643ad54408a7f6e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§CSS.md",
+            "file": "Base/Подготовка.md",
             "mode": "source"
           }
         }
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "пше",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,13 +81,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§CSS.md",
+                "file": "Base/Верстка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -99,23 +112,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 333.26690673828125
   },
-  "active": "d602cf880146d992",
+  "active": "219ccfd1cc97873e",
   "lastOpenFiles": [
+    "Base/Верстка.md",
+    "Base/Подготовка.md",
+    "Base/§Essential.md",
+    "Base/§HTML.md",
+    "Base/Семантические  элементы.md",
     "Base/§CSS.md",
-    "Base/Функциональный CSS.md",
-    "Base/blend modes.md",
-    "Base/Типографика.md",
-    "Base/@supports.md",
-    "Base/кастомные селекторы.md",
-    "Base/Переменные.md",
-    "Base/).md",
-    "Base/CSS функция clamp().md",
-    "Base/§JS.md"
+    "Base/tabindex.md",
+    "Base/Формы и валидация.md",
+    "Base/Ускорение загрузки страницы.md",
+    "Base/Критерии качества вёрстки 2021 чеклист.md"
   ]
 }

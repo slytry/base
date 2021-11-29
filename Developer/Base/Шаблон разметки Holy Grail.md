@@ -7,6 +7,8 @@ aliases:
 #### [ Holy Grail Flex](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/)
 ![[Pasted image 20210627144817.png]]
 
+ [holy-grail-markup](https://github.com/VallyPepyako/holy-grail-markup)
+
 ---
 ###### Related 
 ---
