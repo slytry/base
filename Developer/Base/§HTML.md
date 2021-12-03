@@ -10,6 +10,7 @@
 - Формы и валидация
 	- [[Формы и валидация]]
 	- [[Предложения для инпута]]
+	- [Sign-in form best practice](https://www.youtube.com/watch?v=alGcULGtiv8)
 - Ссылки
 	- [[Ссылки]]	
 	- [[GoodLinks]]

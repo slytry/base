@@ -8,7 +8,6 @@ aliases:
 ---
 #### Main
 - [[Сброс стилей]]
-- [Sign-in form best practice](https://www.youtube.com/watch?v=alGcULGtiv8)
 - [[Единицы измерения CSS]]
 - [[Специфичность]]
 - [[Selectors CSS]]
@@ -18,8 +17,9 @@ aliases:
 - [[CSS-фон]]
 - [[Transform]]
 #### Адаптивность
-[10 modern layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU) https://1linelayouts.glitch.me/ https://thecode.media/css-one-line/ https://thecode.media/new-1line-css/
-https://itchief.ru/html-and-css/responsive-design
+- [10 modern layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU) https://1linelayouts.glitch.me/ https://thecode.media/css-one-line/ https://thecode.media/new-1line-css/
+- https://itchief.ru/html-and-css/responsive-design
+- [Новый адаптивный дизайн](https://www.youtube.com/watch?v=dhrX_biPH8c) — ссылка на курсы обучения от гугла. Будущее веба
 - [[Адаптивность с помощью clamp()]]
 - [[The Deconstructed Pancake Подвижные карточки]]
 - [[Отзывчивый и адаптивный дизайн сайта]]
@@ -27,8 +27,13 @@ https://itchief.ru/html-and-css/responsive-design
 - [[Media queries CSS]]
 - [Адаптивное видео с помощью встроенных математических функций CSS](https://yoksel.github.io/adaptive-video-with-css-math/)
 #### Fonts
-[Front End Center — Crafting Webfont Fallbacks](https://www.youtube.com/watch?v=tO01ul1WNW8&t=604s)
-[# Вариативные шрифты (Будущее?)](https://yoksel.github.io/opentype-variable-fonts/)
+- [Front End Center — Crafting Webfont Fallbacks](https://www.youtube.com/watch?v=tO01ul1WNW8&t=604s)
+- [# Вариативные шрифты (Будущее?)](https://yoksel.github.io/opentype-variable-fonts/)
+- [Минимально необходимые шрифты](https://css-live.ru/articles/minimalno-neobxodimye-shrifty.html)
+- [Антипаттерн для веб-шрифтов: Data URI](https://css-live.ru/articles/antipattern-dlya-veb-shriftov-data-uri.html)
+- [Оптимизация шрифтов.](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
+- [REM vs EM – Великий спор](https://habr.com/ru/post/280125/)
+- [Ремы, емы, и почему отказ от них — не проблема.](https://medium.com/devschacht/david-gilbertson-rems-and-ems-and-why-you-probably-dont-need-them-3b2b1e785787)
 - Основа
 	- [[Подключение шрифтов]]	
 	- [[Типографика, свойства]]
@@ -38,7 +43,6 @@ https://itchief.ru/html-and-css/responsive-design
 	- [[Перенос текста]]
 - Шрифты
 	- [[Системный шрифт]]
-	- [[Для сайта портфолио]]
 	- [[15 безопасных шрифтов на подмену]]
 #### Функции
 - [Математические функции в CSS](https://yoksel.github.io/css-math/#restrictions)
@@ -60,6 +64,7 @@ https://itchief.ru/html-and-css/responsive-design
 - [[SVG иконка возле текста]]
 - [Размеры в SVG](https://yoksel.github.io/svg-sizes/)
 #### Расположение
+- [[Блочная модель]]
 - [[Позиционирование]]
 - [[Обтекание]]
 - [[Отображение]]

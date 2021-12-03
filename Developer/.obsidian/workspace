@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "219ccfd1cc97873e",
+        "id": "2ffe14bf57e87a39",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Base/Верстка.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "1643ad54408a7f6e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/Подготовка.md",
             "mode": "source"
           }
         }
@@ -118,17 +105,17 @@
     "direction": "horizontal",
     "width": 333.26690673828125
   },
-  "active": "219ccfd1cc97873e",
+  "active": "2ffe14bf57e87a39",
   "lastOpenFiles": [
     "Base/Верстка.md",
-    "Base/Подготовка.md",
     "Base/§Essential.md",
+    "Base/SVG иконка возле текста.md",
     "Base/§HTML.md",
-    "Base/Семантические  элементы.md",
     "Base/§CSS.md",
-    "Base/tabindex.md",
-    "Base/Формы и валидация.md",
-    "Base/Ускорение загрузки страницы.md",
-    "Base/Критерии качества вёрстки 2021 чеклист.md"
+    "Base/Блочная модель.md",
+    "Base/По центру.md",
+    "Base/Доступность интерфейсов.md",
+    "Base/_Symbols.md",
+    "Base/Подготовка.md"
   ]
 }

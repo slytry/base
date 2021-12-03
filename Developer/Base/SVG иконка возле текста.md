@@ -45,6 +45,12 @@ aliases:
 -  [Styling SVG  `<use>` Content with CSS](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)  — [Перевод](http://prgssr.ru/development/oformlenie-soderzhimogo-use-v-svg-s-pomoshyu-css.html)
 - [Making SVGs Responsive with CSS](http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
 
+### Векторная графика — набор от html academy
+- [Блог Юлии Бухваловой про SVG.](http://css.yoksel.ru/tags/#svg), [Размеры в SVG](http://css.yoksel.ru/svg-sizes/)
+- [SVG в вебе. Практическое руководство.](https://svgontheweb.com/ru/)
+- [Pocket Guide to Writing SVG.](https://svgpocketguide.com/)
+- [Кастомные чекбоксы правильно.](https://www.youtube.com/watch?v=E6kLaaQFctU&t=1514s)
+
 Date: 2021-11-20T21:26
 
 

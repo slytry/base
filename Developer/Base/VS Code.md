@@ -10,7 +10,6 @@ aliases:
 	- [[JSHint]]
 	- Prettier 
 - CSS
-	- CSS Navigation
 	- CSS Peek
 	- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - HTML
