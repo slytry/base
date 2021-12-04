@@ -9,6 +9,9 @@ aliases:
 | ==Дизайн==                                                                                                                                                                                                                                                               | ==Инструменты==                                                                                                                  | ==Dev tools==                                                                                                                                                                                                                | ==Работа==                                                                                                                    |
 | - [[Виды сайтов]]  <br> - [[figma]]  <br> - [Модульная сетка](https://gutdesign.ru/blog/16-modulnaya-setka/)                                                                                                                                                             | <br>- [[VS Code]]	<br>- [[БЭМ]]	<br>- [[GULP]]	<br>- [[JAMstack]]	<br>- [[Bash]]	<br>- [[npm проект]] <br>- [[Сервер локальный]] | - [[Lighthouse]]	<br> - [fsdf](https://developer.chrome.com/tags/devtools/)	<br> - [gfgh](https://developer.chrome.com/docs/devtools/)	<br> - [Новые возможности Chrome](https://www.youtube.com/watch?v=Df2U9-R-OJs&t=380s) | <br> - [[Interview]]	 <br> - [[Зарплата]]                                                                                     |
 
+==Потестировать==
+- [ ] Auto height при position absolute
+- [ ] 
 
 ---
 ###### Citation 

@@ -26,6 +26,7 @@ aliases:
 ### Эллементарный вариант
 - [SVG спрайты](https://snipp.ru/html-css/svg-sprite)
 - [изменение цвета svg при наведении](https://ru.stackoverflow.com/questions/701557/%d0%b8%d0%b7%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d1%86%d0%b2%d0%b5%d1%82%d0%b0-svg-%d0%bf%d1%80%d0%b8-%d0%bd%d0%b0%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b8)
+- [Как вставить](https://only-to-top.ru/blog/coding/2019-06-08-kak-vstavit-svg.html)
 ### Автоматический спрайт
 - [SVG-спрайты Мои предпочтения Николай громов](https://nicothin.pro/page/svg-sprites)
 - [Как мы используем SVG-спрайты(новый способ)](http://glivera-team.github.io/svg/2016/06/13/svg-sprites-2.html) почти одно и тоже [Как я использую SVG-спрайты](https://habr.com/ru/post/272505/)
@@ -50,6 +51,9 @@ aliases:
 - [SVG в вебе. Практическое руководство.](https://svgontheweb.com/ru/)
 - [Pocket Guide to Writing SVG.](https://svgpocketguide.com/)
 - [Кастомные чекбоксы правильно.](https://www.youtube.com/watch?v=E6kLaaQFctU&t=1514s)
+
+### инструменты 
+[Понимание viewbox (Scaling SVG Elements)](https://wattenberger.com/guide/scaling-svg) — тут же ее афигенный сайт [Amelia Wattenberger](https://wattenberger.com/)
 
 Date: 2021-11-20T21:26
 
