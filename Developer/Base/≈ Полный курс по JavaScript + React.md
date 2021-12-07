@@ -91,6 +91,7 @@ ES6 по человечески - https://habr.com/post/305900/
 		- [[Fetch API]]
 	- Animation
 		- [[JavaScript-анимации]]
+		- [[Перезапуск анимации]]
 	- Regular expressions
 		- [[Patterns and flags]]
 		- [[Классы символов]]

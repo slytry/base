@@ -6,11 +6,13 @@
 - [[Категории содержания]]
 - [[Доступность интерфейсов]]
 - [Тестируем всё](http://yoksel.github.io/easy-markup/check-code/)
+- [[Переполнение контентом]]
 ### Синтаксис
 - Формы и валидация
 	- [[Формы и валидация]]
 	- [[Предложения для инпута]]
 	- [Sign-in form best practice](https://www.youtube.com/watch?v=alGcULGtiv8)
+	- [Улучшаем опыт взаимодействия с формами](http://simonenko.su/38146501854/improving-ux-for-web-form)
 - Ссылки
 	- [[Ссылки]]	
 	- [[GoodLinks]]
