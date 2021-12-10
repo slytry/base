@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/_Index.md",
+            "file": "Base/CSS Scroll Snap.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/_Index.md",
+                "file": "Base/CSS Scroll Snap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,11 +100,11 @@
   },
   "active": "f8ee92970efd140a",
   "lastOpenFiles": [
+    "Base/CSS Scroll Snap.md",
     "Base/_Index.md",
     "Base/GIT.md",
     "Base/Transform.md",
     "Base/§CSS.md",
-    "Base/CSS Scroll Snap.md",
     "Base/§JS.md",
     "Base/Grid.md",
     "Base/Кастомный чекбокс или радиобатон.md",
