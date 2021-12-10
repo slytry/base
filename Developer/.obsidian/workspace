@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§HTML.md",
+            "file": "Base/_Index.md",
             "mode": "source"
           }
         }
@@ -39,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "GIT",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§HTML.md",
+                "file": "Base/_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "f8ee92970efd140a",
   "lastOpenFiles": [
-    "Base/§HTML.md",
+    "Base/_Index.md",
+    "Base/GIT.md",
+    "Base/Transform.md",
     "Base/§CSS.md",
-    "Base/Перезапуск анимации.md",
-    "Base/≈ Полный курс по JavaScript + React.md",
+    "Base/CSS Scroll Snap.md",
     "Base/§JS.md",
+    "Base/Grid.md",
     "Base/Кастомный чекбокс или радиобатон.md",
-    "Base/_Symbols.md",
-    "Base/Переполнение контентом.md",
-    "Base/Selectors CSS.md",
-    "Base/§Essential.md"
+    "Base/Доступность интерфейсов.md",
+    "Base/§HTML.md"
   ]
 }

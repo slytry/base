@@ -8,7 +8,9 @@ aliases:
 - [[§JS]]
 - [[§Essential]]
 
+![[_.pdf]]
 
+![[Linux.pdf]]
 [[JavaScript разработка в 2021.pdf#page=1]]
 
 ---

@@ -6,6 +6,7 @@ tags:
 
 ## Notes
 # [12 концепций, которые прокачают ваш JavaScript](https://tproger.ru/translations/javascript-important-concepts/)
+# [БЫСТРЫЙ FRONTEND. Оптимизация. Как писать JAVASCRIPT эффективно?](https://www.youtube.com/watch?v=VNNLNC5h7ZI)
 [Подборка книг для начинающего веб-разработчика](https://tproger.ru/books/web-programming-books-for-beginners/)
 [Топ 5 JS-библиотек для бизнес приложений в 2020-2021](https://tproger.ru/articles/top-5-js-libs-for-business-apps/)
 - [[≈ Полный курс по JavaScript + React]]

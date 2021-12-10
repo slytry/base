@@ -15,7 +15,6 @@ aliases:
 - [[CSS Scroll Snap]]
 - [[Функциональный CSS]]
 - [[CSS-фон]]
-- [[Transform]]
 #### Адаптивность
 - [10 modern layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU) https://1linelayouts.glitch.me/ https://thecode.media/css-one-line/ https://thecode.media/new-1line-css/
 - https://itchief.ru/html-and-css/responsive-design
@@ -57,7 +56,7 @@ aliases:
 #### Animations
 - [[transitions (переходы)]]
 - [[Animation и @keyframes]]
-- [[transform]]
+- [[Transform]]
 - [[Motion Path]]
 #### Graphic
 - [[Настройка картинки]]
