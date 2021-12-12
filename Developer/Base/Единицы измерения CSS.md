@@ -17,5 +17,6 @@ aliases:
 ###### Citation
 https://tpverstak.ru/css-units-part-1/
 - [Единицы размеров в CSS](https://yoksel.github.io/size-units/)
+- [Are you using the right CSS units?](https://www.youtube.com/watch?v=N5wpD9Ov_To&list=WL&index=5&t=33s)
 Date: 06-10-2021 22:10 
 

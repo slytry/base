@@ -23,5 +23,6 @@ aliases: Flexbox flexbox flex
 - [Полное руководство по флексбоксам.](http://frontender.info/a-guide-to-flexbox/)
 - [Solved by flexbox.](http://philipwalton.github.io/solved-by-flexbox)
 - [Flexbox playground.](http://codepen.io/enxaneta/full/adLPwv/)
+- [Flexbox design patterns you can use in your projects](https://www.youtube.com/watch?v=vQAvjof1oe4&list=WL&index=2)
 Date: 03-10-2021 13:45
 

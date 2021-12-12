@@ -2,6 +2,8 @@
 tags: 
 aliases: 
 ---
+
+
 Файловая структура: # [Стартовый шаблон Glivera-Team](http://glivera-team.github.io/structure/2018/07/30/start-template.html)
 ### Tamplates 
 [[Template README by Frontend Mentor]]
@@ -11,6 +13,7 @@ aliases:
 
 ---
 ###### Citation
+- [Делать GIF](https://ezgif.com/)
 
 
 
