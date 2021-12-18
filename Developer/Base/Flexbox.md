@@ -24,5 +24,6 @@ aliases: Flexbox flexbox flex
 - [Solved by flexbox.](http://philipwalton.github.io/solved-by-flexbox)
 - [Flexbox playground.](http://codepen.io/enxaneta/full/adLPwv/)
 - [Flexbox design patterns you can use in your projects](https://www.youtube.com/watch?v=vQAvjof1oe4&list=WL&index=2)
+- [ # 11 вещей которые я узнал, читая спецификацию flexbox](https://habr.com/ru/post/329820/) 
 Date: 03-10-2021 13:45
 

@@ -15,7 +15,8 @@ aliases:
 | VW / VH    | Это единицы измерения которые относятся к размеру экрана устройства. Все те значения, которые начинаются с буквы V, имеют в себе сокращение слова с английского «viewport» (пер. на русский «область просмотра»). Итак:<br>-   vh = 1/100 высоты области просмотра<br>-   vw = 1/100 ширины области просмотра <br>-   vmin = 1/100 наименьших высоты или ширины области просмотра <br> -   vmax = 1/100 наибольших высоты или ширины области просмотра | Когад надо чтобы шрифт менялся вместе с размером окна                                                                                                              
 
 ###### Citation
-https://tpverstak.ru/css-units-part-1/
+- https://tpverstak.ru/css-units-part-1/
+- [Единицы измерения CSS для font-size: px, %, em, rem, vw, vh, vmin, vmax](https://tpverstak.ru/css-units-part-1/)
 - [Единицы размеров в CSS](https://yoksel.github.io/size-units/)
 - [Are you using the right CSS units?](https://www.youtube.com/watch?v=N5wpD9Ov_To&list=WL&index=5&t=33s)
 Date: 06-10-2021 22:10 

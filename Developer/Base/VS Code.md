@@ -3,7 +3,7 @@ tags:
 aliases: 
 ---
 - ### [[Settings]]
-- ### [[Hotkeys]]
+- ### [[HotkeysVSCode]]
 ### Extensions list
 - Lint
 	- [[ESLint]]

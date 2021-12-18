@@ -9,6 +9,8 @@
 Основное тело записа
 
 
-#### Citation
-Data: {{Date}}
-Источник
+---
+###### Related 
+---
+###### Citation
+{{date}} {{time}}

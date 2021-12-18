@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d367a1427c44da23",
+        "id": "91a3036f5902d022",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/§ Personal knowledge management.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -60,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412
+    "width": 285,
+    "collapsed": true
   },
   "right": {
     "id": "024ec4921ab359ba",
@@ -76,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§ Personal knowledge management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/§ Personal knowledge management.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -115,8 +110,9 @@
     "width": 189.40000915527344,
     "collapsed": true
   },
-  "active": "d367a1427c44da23",
+  "active": "91a3036f5902d022",
   "lastOpenFiles": [
+    "Base/§¶ FCodex. Любовь приходит и уходит, а кушать хочется всегда..md",
     "Base/§ Personal knowledge management.md",
     "Base/_Symbols.md",
     "Base/_Index.md",
@@ -125,7 +121,6 @@
     "Base/Донести мысль.md",
     "Base/Определение.md",
     "Base/ПреодолениеДискомфорта.md",
-    "Base/СилаТеплота.md",
-    "Base/ФизическийДискомфорт.md"
+    "Base/СилаТеплота.md"
   ]
 }

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f8ee92970efd140a",
+        "id": "0bea57d88c788699",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Сброс стилей.md",
-            "mode": "preview"
+            "file": "Base/§CSS.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GIT",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Сброс стилей.md",
+                "file": "Base/§CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "width": 333.26690673828125,
     "collapsed": true
   },
-  "active": "f8ee92970efd140a",
+  "active": "0bea57d88c788699",
   "lastOpenFiles": [
-    "Base/Сброс стилей.md",
     "Base/§CSS.md",
-    "Base/Верстка.md",
-    "Base/БЭМ.md",
+    "Base/Размеры SVG.md",
+    "Base/Настройка картинки.md",
+    "Base/Отзыачивые картинки (оптимизация инфакт).md",
+    "Base/SVG иконка возле текста.md",
+    "Base/Функциональный CSS.md",
     "Base/§Essential.md",
-    "Base/Подготовка.md",
-    "Base/_Symbols.md",
-    "Base/Единицы измерения CSS.md",
-    "Base/Flexbox.md",
-    "Base/GIT.md"
+    "Base/Селекторы CSS.md",
+    "Base/Оптимизация растровых изображений.md",
+    "Base/picture одзывчивый дизайн.md"
   ]
 }
