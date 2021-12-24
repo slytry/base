@@ -18,4 +18,6 @@ aliases:
 [Favicon](https://snipp.ru/html-css/favicon)
 [Как изменить Favicon сайта из JavaScript](https://snipp.ru/jquery/replace-favicon)
 https://coderoad.ru/23849377/HTML-5-Favicon-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0
+- [Favicon Generator](https://realfavicongenerator.net/)
+- [xiconeditor](https://www.xiconeditor.com/)
 Date: 2021-11-20T19:08
