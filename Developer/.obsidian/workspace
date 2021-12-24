@@ -10,8 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Base/GULP.md",
-            "mode": "source",
-            "source": false
+            "mode": "source"
           }
         }
       }
@@ -102,14 +101,14 @@
   "active": "1a2225fa8bc6cd56",
   "lastOpenFiles": [
     "Base/GULP.md",
+    "Base/Как удалить npm модулей в Node.js.md",
     "Base/Сборка стилей gulp.md",
+    "Base/Потоки Vinyl FS.md",
+    "Base/Полезные команды gulp.md",
     "Base/§CSS.md",
     "Base/§JS.md",
     "Base/≈ Полный курс по JavaScript + React.md",
     "Base/Структура файлов.md",
-    "Base/Установка gulp.md",
-    "Base/§Essential.md",
-    "Base/§HTML.md",
-    "Base/Потоки Vinyl FS.md"
+    "Base/§Essential.md"
   ]
 }

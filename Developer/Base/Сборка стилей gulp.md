@@ -20,35 +20,6 @@ npm i --save-dev gulp-sass gulp-sass-bulk-importer gulp-autoprefixer gulp-csso g
 ```js
 'use strict';
 
-const gulp = require('gulp'),
-	gulpIf = require('gulp-if'),
-	del = require('del'),
-	sass = require('gulp-sass')(require('sass')),
-	maps = require('gulp-sourcemaps'),
-	csso = require('gulp-csso');
-
-	const isDevelopment = !process.env.NODE_ENV || process.env.NODE_ENV == 'development';
-
-gulp.task('scss', function () {
-	return gulp.src('src/scss/*.scss')
-	.pipe(gulpIf(isDevelopment, maps.init()))
-	.pipe(sass())
-	.pipe(gulpIf(isDevelopment, maps.write()))
-	.pipe(gulp.dest('public/css'));
-});
-
-gulp.task('clean', function () {
- return del('public');
-});
-
-gulp.task('assets', function () {
- return gulp.src('src/assets/**') 
- .pipe(gulp.dest('public'));
-});
-
-
-
-gulp.task('build', gulp.series('clean', gulp.parallel('scss', 'assets')));
 ```
 
 

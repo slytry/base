@@ -4,9 +4,42 @@ aliases:
 ---
 GULP - система для написания произвольных задач
 ### Гайды
-- [[Установка gulp]]
+[[Как удалить npm модулей в Node.js]]
+Установка:
+```
+npm i --save-dev gulp-sass gulp-sass-bulk-importer gulp-autoprefixer gulp-csso gulp-concat gulp-sourcemaps
+```
+
+- [[Полезные команды gulp]]
 - [[Потоки Vinyl FS]]
 - [[Сборка стилей gulp]]
+a	
+### Сборка стилейq
+- Препроцессор [Gulp-sass](https://www.npmjs.com/package/gulp-sass), [sass]()
+- Чтобы в DevTools было понятно, из какого файла взялись стили [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
+- Чтобы scss-файлы можно было импортировать не по одному, а целыми директориями [gulp-sass-bulk-importer](https://www.npmjs.com/package/gulp-sass-bulk-importer)
+- Для автоматической расстановки префиксов [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
+- Минификация, очистки лишнего CSS [gulp-csso](https://www.npmjs.com/package/gulp-csso) ([CSS Minification Benchmark](http://goalsmashers.github.io/css-minification-benchmark/))
+
+
+Установка:
+```
+npm i --save-dev gulp-sass gulp-sass-bulk-importer gulp-autoprefixer gulp-csso gulp-concat gulp-sourcemaps
+```
+
+Конфигурация 
+```js
+'use strict';
+
+```
+
+
+---
+###### Citation
+- [Насnройка GULP + Babel](https://only-to-top.ru/blog/tools/2019-10-20-gulp-babel.html)
+-  [Web app generator](https://github.com/yeoman/generator-webapp)
+- [Глубокая настройка watch](https://learn.javascript.ru/screencast/gulp#gulp-watch-perf)
+
 ### Плагины
 ##### Общие
 - [gulp-if](https://www.npmjs.com/package/gulp-if) добавляем условия чтобы делать сборки без карты 
@@ -32,10 +65,10 @@ GULP - система для написания произвольных зад�
 - Шаблонизация HTML [gulp-posthtml](https://www.npmjs.com/package/gulp-posthtml)  и [posthtml-include](https://www.npmjs.com/package/posthtml-include)
 - Сборка SVG-спрайтов [gulp-svgstore](https://www.npmjs.com/package/gulp-svgstore)
 
-
----
-###### Citation
-- [Насnройка GULP + Babel](https://only-to-top.ru/blog/tools/2019-10-20-gulp-babel.html)
--  [Web app generator](https://github.com/yeoman/generator-webapp)
-- [Глубокая настройка watch](https://learn.javascript.ru/screencast/gulp#gulp-watch-perf)
+Плагины
+- Препроцессор [Gulp-sass](https://www.npmjs.com/package/gulp-sass), [sass]()
+- Чтобы в DevTools было понятно, из какого файла взялись стили [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
+- Чтобы scss-файлы можно было импортировать не по одному, а целыми директориями [gulp-sass-bulk-importer](https://www.npmjs.com/package/gulp-sass-bulk-importer)
+- Для автоматической расстановки префиксов [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
+- Минификация, очистки лишнего CSS [gulp-csso](https://www.npmjs.com/package/gulp-csso) ([CSS Minification Benchmark](http://goalsmashers.github.io/css-minification-benchmark/))
 Date: 2021-11-18T15:58
