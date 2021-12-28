@@ -11,19 +11,7 @@ aliases:
 
 
 
-Установка:
-```
-npm i --save-dev gulp-sass gulp-sass-bulk-importer gulp-autoprefixer gulp-csso gulp-concat gulp-sourcemaps
-```
-
-Конфигурация 
-```js
-'use strict';
-
-```
-
-
 ---
 ###### Citation
-
 Date: 2021-12-22T10:19
+

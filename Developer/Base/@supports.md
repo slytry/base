@@ -11,7 +11,5 @@ aliases:
 ```
 
 ---
-###### Related 
----
 ###### Citation
 Date: 2021-11-23T12:35

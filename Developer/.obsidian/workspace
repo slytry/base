@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a2225fa8bc6cd56",
+        "id": "ae4d3ddf0efbf6da",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/GULP.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/GULP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +94,17 @@
     "width": 333.26690673828125,
     "collapsed": true
   },
-  "active": "1a2225fa8bc6cd56",
+  "active": "ae4d3ddf0efbf6da",
   "lastOpenFiles": [
     "Base/GULP.md",
-    "Base/Как удалить npm модулей в Node.js.md",
-    "Base/Сборка стилей gulp.md",
-    "Base/Потоки Vinyl FS.md",
-    "Base/Полезные команды gulp.md",
-    "Base/§CSS.md",
-    "Base/§JS.md",
+    "Base/Очистка и сервер gulp.md",
+    "Base/Установка gulp.md",
+    "Base/Функции.md",
     "Base/≈ Полный курс по JavaScript + React.md",
-    "Base/Структура файлов.md",
-    "Base/§Essential.md"
+    "Base/§JS.md",
+    "Base/ESLint.md",
+    "Base/VS Code.md",
+    "Base/Settings.md",
+    "Base/Path Intellisense.md"
   ]
 }

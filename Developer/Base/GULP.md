@@ -2,36 +2,35 @@
 tags: 
 aliases: 
 ---
-GULP - система для написания произвольных задач
-### Гайды
-[[Как удалить npm модулей в Node.js]]
-Установка:
+### Установка:
 ```
-npm i --save-dev gulp-sass gulp-sass-bulk-importer gulp-autoprefixer gulp-csso gulp-concat gulp-sourcemaps
+npm i -g gulp-cli sass
 ```
 
-- [[Полезные команды gulp]]
-- [[Потоки Vinyl FS]]
-- [[Сборка стилей gulp]]
-a	
-### Сборка стилейq
-- Препроцессор [Gulp-sass](https://www.npmjs.com/package/gulp-sass), [sass]()
-- Чтобы в DevTools было понятно, из какого файла взялись стили [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
-- Чтобы scss-файлы можно было импортировать не по одному, а целыми директориями [gulp-sass-bulk-importer](https://www.npmjs.com/package/gulp-sass-bulk-importer)
-- Для автоматической расстановки префиксов [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
-- Минификация, очистки лишнего CSS [gulp-csso](https://www.npmjs.com/package/gulp-csso) ([CSS Minification Benchmark](http://goalsmashers.github.io/css-minification-benchmark/))
-
-
-Установка:
 ```
-npm i --save-dev gulp-sass gulp-sass-bulk-importer gulp-autoprefixer gulp-csso gulp-concat gulp-sourcemaps
+npm i -D gulp
+gulp-sass gulp-sass-bulk-importer gulp-autoprefixer gulp-csso gulp-concat 
 ```
+### Общий набор
+- [[Производительность и отслеживание]]
 
-Конфигурация 
-```js
-'use strict';
+**Расширение функционала**
+- [del]() удаления папок
+- [gulp-if](https://www.npmjs.com/package/gulp-if) добавляем условия чтобы делать сборки без карты 
+- [gulp-replace](https://www.npmjs.com/package/gulp-replace) для замены путей
 
-```
+**Работа с ошибкой**
+- [[Отлов ошибки ]]
+-  [gulp-debug]() дебагер
+
+#### Задачи
+- [[Установка gulp]]
+- [[Очистка и сервер gulp]]
+- [[Разметка gulp]]
+- [[Стили gulp]]
+- [[Синхронизация с браузером gulp]]
+- [[Графика gulp]]
+- [[JS gulp]]
 
 
 ---
@@ -39,36 +38,4 @@ npm i --save-dev gulp-sass gulp-sass-bulk-importer gulp-autoprefixer gulp-csso g
 - [Насnройка GULP + Babel](https://only-to-top.ru/blog/tools/2019-10-20-gulp-babel.html)
 -  [Web app generator](https://github.com/yeoman/generator-webapp)
 - [Глубокая настройка watch](https://learn.javascript.ru/screencast/gulp#gulp-watch-perf)
-
-### Плагины
-##### Общие
-- [gulp-if](https://www.npmjs.com/package/gulp-if) добавляем условия чтобы делать сборки без карты 
-- [gulp-debug]() дебагер
-- [run-sequence](https://www.npmjs.com/package/run-sequence) Последовательный запуск плагинов 
-- [del](https://www.npmjs.com/package/del) удаление файлов
-- [gulp-concat](https://www.npmjs.com/package/gulp-concat) для конкатинации ("склеивания" файлов вместе) 
-- [gulp-notify](https://learn.javascript.ru/screencast/gulp#gulp-errors) помогает отлавливать ошибки, присылает уведомление
-- [gulp-plumber](https://learn.javascript.ru/screencast/gulp#gulp-errors) вешает обработчик ошибки на все потоки
-- [combiner](https://learn.javascript.ru/screencast/gulp#gulp-errors) вешает обработчик ошибки на все потоки  другой способ
-
-##### Производительность и отслеживание
-- [gulp-newer]() убирает лишнее копирование не изменившихся файлов
-- [gulp-remember]() кэширует проходящие сквозь файлы. Нужно когда мы следим за файлами и пересобираем только изменившиеся через since, но дальше используем конкат, очевидно что склеится должны старые файлы тоже
-- [gulp-cached]() исключает одинаковые файлы. Если мы удалили файл, а потом вернули через ctr+z, его не увидит сборщик. (обычно используется since last run)
-- [gulp-cache]() кэширует результат обработки на диск
-- [browserSync](https://learn.javascript.ru/screencast/gulp#gulp-browsersync) обновляет браузер
-
-##### Изображения
-- Оптимизация изображений [gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin)
-- Конвертация изображений в формате webp [gulp-webp](https://www.npmjs.com/package/gulp-webp)
-- Переименование файлов [gulp-rename](https://www.npmjs.com/package/gulp-rename)
-- Шаблонизация HTML [gulp-posthtml](https://www.npmjs.com/package/gulp-posthtml)  и [posthtml-include](https://www.npmjs.com/package/posthtml-include)
-- Сборка SVG-спрайтов [gulp-svgstore](https://www.npmjs.com/package/gulp-svgstore)
-
-Плагины
-- Препроцессор [Gulp-sass](https://www.npmjs.com/package/gulp-sass), [sass]()
-- Чтобы в DevTools было понятно, из какого файла взялись стили [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
-- Чтобы scss-файлы можно было импортировать не по одному, а целыми директориями [gulp-sass-bulk-importer](https://www.npmjs.com/package/gulp-sass-bulk-importer)
-- Для автоматической расстановки префиксов [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
-- Минификация, очистки лишнего CSS [gulp-csso](https://www.npmjs.com/package/gulp-csso) ([CSS Minification Benchmark](http://goalsmashers.github.io/css-minification-benchmark/))
 Date: 2021-11-18T15:58
