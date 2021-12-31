@@ -9,14 +9,13 @@ npm i -g gulp-cli sass
 
 ```
 npm i -D gulp
-gulp-sass gulp-sass-bulk-importer gulp-autoprefixer gulp-csso gulp-concat 
 ```
 ### Общий набор
 - [[Производительность и отслеживание]]
 
 **Работа с ошибкой**
 - [[Отлов ошибки ]]
--  [gulp-debug]() дебагер
+
 
 **Задачи**
 - [[Установка gulp]]

@@ -2,6 +2,8 @@
 tags: 
 aliases: 
 ---
+В webp эффективнее преобразовывать уже сжатые файлы
+
 ##### Изображения
 - Оптимизация изображений [gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin)
 - Конвертация изображений в формате webp [gulp-webp](https://www.npmjs.com/package/gulp-webp)

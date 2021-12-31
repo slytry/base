@@ -14,7 +14,14 @@ npm i -D gulp
 
 #### Чтобы все заработало надо babel
 1. Установить babel и пресет для работы последнего ES
-`npm i -D @babel/core @babel/register @babel/preset-env`
+```
+npm i -D @babel/core @babel/register @babel/preset-env
+```
+
+```
+npm  r -S @babel/core @babel/register @babel/preset-env
+```
+
 2. Добавить пресет в package.json
 ```json
 "babel": {
@@ -32,7 +39,7 @@ npm i -D gulp
 4. Добавить брузерлист
 ```json
  "browserslist": [
-    "> 1%",
+    "> 3%",
     "last 2 versions",
     "not dead",
     "not IE 11"
