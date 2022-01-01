@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/VS Code.md",
+            "file": "Base/Стартовый проект.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/VS Code.md",
+                "file": "Base/Стартовый проект.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "ae4d3ddf0efbf6da",
   "lastOpenFiles": [
-    "Base/VS Code.md",
+    "Base/Стартовый проект.md",
+    "Base/Установка gulp.md",
     "Base/GULP.md",
+    "Base/VS Code.md",
     "Base/Версия для продакшина gulp.md",
     "Base/Производительность и отслеживание.md",
     "Base/Очистка и сервер gulp.md",
-    "Base/Установка gulp.md",
     "Base/Функции.md",
     "Base/≈ Полный курс по JavaScript + React.md",
-    "Base/§JS.md",
-    "Base/ESLint.md"
+    "Base/§JS.md"
   ]
 }
