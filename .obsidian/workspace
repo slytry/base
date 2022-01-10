@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "e12bc71b067bf6f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b698de5b0667825",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Developer/Base/GIT.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f8637df7e79f37b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8503a7af3b42eb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7224e6f648861579",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "49fbf40140371840",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266
+  },
+  "right": {
+    "id": "4a00660eee3430c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "966ffce947145737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d48c8409c39a0db7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Developer/Base/GIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6b698de5b0667825",
+  "lastOpenFiles": [
+    "Developer/Base/GIT.md",
+    "Developer/Base/_About.md",
+    "Developer/Base/_Index.md"
+  ]
+}
