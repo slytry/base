@@ -3,7 +3,7 @@
     - [[≈  Olivia Fox Cabane —  The Charisma Myth]]
 
 ## Learning and metacognition
-- [[§ Personal knowledge management]]
+- [[§ Персональная база знаний]]
     - [[§ Zettelkasten]]
 
 
@@ -14,4 +14,5 @@
 - [[≈  Olivia Fox Cabane —  The Charisma Myth]]
 
 ## Relationship
-- [[§¶ FCodex. Любовь приходит и уходит, а кушать хочется всегда.]]
+- [[≈  FCodex. Любовь приходит и уходит, а кушать хочется всегда.]]
+---

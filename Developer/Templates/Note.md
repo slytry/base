@@ -1,9 +1,10 @@
 ---
-tags: 
-aliases: 
+aliases: null
+date created: {{date:YYYY-MM-DD}} {{time:HH:mm}}
+date updated:
 ---
 
-
 ---
+
 ###### Citation
-Date: {{date:YYYY-MM-DD}}T{{time:HH:mm}}
+

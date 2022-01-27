@@ -6,7 +6,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Base",
   "attachmentFolderPath": "Files",
-  "showLineNumber": false,
+  "showLineNumber": true,
   "readableLineLength": false,
   "pdfExportSettings": {
     "pageSize": "A4",
@@ -14,6 +14,10 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "legacyEditor": false,
-  "livePreview": true
+  "legacyEditor": true,
+  "livePreview": true,
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview"
 }

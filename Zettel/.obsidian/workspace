@@ -7,8 +7,12 @@
         "id": "91a3036f5902d022",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/≈   Barbara Oakley — Learning How to Learn.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285,
-    "collapsed": true
+    "width": 285
   },
   "right": {
     "id": "024ec4921ab359ba",
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/≈   Barbara Oakley — Learning How to Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,27 +104,37 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Base/≈   Barbara Oakley — Learning How to Learn.md"
+              }
+            }
+          },
+          {
+            "id": "f7c72d84ffeb6a76",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 189.40000915527344,
-    "collapsed": true
+    "width": 189.40000915527344
   },
   "active": "91a3036f5902d022",
   "lastOpenFiles": [
-    "Base/§¶ FCodex. Любовь приходит и уходит, а кушать хочется всегда..md",
-    "Base/§ Personal knowledge management.md",
-    "Base/_Symbols.md",
-    "Base/_Index.md",
-    "Base/_About.md",
-    "Base/ПередачаОтветственности.md",
-    "Base/Донести мысль.md",
-    "Base/Определение.md",
-    "Base/ПреодолениеДискомфорта.md",
-    "Base/СилаТеплота.md"
+    "Base/≈   Barbara Oakley — Learning How to Learn.md",
+    "Templates/_CourseOrBook.md",
+    "Templates/Note.md",
+    "Base/≈  Olivia Fox Cabane —  The Charisma Myth.md",
+    "Base/≈ Максим Ильяхов — Пиши, сокращай.md",
+    "Daily/2021-05-20.md",
+    "Daily/2022-01-17.md",
+    "Base/Что делать после изучения материала.md",
+    "Base/§ Обучение.md",
+    "Base/§ Стоицизм.md"
   ]
 }

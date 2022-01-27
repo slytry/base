@@ -5,5 +5,13 @@
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "Files",
   "promptDelete": false,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "legacyEditor": false,
+  "livePreview": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "readableLineLength": false
 }
