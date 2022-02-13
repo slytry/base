@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Объект функции, NFE.md",
+            "file": "Base/2022-01-10 Anderson (JavaScript Developer Trainee).md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358
+    "width": 369.0121879577637
   },
   "right": {
     "id": "88cf98ba5953234b",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Объект функции, NFE.md",
+                "file": "Base/2022-01-10 Anderson (JavaScript Developer Trainee).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             }
           },
           {
-            "id": "caf056601d265fa3",
+            "id": "577c4502a7df8c13",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -108,15 +108,15 @@
   },
   "active": "3c7eb7e2b18eeb9a",
   "lastOpenFiles": [
-    "Base/Объект функции, NFE.md",
-    "Base/Теория JavaScript.md",
-    "Base/Глобальный объект.md",
-    "Base/Устаревшее ключевое слово var.md",
-    "Base/Variables Scopes Hoisting Closures.md",
-    "Base/Interview.md",
-    "Base/2022-01-10 Anderson JavaScript Developer Trainee.md",
-    "Base/2022-01-26 Justice IT Стажер React.js разработчик.md",
-    "Base/Замыкание.md",
-    "Base/§JS.md"
+    "Base/2022-01-10 Anderson (JavaScript Developer Trainee).md",
+    "Base/Основные команды.md",
+    "Base/GIT.md",
+    "Base/Модульный CSS.md",
+    "Base/Reack.md",
+    "Base/Хакки.md",
+    "Base/§JS.md",
+    "Base/§Essential.md",
+    "Base/§HTML.md",
+    "Base/Компоненты.md"
   ]
 }

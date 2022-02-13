@@ -14,5 +14,13 @@
       ],
       "key": "T"
     }
+  ],
+  "markdown-prettifier:markdown-prettifier-update-fields": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }

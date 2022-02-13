@@ -3,12 +3,31 @@ aliases: null
 date updated: 2022-01-25 10:45
 ---
 
-[[react virtual  tree (Virtual DOM)]]
-[[Хуки]]
-### Полезности
+### Основное
+- [[Для чего нужен реакт]]
+- [[react virtual  tree (Virtual DOM)]]
+- [[JSX]]
+- [[Компоненты]]
+- [[Хакки]]
 
-<https://learn-reactjs.ru/home>
 
+### ХУКИ
+- [[хуки]]
+- [[useState  Хук состояния]]
+- [[useEffect Хук эффекта]]
+- [[useRef]]
+- [[useMemo]]
+- [[useCallback]]
+- [[useContext]]
+- [[Создание хуков]]
+- [[useReducer]]
+
+### Стиль
+- [[Модульный CSS]]
+
+### Ссылки
+[Линтер против неправильного использовани хуков](https://www.npmjs.com/package/eslint-plugin-react-hooks)
+[Документация](https://ru.reactjs.org/docs/getting-started.html)
 - Стоит почитать про React - <http://css-live.ru/articles/na-osvoenie-react-mne-potrebovalas-vsego-nedelya-a-chem-vy-xuzhe.html>
 - Введение в реактивное программирование RX потоки <https://habr.com/company/arcadia/blog/432004/>
 - formik (forms in React)<https://jaredpalmer.com/formik>
