@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "b5d80aa18459a8ea",
+    "id": "5e187c26c0b1be1e",
     "type": "split",
     "children": [
       {
-        "id": "c87ae1011bdf8d26",
+        "id": "e1a7b63fa8228449",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§JS.md",
+            "file": "Base/2022-01-10 Anderson (JavaScript Developer Trainee).md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3581af1e136210ca",
+    "id": "4d9b2ea17df28e08",
     "type": "split",
     "children": [
       {
-        "id": "ee0a4f3c4d6d98de",
+        "id": "e3d2e0db5802cdb4",
         "type": "tabs",
         "children": [
           {
-            "id": "2f96ceed6d6c1657",
+            "id": "f041be491c85ae25",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "b4a7e70531d5d29d",
+            "id": "b7ca2082392ab265",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "0f46c0e291bf8093",
+    "id": "792b6826471edb39",
     "type": "split",
     "children": [
       {
-        "id": "a202650364aba0cb",
+        "id": "ec4c382797745112",
         "type": "tabs",
         "children": [
           {
-            "id": "f289c044c8c6acbe",
+            "id": "58bb3090e70037e3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§JS.md",
+                "file": "Base/2022-01-10 Anderson (JavaScript Developer Trainee).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "9cf1684173df6dda",
+            "id": "2958e6113aba0190",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -98,17 +98,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c87ae1011bdf8d26",
+  "active": "e1a7b63fa8228449",
   "lastOpenFiles": [
-    "Base/§JS.md",
+    "Base/2022-01-10 Anderson (JavaScript Developer Trainee).md",
+    "Base/Pasted image 20220215200821.png.md",
+    "Base/15 безопасных шрифтов на подмену.md",
     "Base/§Next.js.md",
-    "Base/§Node.js.md",
-    "Base/§React.md",
-    "Base/§TypeScript.md",
-    "Base/§HTML.md",
-    "Base/§Essential.md",
-    "Base/§Enviroment.md",
-    "Base/§CSS.md",
-    "Base/Для чего нужен Next и что это такое.md"
+    "Base/§JS.md"
   ]
 }
