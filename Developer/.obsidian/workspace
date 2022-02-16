@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Для чего нужен Next и что это такое.md",
+            "file": "Base/§JS.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Для чего нужен Next и что это такое.md",
+                "file": "Base/§JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "c87ae1011bdf8d26",
   "lastOpenFiles": [
-    "Base/Для чего нужен Next и что это такое.md",
+    "Base/§JS.md",
     "Base/§Next.js.md",
     "Base/§Node.js.md",
-    "Base/§TypeScript.md",
     "Base/§React.md",
-    "Base/§JS.md",
-    "Base/_Symbols.md",
-    "Base/_Index.md",
+    "Base/§TypeScript.md",
+    "Base/§HTML.md",
+    "Base/§Essential.md",
     "Base/§Enviroment.md",
-    "Base/§CSS.md"
+    "Base/§CSS.md",
+    "Base/Для чего нужен Next и что это такое.md"
   ]
 }
