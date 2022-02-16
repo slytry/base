@@ -2,11 +2,10 @@
 tags: 
 aliases: 
 ---
-
+https://css-tricks.com/approaches-media-queries-sass/
 
 
 ---
 ###### Citation
-https://habr.com/ru/post/513626/
 Date: 12:05 12:05
 

@@ -14,7 +14,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "legacyEditor": true,
+  "legacyEditor": false,
   "livePreview": true,
   "showFrontmatter": false,
   "foldHeading": true,

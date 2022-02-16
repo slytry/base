@@ -5,7 +5,6 @@ date updated: 2022-01-25 10:46
 ## Theory
 
 - [[Теория JavaScript]]
-- [[Reack]]
 
 ## Modules
 

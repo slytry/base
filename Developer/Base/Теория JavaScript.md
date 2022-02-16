@@ -59,7 +59,7 @@ date updated: 2022-01-23 11:33
 - [[Spread оператор, rest (ES6-ES9)]]
 - [[Время выполнения скрипта setTimeout and setInterval]]
 - [[Дефолтное значение]]
-- [['Temporal Dead Zone' in JavaScript]] ==перед собесом==
+- [[Temporal Dead Zone' in JavaScript]] ==перед собесом==
 - [[Variables Scopes Hoisting Closures]] ==перед собесом==
 - [[Function Hoisting]]
 - https://www.freecodecamp.org/news/es6-functions-9f61c72b1e86/
