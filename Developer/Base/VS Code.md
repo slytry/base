@@ -9,7 +9,7 @@ aliases:
 	- Prettier 
 - CSS
 	- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
-	- eCSStractor for VSCode 
+	- [[eCSStractor for VSCode ]]
 - HTML
 	- BEM Helper
 - Tools

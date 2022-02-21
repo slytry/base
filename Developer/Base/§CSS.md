@@ -75,18 +75,28 @@ aliases:
 - [[Отображение]]
 - [[Grid]]
 - [[Flexbox]]
-<br>
-#### Прочее
+
+#### Sass
+- Общее
+	- [[Основы Sass]]
+	- [[Медиазапросы в SCSS]]
+	- [CSS-препроцессоры против CSS](https://nicothin.pro/page/css-preprocessors)
+	- [[Организация кнопок на сайте с помощью Sass]]
+	
+- Модули
+	- [[scss @use]]
+	- [[scss @forward]]
+	- [[scss @import]]
+	- [[Приватные свойства]]
+	- [[index файлы в scss]]
+
+### Прочее
 - #### Questions
 	- [[Блок на весь экран]]
 	- [[По центру]]
 	- [[Кастомный чекбокс или радиобатон]]
 	- [[Шаблон разметки Holy Grail]]
-- #### Sass
-	- [[Основы Sass]]
-	- [[Медиазапросы в SCSS]]
-	- [CSS-препроцессоры против CSS](https://nicothin.pro/page/css-preprocessors)
-	- [[Организация кнопок на сайте с помощью Sass]]
+
 - #### Ууууу!
 	- [[CSS Scroll Snap]]
 	- [Выставление рейтинга без JavaScript.](https://eugeno.ru/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B0)

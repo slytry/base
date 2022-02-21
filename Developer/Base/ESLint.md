@@ -90,4 +90,5 @@ npm install @babel/eslint-plugin --save-dev
 ---
 ###### Citation
 [Сложно о простом: ESLint в команде](https://habr.com/ru/post/322550/)
+<https://www.jscamp.app/ru/docs/typescript10/>
 Date: 2021-11-18T19:10

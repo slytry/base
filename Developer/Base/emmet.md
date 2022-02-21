@@ -2,6 +2,11 @@
 tags: 
 aliases: 
 ---
+### Основные
+| Description | Abreviation | body |
+| ----------- | ----------- | ---- |
+|             |      |     |
+
 
 
 

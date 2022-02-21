@@ -14,10 +14,10 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "legacyEditor": false,
-  "livePreview": true,
+  "legacyEditor": true,
+  "livePreview": false,
   "showFrontmatter": false,
   "foldHeading": true,
   "foldIndent": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source"
 }
