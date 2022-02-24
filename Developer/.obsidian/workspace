@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§React.md",
+            "file": "Base/Статическая генерация с загрузкой данных.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§React.md",
+                "file": "Base/Статическая генерация с загрузкой данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,19 +94,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 357
   },
   "active": "e1a7b63fa8228449",
   "lastOpenFiles": [
+    "Base/Статическая генерация с загрузкой данных.md",
+    "Base/§Next.js.md",
+    "Base/Pre-rendering Next.md",
+    "Base/Reack.md",
     "Base/§React.md",
     "Base/next snipp.md",
     "Base/§Snippets.md",
     "Base/15 безопасных шрифтов на подмену.md",
     "Base/react snipp.md",
-    "Base/emmet.md",
-    "Base/useDeviceWidth Отслеживание изменения ширины экрана.md",
-    "Base/Reack.md",
-    "Base/Создание хуков.md",
-    "Base/useEffect Хук эффекта.md"
+    "Base/emmet.md"
   ]
 }
