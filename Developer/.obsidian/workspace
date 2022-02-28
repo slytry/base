@@ -9,14 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< Updated upstream
-            "file": "Base/Статическая генерация с загрузкой данных.md",
+            "file": "Base/Добавление aliases(псевдонимы).md",
             "mode": "source"
-=======
-            "file": "Base/Строки.md",
-            "mode": "source",
-            "source": false
->>>>>>> Stashed changes
           }
         }
       }
@@ -74,11 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Base/Статическая генерация с загрузкой данных.md",
-=======
-                "file": "Base/Строки.md",
->>>>>>> Stashed changes
+                "file": "Base/Добавление aliases(псевдонимы).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,28 +98,15 @@
   },
   "active": "e1a7b63fa8228449",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Base/Статическая генерация с загрузкой данных.md",
+    "Base/Добавление aliases(псевдонимы).md",
+    "Base/GIT.md",
+    "next/image.md",
     "Base/§Next.js.md",
-    "Base/Pre-rendering Next.md",
+    "Base/Мышление реакт.md",
     "Base/Reack.md",
     "Base/§React.md",
-    "Base/next snipp.md",
-    "Base/§Snippets.md",
-    "Base/15 безопасных шрифтов на подмену.md",
-    "Base/react snipp.md",
-    "Base/emmet.md"
-=======
-    "Base/Строки.md",
-    "Base/Теория JavaScript.md",
-    "Base/§JS.md",
-    "Base/§Next.js.md",
-    "Base/2022-01-10 Anderson (JavaScript Developer Trainee).md",
-    "Base/Interview.md",
-    "Base/Components JS.md",
-    "Base/Автоматическая генерация контенка с бэкэнда.md",
-    "Base/Pasted image 20220215200821.png.md",
-    "Base/15 безопасных шрифтов на подмену.md"
->>>>>>> Stashed changes
+    "Base/Статическая генерация с загрузкой данных.md",
+    "Base/Pre-rendering Next.md",
+    "Base/next snipp.md"
   ]
 }
