@@ -11,20 +11,25 @@ date updated: 2022-01-25 10:45
 - [[Хакки]]
 - [[Структура React проекта]]
 - [[Мышление реакт]]
+- [[Свойсво key]]
 
 ### ХУКИ
 - [[хуки]]
 - [[useState  Хук состояния]]
+-  [[useReducer]]
 - [[useEffect Хук эффекта]]
+- [[useLayoutEffect]]
+- [[useCallback]]
 - [[useRef]]
 - [[useMemo]]
-- [[useCallback]]
+
 - [[useContext]]
-- [[useReducer]]
+-
 
 ### Кастомные хуки
 - [[Создание хуков]]
 - [[useDeviceWidth Отслеживание изменения ширины экрана]]
+- [[useInput хуки валидации]]
 
 ### Стиль
 - [[Модульный CSS]]

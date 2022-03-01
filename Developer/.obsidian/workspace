@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Добавление aliases(псевдонимы).md",
+            "file": "Base/useCallback.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 587
   },
   "right": {
     "id": "792b6826471edb39",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Добавление aliases(псевдонимы).md",
+                "file": "Base/useCallback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "e1a7b63fa8228449",
   "lastOpenFiles": [
-    "Base/Добавление aliases(псевдонимы).md",
-    "Base/GIT.md",
-    "next/image.md",
-    "Base/§Next.js.md",
-    "Base/Мышление реакт.md",
+    "Base/useCallback.md",
+    "Base/useEffect Хук эффекта.md",
     "Base/Reack.md",
+    "Base/useLayoutEffect.md",
+    "Base/useReducer.md",
     "Base/§React.md",
-    "Base/Статическая генерация с загрузкой данных.md",
-    "Base/Pre-rendering Next.md",
-    "Base/next snipp.md"
+    "Base/useInput хуки валидации.md",
+    "Base/Для чего нужен реакт.md",
+    "Base/§Патерны.md",
+    "Base/Функциональное програмирование.md"
   ]
 }
