@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/useCallback.md",
+            "file": "Base/§Патерны.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 587
+    "width": 186
   },
   "right": {
     "id": "792b6826471edb39",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/useCallback.md",
+                "file": "Base/§Патерны.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,19 +94,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357
+    "width": 357,
+    "collapsed": true
   },
   "active": "e1a7b63fa8228449",
   "lastOpenFiles": [
-    "Base/useCallback.md",
-    "Base/useEffect Хук эффекта.md",
-    "Base/Reack.md",
-    "Base/useLayoutEffect.md",
-    "Base/useReducer.md",
-    "Base/§React.md",
-    "Base/useInput хуки валидации.md",
-    "Base/Для чего нужен реакт.md",
     "Base/§Патерны.md",
-    "Base/Функциональное програмирование.md"
+    "Base/Render props.md",
+    "Base/Reack.md",
+    "Base/§React.md",
+    "Base/Compound Components.md",
+    "Base/хуки.md",
+    "Base/useRef.md",
+    "Base/§Snippets.md",
+    "Base/useContext.md",
+    "Base/useMemo.md"
   ]
 }

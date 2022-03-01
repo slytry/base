@@ -20,11 +20,10 @@ date updated: 2022-01-25 10:45
 - [[useEffect Хук эффекта]]
 - [[useLayoutEffect]]
 - [[useCallback]]
-- [[useRef]]
 - [[useMemo]]
-
 - [[useContext]]
--
+- [[useRef]]
+
 
 ### Кастомные хуки
 - [[Создание хуков]]
