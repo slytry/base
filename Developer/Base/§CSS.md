@@ -91,22 +91,29 @@ aliases:
 	- [[index файлы в scss]]
 
 ### Прочее
-- #### Questions
-	- [[Блок на весь экран]]
-	- [[По центру]]
-	- [[Кастомный чекбокс или радиобатон]]
-	- [[Шаблон разметки Holy Grail]]
 
-- #### Ууууу!
-	- [[CSS Scroll Snap]]
-	- [Выставление рейтинга без JavaScript.](https://eugeno.ru/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B0)
-	- [Одной строкой: новые CSS-команды для фронтендов](https://thecode.media/css-one-line/)
-	- [Делаем неубиваемый сайт: статика и динамика](https://thecode.media/static/)
-	- [Как добавить интерактивную карту на сайт](https://thecode.media/maps/)
-	- [Как добавить кнопки «Поделиться» на страницу](https://thecode.media/quick-share/)
-	- [Как очень быстро и яростно добавить музыкальный трек на страницу](https://thecode.media/comments/)
-	- [Как сделать колесо фортуны на сайте](https://thecode.media/fortune/)
-	- [ Как сделать интерактивную схему на SVG + jQuery](https://snipp.ru/html-css/interactive-map)
-	- [Красивый цветной текст в CSS: как это сделать](https://thecode.media/fill-color/)
+##### CSS  Framework
+
+[[Tailwind CSS]]
+
+#### Questions
+
+- [[Блок на весь экран]]
+- [[По центру]]
+- [[Кастомный чекбокс или радиобатон]]
+- [[Шаблон разметки Holy Grail]]
+
+#### Ууууу!
+
+- [[CSS Scroll Snap]]
+- [Выставление рейтинга без JavaScript.](https://eugeno.ru/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B0)
+- [Одной строкой: новые CSS-команды для фронтендов](https://thecode.media/css-one-line/)
+- [Делаем неубиваемый сайт: статика и динамика](https://thecode.media/static/)
+- [Как добавить интерактивную карту на сайт](https://thecode.media/maps/)
+- [Как добавить кнопки «Поделиться» на страницу](https://thecode.media/quick-share/)
+- [Как очень быстро и яростно добавить музыкальный трек на страницу](https://thecode.media/comments/)
+- [Как сделать колесо фортуны на сайте](https://thecode.media/fortune/)
+- [ Как сделать интерактивную схему на SVG + jQuery](https://snipp.ru/html-css/interactive-map)
+- [Красивый цветной текст в CSS: как это сделать](https://thecode.media/fill-color/)
 ---
 Date: 14:51 14:51

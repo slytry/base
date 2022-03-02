@@ -2,14 +2,13 @@
 tags: 
 aliases: 
 ---
-### ES Lint
-#### Установка
+### Установка
 ```
-npm install eslint --save-dev
+npm i eslint --D
 ```
-И скачать расширение для редактора, чтобы в самом редакторе подсвечивались ошибки
+И скачать расширение для редактора, чтобы в самом редакторе подсвечивались ошибки.
 
-**Создать файл конфигурации (package.json уже должен быть )**
+##### Создать файл конфигурации (package.json уже должен быть )
 ```
 npx eslint --init
 ```
@@ -46,49 +45,124 @@ npm i -D eslint-config-airbnb-base eslint-plugin-import
 }
 ```
 
-**Экспериментальный синтаксис**
+##### Экспериментальный синтаксис
 ES lint поддерживает последний вышедший стандарт. Чтобы он не ругался на все что не вышло (но пользоваться можно) надо подключить плагин @babel/eslint-parser
 ```
 npm i -D @babel/eslint-parser
 ```
 Чтобы заработал надо добавить в конфиг
 
-**Настройка редактора**
+##### Настройка редактора
 В vscode надо внести настройки чтобы работало
 ```json
+ 
+ "editor.codeActionsOnSave": {
+    // удаляет неиспользуемые операторы import и расположит сверху импорты с глобальными
+    "source.organizeImports": true,
+    //Включаем ESlint на сохранение
+    "source.fixAll.eslint": true
+  },
+
+
+//дефолтный форматер для JS
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+
+
+  //ESLint
+  //Отключаем дефольтный линтер
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false,
   //Закрепляет еслинт в трей
   "eslint.alwaysShowStatus": true,
   //Фключает форматирование, после этого eslint появлятеся в списке форматеров
   "eslint.format.enable": true,
-  //дефолтный форматер для JS
-  "[javascript]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-  },
-  "editor.codeActionsOnSave": {
-    "source.organizeImports": true // удаляет неиспользуемые операторы import и расположит сверху импорты с глобальными путями
-  },
-```
+  //Задаем языки для ESlint
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
 
-#### Плагины
-[eslint-plugin-babel](https://github.com/babel/eslint-plugin-babel)
-``` 
-npm install @babel/eslint-plugin --save-dev -g
-```
-``` 
-npm install @babel/eslint-plugin --save-dev
-```
 
-[eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react)
-```
- npm install eslint-plugin-react --save-dev -g
-```
 
 ```
- npm install eslint-plugin-react --save-dev
+
+#### eslint-config-airbnb
+Если не нужен react [eslint-config-airbnb-base](https://npmjs.com/eslint-config-airbnb-base).
+
+Требует:
+- `eslint`
+- `eslint-plugin-import`
+- `eslint-plugin-react`
+- `eslint-plugin-react-hooks`
+- `eslint-plugin-jsx-a11y`
+
+1. Установить все необходимое
+Все необходимые зависимости можно посмотреть по команде:
+
 ```
+npm info "eslint-config-airbnb@latest" peerDependencies
+```
+
+Команда для быстрой установки:
+
+```
+npx install-peerdeps --dev eslint-config-airbnb
+```
+
+2. Добавить в настройки  `.eslintrc`
+```json
+"extends": ["airbnb", "airbnb/hooks"]
+```
+Полные настройки для next, sb & react
+```json
+{
+  "extends": [
+    "airbnb",
+    "airbnb/hooks",
+    "next/core-web-vitals",
+    "plugin:storybook/recommended"
+  ],
+
+  "rules": {
+    "import/prefer-default-export": "off", //хотел чтобы экспорт по дефолту, дурачок
+    "react/function-component-definition": [
+      //Меняет все стрелочные ф-и на декларэйшин (причина в типизации, но пока я не умею)
+      "warn",
+      {
+        "namedComponents": "arrow-function",
+        "unnamedComponents": "arrow-function"
+      }
+    ],
+    "react/button-has-type": "off", //Не назначен тип кнопки. Но defaultProps не видит - пришлось выключить
+    "react/jsx-props-no-spreading": "warn", //Запрещает спредить props
+    "no-param-reassign": [
+      //запрещает менять взодящие параментры в ф-и. Но для некоторых циклов это правило не имеет смысла
+      "warn",
+      { "ignorePropertyModificationsFor": ["item", "element"] }
+    ],
+    "jsx-a11y/label-has-associated-control": "warn" //Ошибочные срабатывания.
+  }
+}
+
+```
+
 
 ---
 ###### Citation
+<https://github.com/airbnb/javascript/tree/HEAD/packages/eslint-config-airbnb#eslint-config-airbnbhooks>
 [Сложно о простом: ESLint в команде](https://habr.com/ru/post/322550/)
 <https://www.jscamp.app/ru/docs/typescript10/>
 Date: 2021-11-18T19:10

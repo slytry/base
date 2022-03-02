@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§Патерны.md",
+            "file": "Base/Сброс стилей.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Framework",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 186
+    "width": 573
   },
   "right": {
     "id": "792b6826471edb39",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§Патерны.md",
+                "file": "Base/Сброс стилей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "e1a7b63fa8228449",
   "lastOpenFiles": [
+    "Base/Сброс стилей.md",
+    "Base/Установка  Tailwind CSS на Next.js.md",
+    "Base/Tailwind CSS.md",
+    "Base/§CSS.md",
+    "Base/ESLint.md",
+    "Base/HOC.md",
     "Base/§Патерны.md",
     "Base/Render props.md",
-    "Base/Reack.md",
-    "Base/§React.md",
     "Base/Compound Components.md",
-    "Base/хуки.md",
-    "Base/useRef.md",
-    "Base/§Snippets.md",
-    "Base/useContext.md",
-    "Base/useMemo.md"
+    "Base/Reack.md"
   ]
 }
