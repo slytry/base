@@ -3,7 +3,7 @@ aliases: null
 date created: 2022-02-14 13:04
 date updated:
 ---
-Фреймворк на основе React для решения проблемы SEO оптимизации
+Фреймворк на основе React для решения проблемы SEO оптимизации. Статическая генерация
 
 [[Для чего нужен Next и что это такое]]
 [[More Examples]]
@@ -47,4 +47,4 @@ date updated:
 
 ###### Citation
 [Next.js: подробное руководство. Итерация первая](https://habr.com/ru/company/timeweb/blog/588498/#%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%D1%8B-layouts)
-[Официальная документация]()
+https://bespoyasov.ru/blog/new-site-stack/

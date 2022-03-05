@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/GIT.md",
+            "file": "Base/Работа с удаленный репозиторием.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 585
+    "width": 236.5036334991455
   },
   "right": {
     "id": "792b6826471edb39",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/GIT.md",
+                "file": "Base/Работа с удаленный репозиторием.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "e1a7b63fa8228449",
   "lastOpenFiles": [
+    "Base/Работа с удаленный репозиторием.md",
     "Base/GIT.md",
-    "Base/Внести изменения в прошлый коммит.md",
-    "Base/Конфликты.md",
-    "Base/Локальные правки.md",
-    "Base/Unit тесты с React Testing Library.md",
-    "Base/§Storybook.md",
-    "Base/Snapshot.md",
-    "Base/Настройка рендеринга, декорыторы  Storybook.md",
-    "Base/Файлы конфигурации Storybook.md",
-    "Base/REST.md"
+    "Base/§Next.js.md",
+    "Base/scss @forward.md",
+    "Base/§TypeScript.md",
+    "Base/scss @use.md",
+    "Base/react snipp.md",
+    "Base/§Snippets.md",
+    "Base/classnames.md",
+    "Base/Тэги Git.md"
   ]
 }

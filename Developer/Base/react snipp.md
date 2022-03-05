@@ -18,10 +18,10 @@ date updated:
 
 ### Библиотека classnames
 
-| Description                    | Abreviation | body           |
-| ------------------------------ | ----------- | -------------- |
-| Заготовка для написаня классов | cx          | "{cx('$1')}" |
-| Сделат bind стилей             | cb            |   "import cnBind from 'classnames/bind';\nimport style from '$1';\n\nconst cx = cnBind.bind(style);"             |
+| Description                    | Abreviation | body                                                                                               |
+| ------------------------------ | ----------- | -------------------------------------------------------------------------------------------------- |
+| Заготовка для написаня классов | cx          | "{cx('$1')}"                                                                                       |
+| Сделат bind стилей             | cb          | "import cnBind from 'classnames/bind';\nimport style from '$1';\n\nconst cx = cnBind.bind(style);" |
 
 ---
 

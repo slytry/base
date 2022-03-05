@@ -9,4 +9,6 @@ date updated:
 ---
 
 ###### Citation
+	
 [TypeScript Deep Dive ](https://basarat.gitbook.io/typescript/)
+[Переписал свой сайт на Next и TypeScript](https://bespoyasov.ru/blog/tzlvt-upgrade/)
