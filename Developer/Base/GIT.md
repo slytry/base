@@ -29,6 +29,7 @@ date created: 08-10-2021 14:44
 
 ### Идеология
 
+- [[Lean Branching]]
 - [[Guides Git]]
 
 ### Продвинутая часть

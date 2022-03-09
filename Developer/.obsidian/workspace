@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Работа с удаленный репозиторием.md",
+            "file": "Base/MUI.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Работа с удаленный репозиторием.md",
+                "file": "Base/MUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "e1a7b63fa8228449",
   "lastOpenFiles": [
-    "Base/Работа с удаленный репозиторием.md",
-    "Base/GIT.md",
-    "Base/§Next.js.md",
-    "Base/scss @forward.md",
-    "Base/§TypeScript.md",
-    "Base/scss @use.md",
-    "Base/react snipp.md",
-    "Base/§Snippets.md",
-    "Base/classnames.md",
-    "Base/Тэги Git.md"
+    "Base/MUI.md",
+    "Base/Бибилотеки компонентов.md",
+    "Base/Chakra UI.md",
+    "Base/Ant Design.md",
+    "Base/§React.md",
+    "Base/§Redux.md",
+    "Base/Настройка WP для alias.md",
+    "Base/§Storybook.md",
+    "Base/Установка scss в Storybook.md",
+    "Base/Настройка рендеринга, декораторы  Storybook.md"
   ]
 }

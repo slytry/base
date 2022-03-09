@@ -40,6 +40,9 @@ date updated:
 ### API справочник
 [[next/image]]
 
+### Подвинутые функции
+- [[path aliases next js]]
+
 ### Развертывание приложения Next.js
 
 
