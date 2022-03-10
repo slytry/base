@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e1a7b63fa8228449",
+        "id": "3454552dd7d12891",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/MUI.md",
+            "file": "Base/Holy Grail Grid.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5036334991455
+    "width": 364
   },
   "right": {
     "id": "792b6826471edb39",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/MUI.md",
+                "file": "Base/Holy Grail Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 357,
     "collapsed": true
   },
-  "active": "e1a7b63fa8228449",
+  "active": "3454552dd7d12891",
   "lastOpenFiles": [
+    "Base/Holy Grail Grid.md",
+    "Base/Системный шрифт.md",
+    "Base/Простостой accordion HTML.md",
+    "Base/§JS.md",
+    "Base/§HTML.md",
+    "Base/Grid.md",
     "Base/MUI.md",
     "Base/Бибилотеки компонентов.md",
     "Base/Chakra UI.md",
-    "Base/Ant Design.md",
-    "Base/§React.md",
-    "Base/§Redux.md",
-    "Base/Настройка WP для alias.md",
-    "Base/§Storybook.md",
-    "Base/Установка scss в Storybook.md",
-    "Base/Настройка рендеринга, декораторы  Storybook.md"
+    "Base/Ant Design.md"
   ]
 }
