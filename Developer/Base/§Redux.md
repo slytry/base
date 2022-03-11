@@ -4,6 +4,10 @@ date created: 2022-03-02 14:25
 date updated:
 ---
 
+- [[Идея Redux]]
+- [[]]
+
+
 ---
 
 ###### Citation

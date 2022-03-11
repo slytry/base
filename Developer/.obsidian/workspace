@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Holy Grail Grid.md",
-            "mode": "source"
+            "file": "Base/Перенос текста.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Framework",
+                "query": "visual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Holy Grail Grid.md",
+                "file": "Base/Перенос текста.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "3454552dd7d12891",
   "lastOpenFiles": [
-    "Base/Holy Grail Grid.md",
-    "Base/Системный шрифт.md",
-    "Base/Простостой accordion HTML.md",
-    "Base/§JS.md",
-    "Base/§HTML.md",
-    "Base/Grid.md",
-    "Base/MUI.md",
-    "Base/Бибилотеки компонентов.md",
-    "Base/Chakra UI.md",
-    "Base/Ant Design.md"
+    "Base/Перенос текста.md",
+    "Base/§CSS.md",
+    "Base/Выравнивание текста text-align.md",
+    "Base/Селекторы CSS.md",
+    "Base/§Redux.md",
+    "Base/Доступность интерфейсов.md",
+    "Base/VS Code.md",
+    "Base/Дата и время.md",
+    "Base/Теория JavaScript.md",
+    "Base/§JS.md"
   ]
 }
