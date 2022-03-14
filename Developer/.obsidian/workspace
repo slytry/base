@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Перенос текста.md",
+            "file": "Base/ESLint Recat Typescript.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Перенос текста.md",
+                "file": "Base/ESLint Recat Typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "3454552dd7d12891",
   "lastOpenFiles": [
+    "Base/ESLint Recat Typescript.md",
+    "Base/ESLint.md",
+    "Base/§TypeScript.md",
+    "Base/Сложность алгоритмов.md",
+    "Base/§Алгоритмы.md",
+    "Base/_About.md",
+    "Base/§Storybook.md",
     "Base/Перенос текста.md",
     "Base/§CSS.md",
-    "Base/Выравнивание текста text-align.md",
-    "Base/Селекторы CSS.md",
-    "Base/§Redux.md",
-    "Base/Доступность интерфейсов.md",
-    "Base/VS Code.md",
-    "Base/Дата и время.md",
-    "Base/Теория JavaScript.md",
-    "Base/§JS.md"
+    "Base/Выравнивание текста text-align.md"
   ]
 }

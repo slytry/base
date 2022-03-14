@@ -3,6 +3,9 @@ tags:
 aliases: 
 ---
 ### Установка
+
+[[ESLint Recat Typescript]]
+
 ```
 npm i eslint --D
 ```
