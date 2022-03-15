@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/ESLint Recat Typescript.md",
-            "mode": "preview"
+            "file": "Base/ESLint CRA Typescript.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/ESLint Recat Typescript.md",
+                "file": "Base/ESLint CRA Typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "3454552dd7d12891",
   "lastOpenFiles": [
-    "Base/ESLint Recat Typescript.md",
+    "Base/ESLint CRA Typescript.md",
+    "Base/§Redux.md",
+    "Base/VS Code.md",
+    "Base/Настройка VS code.md",
+    "Base/§RTK Query.md",
+    "Base/Сравнение с другими инструментами.md",
     "Base/ESLint.md",
-    "Base/§TypeScript.md",
-    "Base/Сложность алгоритмов.md",
-    "Base/§Алгоритмы.md",
-    "Base/_About.md",
-    "Base/§Storybook.md",
-    "Base/Перенос текста.md",
-    "Base/§CSS.md",
-    "Base/Выравнивание текста text-align.md"
+    "Base/Идея Redux.md",
+    "Base/Holy Grail Grid.md",
+    "Base/The Holy Grail на grid.md"
   ]
 }

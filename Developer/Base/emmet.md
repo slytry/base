@@ -1,16 +1,11 @@
 ---
-tags: 
-aliases: 
+aliases: null
+date created: 2022-03-15 10:31
+date updated:
 ---
-### Основные
-| Description | Abreviation | body |
-| ----------- | ----------- | ---- |
-|             |      |     |
-
-
-
 
 ---
+
 ###### Citation
+
 [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
-Date: 2021-11-19T15:12

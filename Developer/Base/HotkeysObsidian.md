@@ -3,12 +3,15 @@ tags:
 aliases: 
 ---
 ### Generous
+
 | def                  | key |
 | -------------------- | --- |
 | Insert Markdown link | ^!C    |
 
 ### Plugins
+
 ##### Templates
+
 | def                 | key |
 | ------------------- | --- |
 | Insert current date | ^!D |

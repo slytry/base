@@ -91,6 +91,7 @@ aliases:
 	- [[index файлы в scss]]
 
 ### Прочее
+- [[Функциональный CSS]]
 
 ##### CSS  Framework
 

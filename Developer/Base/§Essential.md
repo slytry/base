@@ -5,26 +5,18 @@ date updated: 2022-01-20 16:07
 
 ==Инструкции==
 
-- [[Подготовка]]
+- [[Защитная обертка]]
 - [[Верстка]]
 - [[Стилизация]]
-- [[Финальная проверка]]
 
 ==Инструменты==
 
-- [[VS Code]]
-- [[БЭМ]]
-- [[GULP]]
-- [[Node.js]]
 - [[npm менеджер пакетов]]
 - [[GIT]]
 - [[GitHub]]
-
-==Браузер  и тулзы==
-
-- [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://htmlacademy.ru/blog/education/what/brauzer-google)
-- [Принципы работы современных веб-браузеров](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
 - [[Chrome DevTools]]
+- [[Bash]]
+
 
 ==Остальное==
 
@@ -33,8 +25,9 @@ date updated: 2022-01-20 16:07
 - [[Стартовый проект]]
 - [[Проверка качества хостинга]]
 - [[JAMstack]]
-- [[Функциональный CSS]]
-- [[Bash]]
 - [[Аутентификация]]
 
 ---
+
+- [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://htmlacademy.ru/blog/education/what/brauzer-google)
+- [Принципы работы современных веб-браузеров](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)

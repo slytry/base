@@ -1,4 +1,5 @@
 ### Hotkeys
+
 ^ - ctr
 \+ - shift
 ! - alt

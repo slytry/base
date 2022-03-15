@@ -4,7 +4,7 @@ aliases:
 ---
 ### Установка
 
-[[ESLint Recat Typescript]]
+[[ESLint CRA Typescript]]
 
 ```
 npm i eslint --D
