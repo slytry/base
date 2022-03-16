@@ -4,9 +4,9 @@ aliases:
 created date: 2021-11-08T14:12
 ---
 
-[[Настройка VS code]]
+[[Settings VS code]]
 
-[[Snippets]]
+[[Snippets VS code]]
 
 [[ESLint]]
 
@@ -16,7 +16,7 @@ created date: 2021-11-08T14:12
 
 [[Extensions VS code]]
 
-[[Appearance VS code]]
+[[Themes VS code]]
 
 [[Автоматическое дополнение VS code]]
 
