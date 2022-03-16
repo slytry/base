@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/ESLint CRA Typescript.md",
+            "file": "Base/§RTK Query.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/ESLint CRA Typescript.md",
+                "file": "Base/§RTK Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +99,11 @@
   },
   "active": "3454552dd7d12891",
   "lastOpenFiles": [
+    "Base/§RTK Query.md",
     "Base/ESLint CRA Typescript.md",
     "Base/§Redux.md",
     "Base/VS Code.md",
     "Base/Настройка VS code.md",
-    "Base/§RTK Query.md",
     "Base/Сравнение с другими инструментами.md",
     "Base/ESLint.md",
     "Base/Идея Redux.md",
