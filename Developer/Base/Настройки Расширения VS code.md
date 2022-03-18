@@ -43,8 +43,11 @@ date updated:
 ```json
 {
 	"prettier.jsxSingleQuote": true,
-    "prettier.singleQuote": true,
-    "prettier.tabWidth": 2,
+	"prettier.singleQuote": true,
+	"prettier.tabWidth": 2,
+	"prettier.useTabs": true,
+	"prettier.printWidth": 100,
+	"prettier.trailingComma": "es5",
 }
 ```
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/VS Code.md",
+            "file": "Base/Настройки Расширения VS code.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/VS Code.md",
+                "file": "Base/Настройки Расширения VS code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "e1a7b63fa8228449",
   "lastOpenFiles": [
-    "Base/VS Code.md",
-    "Base/Автоматическое дополнение, подсказки VS code.md",
-    "Base/Settings VS code.md",
-    "Base/Универсальные настройки VS code.md",
     "Base/Настройки Расширения VS code.md",
+    "Base/Settings VS code.md",
+    "Base/VS Code.md",
+    "Base/Extensions list VS code.md",
+    "Base/Автоматическое дополнение, подсказки VS code.md",
+    "Base/Универсальные настройки VS code.md",
     "Base/Настройки Javascript в VS code.md",
     "Base/Настройка Тем и шрифта VS code.md",
     "Base/Настройка jsconfig.json.md",
-    "Base/Themes VS code.md",
-    "Base/Extensions list VS code.md"
+    "Base/Themes VS code.md"
   ]
 }
