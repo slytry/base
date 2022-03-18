@@ -12,6 +12,7 @@ date updated: 2022-01-20 16:07
 ==Инструменты==
 
 - [[npm менеджер пакетов]]
+- [[npx ]]
 - [[GIT]]
 - [[GitHub]]
 - [[Chrome DevTools]]

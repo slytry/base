@@ -38,7 +38,7 @@ date updated:
 [[Сведения об Api маршрутах]]
 
 ### API справочник
-[[next/image]]
+[[Image nextjs]]
 
 ### Подвинутые функции
 - [[path aliases next js]]

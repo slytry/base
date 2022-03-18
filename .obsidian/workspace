@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "5e187c26c0b1be1e",
+    "id": "4a180278fc54ca1c",
     "type": "split",
     "children": [
       {
-        "id": "e1a7b63fa8228449",
+        "id": "b172c3adc7a3ffe5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/VS Code.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4d9b2ea17df28e08",
+    "id": "47240566f7979fcb",
     "type": "split",
     "children": [
       {
-        "id": "e3d2e0db5802cdb4",
+        "id": "c80137c857f668de",
         "type": "tabs",
         "children": [
           {
-            "id": "f041be491c85ae25",
+            "id": "7dc341a9085a376c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +31,7 @@
             }
           },
           {
-            "id": "b7ca2082392ab265",
+            "id": "23e041ba47041acd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +49,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400
+    "width": 300
   },
   "right": {
-    "id": "792b6826471edb39",
+    "id": "005ac2b414910005",
     "type": "split",
     "children": [
       {
-        "id": "ec4c382797745112",
+        "id": "c65fc9cade86980f",
         "type": "tabs",
         "children": [
           {
-            "id": "58bb3090e70037e3",
+            "id": "613014ed4f8b7b05",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/VS Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,36 +74,14 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "2958e6113aba0190",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 357,
+    "width": 300,
     "collapsed": true
   },
-  "active": "e1a7b63fa8228449",
-  "lastOpenFiles": [
-    "Base/VS Code.md",
-    "Base/Автоматическое дополнение, подсказки VS code.md",
-    "Base/Settings VS code.md",
-    "Base/Универсальные настройки VS code.md",
-    "Base/Настройки Расширения VS code.md",
-    "Base/Настройки Javascript в VS code.md",
-    "Base/Настройка Тем и шрифта VS code.md",
-    "Base/Настройка jsconfig.json.md",
-    "Base/Themes VS code.md",
-    "Base/Extensions list VS code.md"
-  ]
+  "active": "b172c3adc7a3ffe5",
+  "lastOpenFiles": []
 }

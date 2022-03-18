@@ -56,34 +56,10 @@ npm i -D @babel/eslint-parser
 Чтобы заработал надо добавить в конфиг
 
 ##### Настройка редактора
-В vscode надо внести настройки чтобы работало
+
 ```json
- 
- "editor.codeActionsOnSave": {
-    // удаляет неиспользуемые операторы import и расположит сверху импорты с глобальными
-    "source.organizeImports": true,
-    //Включаем ESlint на сохранение
-    "source.fixAll.eslint": true
-  },
-
-
-//дефолтный форматер для JS
-  "[javascript]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-  },
-  "[javascriptreact]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-  },
-  "[typescript]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-  },
-  "[typescriptreact]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-  },
-
-
-  //ESLint
-  //Отключаем дефольтный линтер
+{
+	   //Отключаем дефольтный линтер
   "javascript.validate.enable": false,
   "typescript.validate.enable": false,
   //Закрепляет еслинт в трей
@@ -97,10 +73,30 @@ npm i -D @babel/eslint-parser
     "typescript",
     "typescriptreact"
   ],
+	
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+	
+	 // ActionsOnSave
+  "editor.codeActionsOnSave": {
+	  //...
+	"source.fixAll.eslint": true,
+  },
 
-
-
+	
+}
 ```
+
 
 #### eslint-config-airbnb
 Если не нужен react [eslint-config-airbnb-base](https://npmjs.com/eslint-config-airbnb-base).

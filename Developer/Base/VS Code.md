@@ -4,6 +4,8 @@ aliases:
 created date: 2021-11-08T14:12
 ---
 
+### Settings part
+
 [[Settings VS code]]
 
 [[Snippets VS code]]
@@ -14,15 +16,11 @@ created date: 2021-11-08T14:12
 
 [[Hotkeys VS code]]
 
-[[Extensions VS code]]
+[[Extensions list VS code]]
 
 [[Themes VS code]]
 
-[[Автоматическое дополнение VS code]]
-
-[[jsconfig.json]]
-
-
+[[Автоматическое дополнение, подсказки VS code]]
 
 ---
 ###### Citation
