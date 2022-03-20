@@ -16,8 +16,6 @@ date updated: 2022-01-20 16:07
 - [[GIT]]
 - [[GitHub]]
 - [[Chrome DevTools]]
-- [[Bash]]
-
 
 ==Остальное==
 

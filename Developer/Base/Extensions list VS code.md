@@ -11,6 +11,8 @@ date updated:
 - [HTML to CSS autocompletion](https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion)
 
 ### Common
+- [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)	
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)

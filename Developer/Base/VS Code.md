@@ -8,6 +8,8 @@ created date: 2021-11-08T14:12
 
 [[Settings VS code]]
 
+[[Fonst and Themes VS code]]
+
 [[Snippets VS code]]
 
 [[ESLint]]
@@ -18,9 +20,6 @@ created date: 2021-11-08T14:12
 
 [[Extensions list VS code]]
 
-[[Themes VS code]]
-
-[[Автоматическое дополнение, подсказки VS code]]
 
 ---
 ###### Citation

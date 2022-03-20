@@ -59,6 +59,10 @@ date updated:
 
 	//Положение сайд бара
   "workbench.sideBar.location": "right",
+	
+	//Скрытие пустых папок
+	"explorer.compactFolders": false,
+	
 }
 ```
 
@@ -69,8 +73,11 @@ date updated:
 	//Проверка доверие к файлам
   "security.workspace.trust.enabled": false,
   "security.workspace.trust.untrustedFiles": "open",
-	//Отключение сообщения о новых версиях
-  "vsicons.dontShowNewVersionMessage": true,
+	//Всякие подсказки при когд анет открытых файлов
+	"workbench.tips.enabled": false,
+	
+	//Подсказка в новом файле
+	"workbench.editor.untitled.hint": "hidden",
 	
 	//Первое окно при открытии
   "workbench.startupEditor": "none",
@@ -138,8 +145,38 @@ date updated:
   "editor.codeActionsOnSave": {
 	"source.organizeImports": true,
   },
+	
+	//Добавить подчеркивание в разделители
+  "editor.wordSeparators": "`~!@#$%^&*()_-=+[{]}\\|;:'\",.<>/?",
+	
+	//Автоматическое удаление лишний символов
+ "editor.unusualLineTerminators": "auto",
+	
 }
 ```
+
+##### Git
+
+```json
+{
+	// Автоматическая проверка репо на новые коммиты
+ "git.autofetch": true,
+	//Интервал запросов
+	"git.autofetchPeriod": 60,
+	
+	//Не задают глупых вопросов при синхе
+	 "git.confirmSync": true,
+	
+	//Позволяет закомитить при наличии не застедженых файлов
+	"git.enableSmartCommit": true,
+	
+	//Ребээйз вместо мерджа
+	 "git.rebaseWhenSync": true,
+	
+} 
+```
+
+
 
 ---
 

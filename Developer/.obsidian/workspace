@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e1a7b63fa8228449",
+        "id": "279e306f1dec3702",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Настройки Расширения VS code.md",
+            "file": "Base/Перенос текста.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400
+    "width": 281
   },
   "right": {
     "id": "792b6826471edb39",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Настройки Расширения VS code.md",
+                "file": "Base/Перенос текста.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 357,
     "collapsed": true
   },
-  "active": "e1a7b63fa8228449",
+  "active": "279e306f1dec3702",
   "lastOpenFiles": [
-    "Base/Настройки Расширения VS code.md",
-    "Base/Settings VS code.md",
+    "Base/Перенос текста.md",
+    "Base/overflow css.md",
+    "Base/Переполнение контентом.md",
+    "Base/§Enviroment.md",
+    "Base/§Essential.md",
+    "Base/Linux.md",
+    "Base/Plasma.md",
+    "Files/Linux.pdf",
     "Base/VS Code.md",
-    "Base/Extensions list VS code.md",
-    "Base/Автоматическое дополнение, подсказки VS code.md",
-    "Base/Универсальные настройки VS code.md",
-    "Base/Настройки Javascript в VS code.md",
-    "Base/Настройка Тем и шрифта VS code.md",
-    "Base/Настройка jsconfig.json.md",
-    "Base/Themes VS code.md"
+    "Base/tabby.md"
   ]
 }
