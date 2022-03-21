@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Перенос текста.md",
+            "file": "Base/amoCRM.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Перенос текста.md",
+                "file": "Base/amoCRM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "279e306f1dec3702",
   "lastOpenFiles": [
-    "Base/Перенос текста.md",
-    "Base/overflow css.md",
-    "Base/Переполнение контентом.md",
-    "Base/§Enviroment.md",
+    "Base/amoCRM.md",
+    "Base/Multiline mode of anchors ^ $, flag 'm'.md",
+    "Base/Натсройка osx.md",
+    "Base/Хороший програмист.md",
     "Base/§Essential.md",
-    "Base/Linux.md",
-    "Base/Plasma.md",
-    "Files/Linux.pdf",
-    "Base/VS Code.md",
-    "Base/tabby.md"
+    "Base/Оптимизация React прилолжения.md",
+    "Base/Reack.md",
+    "Base/§React.md",
+    "Base/Бибилотеки компонентов.md",
+    "Base/§MJML  верстка рассылки.md"
   ]
 }

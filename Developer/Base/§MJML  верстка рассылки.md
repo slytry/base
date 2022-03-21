@@ -56,3 +56,6 @@ date updated:
 - [Установка](https://mjml.io/download)
 - [Дока](https://documentation.mjml.io/)
 - [MJML VS code ext](https://marketplace.visualstudio.com/items?itemName=mjmlio.vscode-mjml)
+
+https://confluence.chulakov.org/pages/viewpage.action?pageId=16944792
+https://confluence.chulakov.org/pages/viewpage.action?pageId=7209908
