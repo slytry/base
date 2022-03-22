@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "5e187c26c0b1be1e",
+    "id": "9617d960fc29e4ac",
     "type": "split",
     "children": [
       {
-        "id": "279e306f1dec3702",
+        "id": "7b7036e4e48441e0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/amoCRM.md",
+            "file": "Base/Docute.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4d9b2ea17df28e08",
+    "id": "e33ce199ff70b74b",
     "type": "split",
     "children": [
       {
-        "id": "e3d2e0db5802cdb4",
+        "id": "29b33ccc41818a34",
         "type": "tabs",
         "children": [
           {
-            "id": "f041be491c85ae25",
+            "id": "3426d41318f04aaa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "b7ca2082392ab265",
+            "id": "4f2a6ee2170b2c0a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281
+    "width": 300
   },
   "right": {
-    "id": "792b6826471edb39",
+    "id": "b0a4108b52d282fe",
     "type": "split",
     "children": [
       {
-        "id": "ec4c382797745112",
+        "id": "43535d8d35ea0b32",
         "type": "tabs",
         "children": [
           {
-            "id": "58bb3090e70037e3",
+            "id": "16266482c8d449d3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/amoCRM.md",
+                "file": "Base/Docute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "2958e6113aba0190",
+            "id": "9a07369c6b18f88a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -94,20 +94,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357,
+    "width": 300,
     "collapsed": true
   },
-  "active": "279e306f1dec3702",
+  "active": "7b7036e4e48441e0",
   "lastOpenFiles": [
-    "Base/amoCRM.md",
-    "Base/Multiline mode of anchors ^ $, flag 'm'.md",
-    "Base/Натсройка osx.md",
-    "Base/Хороший програмист.md",
+    "Base/Docute.md",
+    "Base/Документация.md",
     "Base/§Essential.md",
-    "Base/Оптимизация React прилолжения.md",
-    "Base/Reack.md",
-    "Base/§React.md",
-    "Base/Бибилотеки компонентов.md",
-    "Base/§MJML  верстка рассылки.md"
+    "Base/Изменение документа.md",
+    "Base/Extensions list VS code.md",
+    "Base/Терминал.md",
+    "Base/Настройка на VIM Takuya Matsuyama.md",
+    "Base/Bash.md",
+    "Base/windows terminal.md",
+    "Base/Ассиинхронность в JS.md"
   ]
 }
