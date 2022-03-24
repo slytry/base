@@ -45,6 +45,15 @@ date updated:
 
 ### Развертывание приложения Next.js
 
+### Примеры
+[Redux Toolkit TypeScript Example](https://github.com/vercel/next.js/tree/canary/examples/with-redux)
+
+[Emotion](https://github.com/vercel/next.js/tree/canary/examples/with-emotion)
+
+[Tailwind CSS with Emotion.js](https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss-emotion)
+
+[material-ui](https://github.com/mui/material-ui/tree/master/examples/nextjs)
+
 
 ---
 

@@ -7,7 +7,7 @@ date updated:
 - [[Терминал]]
 - [[Docker]]
 - [[VS Code]]
-- [[Натсройка osx]]
+- [[osx]]
 - [[Windows]]
 - [[Linux]]
 ---

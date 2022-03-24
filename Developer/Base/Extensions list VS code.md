@@ -21,7 +21,11 @@ date updated:
 - [Gist](https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist) 
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
+### Test API
+
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+- [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+
 ---
 
 ###### Citation
-

@@ -1,0 +1,13 @@
+---
+aliases: null
+date created: 2022-03-24 12:30
+date updated:
+---
+
+[[Двоичное исчисление]]
+
+
+---
+
+###### Citation
+

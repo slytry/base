@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Docute.md",
+            "file": "Base/Правила версткии писем и тесты.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Docute.md",
+                "file": "Base/Правила версткии писем и тесты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,20 +94,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "7b7036e4e48441e0",
   "lastOpenFiles": [
-    "Base/Docute.md",
-    "Base/Документация.md",
-    "Base/§Essential.md",
-    "Base/Изменение документа.md",
-    "Base/Extensions list VS code.md",
-    "Base/Терминал.md",
-    "Base/Настройка на VIM Takuya Matsuyama.md",
-    "Base/Bash.md",
-    "Base/windows terminal.md",
-    "Base/Ассиинхронность в JS.md"
+    "Base/Правила версткии писем и тесты.md",
+    "Base/§Верстка писем.md",
+    "Base/Двоичное исчисление.md",
+    "Base/¶Computer sience.md",
+    "Base/¶VPN и блок рекламы.md",
+    "Base/Windows.md",
+    "Base/osx.md",
+    "Base/Настройка OSX.md",
+    "Base/Перенос текста.md",
+    "Base/Аннотации и определение типа в TS.md"
   ]
 }

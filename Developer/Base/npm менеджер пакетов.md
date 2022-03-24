@@ -55,3 +55,4 @@ date updated:
 
 ###### Citation
 
+[Сломанные пакеты npm](https://www.youtube.com/watch?v=2AVs-Yh1bS8)
