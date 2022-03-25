@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Правила версткии писем и тесты.md",
+            "file": "Base/npx.md",
             "mode": "source"
           }
         }
@@ -68,13 +68,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Правила версткии писем и тесты.md",
+                "file": "Base/npx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -98,15 +98,15 @@
   },
   "active": "7b7036e4e48441e0",
   "lastOpenFiles": [
-    "Base/Правила версткии писем и тесты.md",
+    "Base/npx.md",
+    "Base/_Index.md",
+    "Base/_Symbols.md",
+    "Base/§Node.js.md",
+    "Base/§React.md",
+    "Base/§Next.js.md",
+    "Base/§JS.md",
+    "Base/§Essential.md",
     "Base/§Верстка писем.md",
-    "Base/Двоичное исчисление.md",
-    "Base/¶Computer sience.md",
-    "Base/¶VPN и блок рекламы.md",
-    "Base/Windows.md",
-    "Base/osx.md",
-    "Base/Настройка OSX.md",
-    "Base/Перенос текста.md",
-    "Base/Аннотации и определение типа в TS.md"
+    "Base/§Алгоритмы.md"
   ]
 }

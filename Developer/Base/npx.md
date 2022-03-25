@@ -81,6 +81,8 @@ npx matrix-rain
 
 ###### Citation
 
+- [Представляем npx: утилиту для запуска npm-пакетов](https://medium.com/devschacht/introducing-npx-an-npm-package-runner-a72a658cd9e6)
+
 https://nodejs.dev/learn/the-npx-nodejs-package-runner - запустить нода ноду определенной версии
 
 [awesome-npx](https://github.com/junosuarez/awesome-npx)
