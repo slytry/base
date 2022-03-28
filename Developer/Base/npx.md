@@ -1,8 +1,12 @@
 ---
+tags: 
 aliases: null
 date created: 2022-03-17 10:08
-date updated:
+date modified: Monday, March 28th 2022, 9:33:17 am
+title: npx
 ---
+
+# npx
 
 `npx` позволяет запускать пакеты `Node.js`, не устанавливая его и не добавляя зависимости в ваш проект
 
@@ -75,7 +79,6 @@ npx matrix-rain
 ```
 
 [Сам пакеt](https://github.com/nojvek/matrix-rain)
-
 
 ---
 
