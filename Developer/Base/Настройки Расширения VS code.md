@@ -39,6 +39,7 @@ date updated:
 ```
 
 #### prettier
+https://prettier.io/docs/en/options.html
 
 ```json
 {
@@ -46,8 +47,10 @@ date updated:
 	"prettier.singleQuote": true,
 	"prettier.tabWidth": 2,
 	"prettier.useTabs": true,
-	"prettier.printWidth": 100,
+	"prettier.printWidth": 90,
 	"prettier.trailingComma": "es5",
+	"prettier.bracketSameLine": true,
+	"prettier.jsxBracketSameLine": true,
 }
 ```
 

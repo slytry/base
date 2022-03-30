@@ -94,6 +94,7 @@ aliases:
 
 ### Прочее
 - [[Функциональный CSS]]
+- [[visuallyhidden]]
 
 ##### CSS  Framework
 

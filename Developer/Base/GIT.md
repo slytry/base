@@ -1,36 +1,42 @@
 ---
-aliases: ni.naumov@it-justice.com yADN33gHe
-date updated: 2022-02-02 11:51
+tags: 
+aliases: 
 date created: 08-10-2021 14:44
+date modified: Wednesday, March 30th 2022, 4:12:15 pms
+
+title: GIT
 ---
 
+# GIT
 
 ### Основное
 
 - [[Словарь]]
+- [[Содержание коммит файла]]
 - [[Команды конфигурации]]
 - [[Токен GitHub]]
 - [[ssh GitHub]]
 - [[Работа с удаленный репозиторием]]
-- [[Рабочий процесс]]
 - [[Основные команды]]
 - [[Команды stash]]
 - [[Тэги Git]]
 
 ### Работа с ветками
+
 - [[merge и rebase]]
 - [[Переименовать ветку]]
 
-
 ### Отмены изменений, правки в прошлом
+
 - [[Локальные правки]]
 - [[Внести изменения в прошлый коммит]]
 - [[Конфликты]]
 
 ### Идеология
 
+- [[Соглашение по коммитам]]
+- [[Семантическое Версионирование 2.0.0]]
 - [[Lean Branching]]
-- [[Guides Git]]
 
 ### Продвинутая часть
 
@@ -44,11 +50,14 @@ date created: 08-10-2021 14:44
 
 - [Мои инструменты и технологии Николай Громов](https://nicothin.pro/page/my-small-tools)
 
+Шпаргалки
+
+- [Решение проблем в Git](http://firstaidgit.ru/#/)
+- [Шпаргалка по консольным командам Git](https://github.com/nicothin/web-development/blob/master/git/readme.md)
+
 Документация
 
-- [Шпаргалка по консольным командам Git](https://github.com/nicothin/web-development/blob/master/git/readme.md)
 - [Документация по Git](https://git-scm.com/book/ru/v2)
-- [Решение проблем в Git](http://firstaidgit.ru/#/)
 
 Курсы
 
