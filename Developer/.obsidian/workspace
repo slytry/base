@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Соглашение по коммитам.md",
+            "file": "Base/ESLint.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Соглашение по коммитам.md",
+                "file": "Base/ESLint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,19 +94,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 474.95306396484375
   },
   "active": "7b7036e4e48441e0",
   "lastOpenFiles": [
-    "Base/Соглашение по коммитам.md",
-    "Base/GIT.md",
-    "Base/Добавление aliases(псевдонимы).md",
-    "Base/Команды stash.md",
-    "Base/Внести изменения в прошлый коммит.md",
-    "Base/Guides Git.md",
-    "Base/Как оформлять коммиты.md",
-    "Base/Git Cherry Pick.md",
-    "Base/Lean Branching.md",
-    "Base/Семантическое Версионирование 2.0.0.md"
+    "Base/ESLint.md",
+    "Base/Создание Slice.md",
+    "Base/§Redux Toolkit.md",
+    "Base/§React.md",
+    "Base/§Next.js.md",
+    "Base/§Mock.md",
+    "Base/§Тестирование.md",
+    "Base/§Docker.md",
+    "Base/§Essential.md",
+    "Base/§JS.md"
   ]
 }

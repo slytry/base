@@ -40,6 +40,7 @@ https://www.youtube.com/watch?v=f5DRAh7K8PU&list=WL&index=3
 }
 ```
 
+- [New Moon Syntax Theme](https://marketplace.visualstudio.com/items?itemName=taniarascia.new-moon-vscode) https://taniarascia.github.io/new-moon/
 - [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
 - [Panda Syntax](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda)
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)

@@ -43,7 +43,7 @@ date updated:
         "tsx": "never"
       }
     ],
-    "max-len": ["warn", { "code": 80 }],
+    "max-len": ["warn", { "code": 100 }],
     "@typescript-eslint/explicit-function-return-type": [
       "error",
       {

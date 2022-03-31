@@ -1,8 +1,13 @@
 ---
+tags: 
 aliases: null
 date created: 2022-03-09 10:28
-date updated:
+date modified: Thursday, March 31st 2022, 3:54:40 pm
+
+title: path aliases next js
 ---
+
+# path aliases next js
 
 В файле `tsconfig.json` и`jsconfig.json` можно настраивать пути
 
@@ -20,7 +25,21 @@ date updated:
 }
 ```
 
-### Опция pathsё
+```json
+
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "allowJs": true
+  }
+}
+```
+
+### Опция paths
+
 Можно настриивать более сложные пути
 
 ```json
@@ -34,8 +53,8 @@ date updated:
 }
 ```
 
-
 ---
 
 ###### Citation
+
  <https://nextjs.org/docs/advanced-features/module-path-aliases>

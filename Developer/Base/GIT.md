@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: 08-10-2021 14:44
-date modified: Wednesday, March 30th 2022, 4:12:15 pms
+date modified: Thursday, March 31st 2022, 1:30:03 pm
 
 title: GIT
 ---
@@ -13,13 +13,19 @@ title: GIT
 
 - [[Словарь]]
 - [[Содержание коммит файла]]
-- [[Команды конфигурации]]
+
 - [[Токен GitHub]]
 - [[ssh GitHub]]
 - [[Работа с удаленный репозиторием]]
 - [[Основные команды]]
 - [[Команды stash]]
 - [[Тэги Git]]
+
+### Конфигкрация
+
+- [[Команды конфигурации]]
+- [[Добавление aliases(псевдонимы)]]
+- [[Кастомный шаблон Коммита]]
 
 ### Работа с ветками
 
@@ -28,9 +34,12 @@ title: GIT
 
 ### Отмены изменений, правки в прошлом
 
+https://www.atlassian.com/ru/git/tutorials/undoing-changes
+
 - [[Локальные правки]]
 - [[Внести изменения в прошлый коммит]]
 - [[Конфликты]]
+- [[Отмена запушенный изменений]]
 
 ### Идеология
 
@@ -39,8 +48,7 @@ title: GIT
 - [[Lean Branching]]
 
 ### Продвинутая часть
-
-- [[Добавление aliases(псевдонимы)]]
+https://www.atlassian.com/ru/git/tutorials/rewriting-history
 - [[Способы вывести логи красиво]]
 - [[Git Cherry Pick]]
 

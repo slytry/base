@@ -4,7 +4,7 @@ date created: 2022-02-16 12:02
 date updated:
 ---
 
-We have created several examples to illustrate [`getStaticProps`](https://nextjs.org/docs/basic-features/data-fetching#getstaticprops-static-generation) and [`getStaticPaths`](https://nextjs.org/docs/basic-features/data-fetching#getstaticpaths-static-generation) — take a look at their source code to learn more:
+We have created several examples to illustrate [`getStaticProps`] and [`getStaticPaths`] — take a look at their source code to learn more:
 
 -   [Blog Starter using markdown files](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) ([Demo](https://next-blog-starter.vercel.app/))
 -   [WordPress Example](https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress) ([Demo](https://next-blog-wordpress.vercel.app/))

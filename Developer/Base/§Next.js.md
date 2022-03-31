@@ -6,7 +6,7 @@ date updated:
 Фреймворк на основе React для решения проблемы SEO оптимизации. Статическая генерация
 
 [[Для чего нужен Next и что это такое]]
-[[More Examples]]
+[[Blog Examples]]
 
 #### Навигация
 
@@ -46,6 +46,7 @@ date updated:
 ### Развертывание приложения Next.js
 
 ### Примеры
+[Next.js  Material UI  - Emotion](https://www.youtube.com/watch?v=IFaFFmPYyMI&list=PLZTsCOAKJJ_b_qj0W5-9XVKnu769iBXR5&index=8&t=130s)
 [Redux Toolkit TypeScript Example](https://github.com/vercel/next.js/tree/canary/examples/with-redux)
 
 [Emotion](https://github.com/vercel/next.js/tree/canary/examples/with-emotion)

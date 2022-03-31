@@ -1,12 +1,19 @@
 ---
 tags: 
 aliases: 
+date created: Monday, March 21st 2022, 9:21:47 am
+date modified: Tuesday, March 29th 2022, 1:06:10 pm
+title: Structure
 ---
 [CSS Properties Sheet](https://docs.google.com/spreadsheets/d/1-pca7hev_jizbaKW1ns13kvHFQUz6R1rz7SyXg8dQAQ/edit#gid=0)
 [Работа с HTML и CSS: 10 полезных приемов для дизайнер](https://nuancesprog.ru/p/12211/)
+
 # Structure
+
 ---
+
 #### Main
+
 - [[Сброс стилей]]
 - [[Единицы измерения CSS]]
 - [[Специфичность]]
@@ -16,6 +23,7 @@ aliases:
 - [[Фокус элементов CSS]]
 
 #### Адаптивность
+
 - [[Адаптивность с помощью clamp()]]
 - [[The Deconstructed Pancake Подвижные карточки]]
 - [[Отзывчивый и адаптивный дизайн сайта]]
@@ -25,11 +33,13 @@ aliases:
 - https://itchief.ru/html-and-css/responsive-design
 - [001.Адаптивная вёрстка (обновленная версия) - Дмитрий Душкин](https://www.youtube.com/watch?v=5jTDpz7OXD4)
 - [Новый адаптивный дизайн](https://www.youtube.com/watch?v=dhrX_biPH8c) — ссылка на курсы обучения от гугла. Будущее веба
-- [Мобильные браузеры и их пушистые лапки](https://habr.com/ru/company/zerotech/blog/336172/) 
+- [Мобильные браузеры и их пушистые лапки](https://habr.com/ru/company/zerotech/blog/336172/)
 - [Адаптивное видео с помощью встроенных математических функций CSS](https://yoksel.github.io/adaptive-video-with-css-math/)
+
 #### Fonts
+
 - Основа
-	- [[Подключение шрифтов]]	
+	- [[Подключение шрифтов]]
 	- [[Типографика, свойства]]
 	- [Все варианты отзывчевого текста, Михаил Иванкив](https://www.youtube.com/watch?v=cO2-zYzjyD0)
 	- [[Перенос строк и слов]]
@@ -47,7 +57,9 @@ aliases:
 	- [Оптимизация шрифтов.](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
 	- [REM vs EM – Великий спор](https://habr.com/ru/post/280125/)
 	- [Ремы, емы, и почему отказ от них — не проблема.](https://medium.com/devschacht/david-gilbertson-rems-and-ems-and-why-you-probably-dont-need-them-3b2b1e785787)
+
 #### Функции
+
 - Размеры
 	- [[Переменные CSS. Кастомные свойства]]
 	- [[переменные с цветами]]
@@ -58,19 +70,25 @@ aliases:
 - Links
 	- [Математические функции в CSS](https://yoksel.github.io/css-math/#restrictions)
 	- [5 функций CSS, которые пригодятся при разработке сайтов](https://nuancesprog.ru/p/12643/)
+
 #### Animations
+
 - [[transitions (переходы)]]
 - [[Animation и @keyframes]]
 - [[Transform]]
 - [[Motion Path]]
+
 #### Graphic
+
 [[background-image для ретины]]
  Links
 	- [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
 	- [Responsive Images in Practice](http://alistapart.com/article/responsive-images-in-practice/)
 	- [Почему мы не можем делать по-настоящему адаптивные изображения при помощи CSS или JavaScript](https://css-live.ru/articles/pochemu-my-ne-mozhem-delat-po-nastoyashhemu-adaptivnye-izobrazheniya-pri-pomoshhi-css-ili-javascript.html)
 	- [# Automatically art-directed responsive images](https://cloudinary.com/blog/automatically_art_directed_responsive_images)
+
 #### Расположение
+
 - [[Блочная модель]]
 - [[Позиционирование]]
 - [[Обтекание]]
@@ -79,6 +97,7 @@ aliases:
 - [[Flexbox]]
 
 #### Sass
+
 - Общее
 	- [[Основы Sass]]
 	- [[Медиазапросы в SCSS]]
@@ -93,10 +112,11 @@ aliases:
 	- [[index файлы в scss]]
 
 ### Прочее
+
 - [[Функциональный CSS]]
 - [[visuallyhidden]]
 
-##### CSS  Framework
+##### CSS Framework
 
 [[Tailwind CSS]]
 
@@ -120,4 +140,5 @@ aliases:
 - [ Как сделать интерактивную схему на SVG + jQuery](https://snipp.ru/html-css/interactive-map)
 - [Красивый цветной текст в CSS: как это сделать](https://thecode.media/fill-color/)
 ---
+
 Date: 14:51 14:51

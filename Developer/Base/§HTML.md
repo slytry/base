@@ -44,7 +44,7 @@
 ###### Citation
 - ### Курс
 - [[≈  note Design and develop html5 css3]]
-- [[≈  lesson Design and develop html5 css3]]
+- [[≈lesson Design and develop html5 css3]]
 Date: 2021-11-26T17:59
 
 

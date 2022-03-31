@@ -1,5 +1,5 @@
 ---
-aliases: null
+aliases: ext
 date created: 2022-03-15 10:34
 date updated:
 ---
@@ -20,11 +20,16 @@ date updated:
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) 									 
 - [Gist](https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist) 
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [advanced-new-file](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file	)
 
 ### Test API
 
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 - [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+
+### Spec
+
+- [Tree](https://marketplace.visualstudio.com/items?itemName=CTC.vscode-tree-extension) - подсветка синтаксиса для файлов структуры папок [[Project README#Создать структуру папок]]
 
 ---
 

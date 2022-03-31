@@ -1,11 +1,16 @@
 ---
-aliases: null
+tags: 
+aliases: svse
 date created: 2022-03-18 15:40
-date updated:
+date modified: Thursday, March 31st 2022, 5:58:53 pm
+
+title: Настройки Расширения VS code
 ---
 
+# Настройки Расширения VS code
+
 #### ecsstractor
- 
+
 ```json
 {
 	"ecsstractor_port.add_comment": false,
@@ -14,7 +19,7 @@ date updated:
 ```
 
 #### Path Intellisense
- 
+
 ```json
 {	
   "typescript.suggest.paths": false,
@@ -39,6 +44,7 @@ date updated:
 ```
 
 #### prettier
+
 https://prettier.io/docs/en/options.html
 
 ```json
@@ -47,7 +53,7 @@ https://prettier.io/docs/en/options.html
 	"prettier.singleQuote": true,
 	"prettier.tabWidth": 2,
 	"prettier.useTabs": true,
-	"prettier.printWidth": 90,
+	"prettier.printWidth": 100,
 	"prettier.trailingComma": "es5",
 	"prettier.bracketSameLine": true,
 	"prettier.jsxBracketSameLine": true,
@@ -55,6 +61,7 @@ https://prettier.io/docs/en/options.html
 ```
 
 #### Рассылки
+
 Надо скачать расширение MJML
 
 ```json
@@ -66,4 +73,3 @@ https://prettier.io/docs/en/options.html
 ---
 
 ###### Citation
-
