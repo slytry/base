@@ -9,7 +9,7 @@ date updated:
 
 https://www.youtube.com/watch?v=f5DRAh7K8PU&list=WL&index=3
 
-##### Fira Code
+**Fira Code**
 
 - [FiraCode](https://github.com/tonsky/FiraCode)
 
@@ -19,16 +19,43 @@ https://www.youtube.com/watch?v=f5DRAh7K8PU&list=WL&index=3
   "editor.lineHeight": 28,
   "terminal.integrated.fontSize": 18,
   "editor.fontFamily": "Fira Code",
+  "terminal.integrated.fontFamily": "Fira Code"
   "editor.fontLigatures": true,
 }
 ```
 
-##### Jetbrains mono
+**Jetbrains mono**
+```json
+{
+	"editor.fontFamily": "JetBrains Mono",
+	"terminal.integrated.fontFamily": "JetBrains Mono"
+	"editor.fontLigatures": true,
+	"editor.fontSize": 13,
+	"editor.lineHeight": 1.2,
+}
+```
+
+**MonoLisa** - платно
+https://www.monolisa.dev/buy
+
 ```json
 {
 
 }
 ```
+
+
+**Cascadia Code**
+Уже установлен
+
+```json
+{
+ "editor.fontFamily": "Cascadia Code",
+ "terminal.integrated.fontFamily": "Cascadia Code"
+ "editor.fontLigatures": true,
+}
+```
+
 
 
 ### Themes
