@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§JS.md",
+            "file": "Base/Соглашение по коммитам.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§JS.md",
+                "file": "Base/Соглашение по коммитам.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "a9bfc779d6803a9b",
   "lastOpenFiles": [
+    "Base/Соглашение по коммитам.md",
+    "Base/Описание коммита.md",
+    "Base/GIT.md",
+    "Base/Специфификация.md",
+    "Base/История использования коммитов.md",
+    "Base/Семантическое Версионирование 2.0.0.md",
     "Base/§JS.md",
     "Base/§Storybook.md",
     "Base/§TypeScript.md",
-    "Templates/Note.md",
-    "Base/_About.md",
-    "Base/HotkeysObsidian.md",
-    "Daily/Untitled.md",
-    "Base/Untitled.md",
-    "Base/§HTML.md",
-    "Base/§Essential.md"
+    "Templates/Note.md"
   ]
 }
