@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/Презентация Commit Convinion.md",
+            "file": "Base/Соглашение по коммитам.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Презентация Commit Convinion.md",
+                "file": "Base/Соглашение по коммитам.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,10 +94,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 589.9530639648438
+    "width": 589.9530639648438,
+    "collapsed": true
   },
   "active": "ed2f49a868bc8884",
   "lastOpenFiles": [
+    "Base/Соглашение по коммитам.md",
     "Daily/Презентация Commit Convinion.md",
     "Base/GIT.md",
     "Base/Merge requests.md",
@@ -106,7 +108,6 @@
     "Base/Теория JavaScript.md",
     "Base/Событийный цикл.   микрозадачи и макрозадания.md",
     "Base/§JS.md",
-    "Base/Разное.md",
-    "Base/Соглашение по коммитам.md"
+    "Base/Разное.md"
   ]
 }
