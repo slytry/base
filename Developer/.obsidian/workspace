@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -89,25 +90,34 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "029ee64bbebb367e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 589.9530639648438,
+    "width": 509,
     "collapsed": true
   },
   "active": "ed2f49a868bc8884",
   "lastOpenFiles": [
     "Base/Соглашение по коммитам.md",
-    "Daily/Презентация Commit Convinion.md",
-    "Base/GIT.md",
+    "Base/Семантическое Версионирование 2.0.0.md",
+    "Base/_About.md",
     "Base/Merge requests.md",
-    "Base/Консольные методы consol.md",
-    "Base/Debugging JavaScript.md",
-    "Base/Теория JavaScript.md",
-    "Base/Событийный цикл.   микрозадачи и макрозадания.md",
-    "Base/§JS.md",
-    "Base/Разное.md"
+    "Base/§HTML.md",
+    "Base/Горячие клавиши навигации.md",
+    "Base/Advanced Tables plugin.md",
+    "Base/Горячие клавиши форматирования.md",
+    "Base/Linter.md",
+    "Base/Вставка шаблона, даты и времени.md"
   ]
 }
