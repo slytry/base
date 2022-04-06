@@ -24,6 +24,11 @@ title: Добавление aliases(псевдонимы)
 | git config --global alias.type 'cat-file -t'                                                  | type  |     |     |
 | git config --global alias.dump 'cat-file -p'                                                  | dump  |     |     |
 
+
+### Сложные алиасы с параметрами
+
+https://jay.gooby.org/2021/07/13/positional-arguments-in-git-aliases
+
 ---
 
 ###### Citation

@@ -12,6 +12,7 @@
 3. Vault "Workflow"
 4.  [How I use Obsidian as a Second Brain](https://www.youtube.com/watch?v=uqVx22lo9_4&list=PLXRQ6inbDn6fDEicAQglorjczZR7oudPA&index=2&t=31s)
 5.  https://www.linkingyourthinking.com/lyt-kit-lesson
+6.  [How I Put My Mind Under Version Control](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5)
 
 ---
  ==[[HotkeysObsidian]]==

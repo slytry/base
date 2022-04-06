@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: 08-10-2021 14:44
-date modified: Thursday, March 31st 2022, 1:30:03 pm
+date modified: Wednesday, April 6th 2022, 11:28:37 am
 
 title: GIT
 ---
@@ -44,11 +44,19 @@ https://www.atlassian.com/ru/git/tutorials/undoing-changes
 ### Идеология
 
 - [[Соглашение по коммитам]]
+- [[Merge requests]]
 - [[Семантическое Версионирование 2.0.0]]
+- [[CHANGELOG]]
+- [[GitLab]]
+
+Git Flow
+
 - [[Lean Branching]]
 
 ### Продвинутая часть
+
 https://www.atlassian.com/ru/git/tutorials/rewriting-history
+
 - [[Способы вывести логи красиво]]
 - [[Git Cherry Pick]]
 

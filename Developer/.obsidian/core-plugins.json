@@ -10,6 +10,9 @@
   "note-composer",
   "command-palette",
   "word-count",
+  "slides",
   "open-with-default-app",
-  "file-recovery"
+  "file-recovery",
+  "publish",
+  "sync"
 ]
