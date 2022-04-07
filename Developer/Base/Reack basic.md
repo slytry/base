@@ -1,12 +1,18 @@
 ---
+tags: 
 aliases: null
-date updated: 2022-01-25 10:45
+date modified: Thursday, April 7th 2022, 1:50:46 pm
+date created: Thursday, March 17th 2022, 9:36:45 am
+date modified: Thursday, April 7th 2022, 1:50:46 pm
+title: Reack
 ---
+
+# Reack
 
 ### Основное
 
 - [[Для чего нужен реакт]]
-- [[react virtual  tree (Virtual DOM)]]
+- [[react virtual tree (Virtual DOM)]]
 - [[JSX]]
 - [[Компоненты]]
 - [[Свойсво key]]
@@ -21,14 +27,13 @@ date updated: 2022-01-25 10:45
 
 - [[хуки]]
 - [[useState  Хук состояния]]
--  [[useReducer]]
+- [[useReducer]]
 - [[useEffect Хук эффекта]]
 - [[useLayoutEffect]]
 - [[useCallback]]
 - [[useMemo]]
 - [[useContext]]
 - [[useRef]]
-
 
 ##### Кастомные хуки
 
@@ -39,6 +44,7 @@ date updated: 2022-01-25 10:45
 ### Стиль
 
 - [[Модульный CSS]]
+
 
 ---
 

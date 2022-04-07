@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Соглашение по коммитам.md",
+            "file": "Base/React transition group.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 675
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Соглашение по коммитам.md",
+                "file": "Base/React transition group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +108,15 @@
   },
   "active": "ed2f49a868bc8884",
   "lastOpenFiles": [
-    "Base/Соглашение по коммитам.md",
-    "Base/Семантическое Версионирование 2.0.0.md",
-    "Base/_About.md",
-    "Base/Merge requests.md",
-    "Base/§HTML.md",
-    "Base/Горячие клавиши навигации.md",
-    "Base/Advanced Tables plugin.md",
-    "Base/Горячие клавиши форматирования.md",
-    "Base/Linter.md",
-    "Base/Вставка шаблона, даты и времени.md"
+    "Base/React transition group.md",
+    "Base/Transition.md",
+    "Base/§React.md",
+    "Base/Бибилотеки компонентов.md",
+    "Base/React animation.md",
+    "Base/Reack basic.md",
+    "Base/React Формы.md",
+    "Base/Snippets VS code.md",
+    "Base/§TypeScript.md",
+    "Base/Definitely Typed.md"
   ]
 }
