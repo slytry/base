@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "727459c90fbaa28a",
+        "id": "ed2f49a868bc8884",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/npm менеджер пакетов.md",
+            "mode": "source",
+            "backlinks": false
+          }
         }
       }
     ],
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 675
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/npm менеджер пакетов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,34 +98,26 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "7deaf23f8ee157a7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 784,
+    "width": 509,
     "collapsed": true
   },
-  "active": "727459c90fbaa28a",
+  "active": "ed2f49a868bc8884",
   "lastOpenFiles": [
-    "Base/GIT.md",
-    "Base/Extensions list VS code.md",
+    "Base/npm менеджер пакетов.md",
+    "Base/§TypeScript.md",
+    "Base/Типизация TS.md",
+    "Base/Аннотации и определение типа в TS.md",
+    "Base/Массивы и объекты в TS.md",
+    "Base/Типы данных JS.md",
+    "Base/Коммиты студии.md",
     "Base/Соглашение по коммитам.md",
-    "Daily/Презентация Commit Convinion.md",
-    "Base/Описание коммита Commit early Commit often.md",
-    "Base/История использования коммитов.md",
-    "Base/§Патерны.md",
-    "Base/§Enviroment.md",
-    "Base/§Тестирование.md",
-    "Base/_Symbols.md"
+    "Base/React transition group.md",
+    "Base/Transition.md"
   ]
 }
