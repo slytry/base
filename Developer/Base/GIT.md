@@ -51,6 +51,12 @@ https://www.atlassian.com/ru/git/tutorials/undoing-changes
 
 Git Flow
 
+- https://www.gitkraken.com/learn/git/git-flow
+- https://nvie.com/posts/a-successful-git-branching-model/
+- [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
+- [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html)
+- [Рабочий процесс Gitflow Workflow](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow)
+- https://proglib.io/p/git-github-gitflow
 - [[Lean Branching]]
 
 ### Продвинутая часть

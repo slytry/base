@@ -4,6 +4,13 @@ date created: 2022-03-15 10:34
 date updated:
 ---
 
+### Git
+
+- [Visual Studio Code Commitizen Support](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow)
+- [Gitmoji Commit VS code ](https://marketplace.visualstudio.com/items?itemName=benjaminadk.emojis4git)
+
 ### Elementary markup
 - [[eCSStractor for VSCode ]]
 - [BEM Helper](https://marketplace.visualstudio.com/items?itemName=Box-Of-Hats.bemhelper)

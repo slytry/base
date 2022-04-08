@@ -22,5 +22,14 @@
       ],
       "key": "S"
     }
+  ],
+  "slides:start": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }
