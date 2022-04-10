@@ -6,8 +6,8 @@ date updated:
 
 [[Linux.pdf]]
 
-- [[Plasma]]
--[[Fedora]]
+- [[Plasma]] <https://www.youtube.com/watch?v=XgOcOmphy4Y&t=221s&ab_channel=TechHut> <https://kde.org/plasma-desktop/>
+- [[Fedora]]
 
 
 ---

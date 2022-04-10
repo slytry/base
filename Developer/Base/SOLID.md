@@ -84,4 +84,5 @@ SOLID - акроним для 5-ти основных принципов объ�
 
 ###### Citation
 
+- https://ota-solid.vercel.app/
 - [SOLID ПРИНЦИПЫ простым языком (много примеров)](https://www.youtube.com/watch?v=TxZwqVTaCmA&list=PLZTsCOAKJJ_YjEHsB4HJQ9GnB7I_g3n1l&index=1&t=3s&ab_channel=UlbiTV)

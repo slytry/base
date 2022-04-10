@@ -1,5 +1,8 @@
+---
+aliases: 
+tags: 
 
-
+title: "{{title}}"
 ---
 
-###### Citation
+###### References

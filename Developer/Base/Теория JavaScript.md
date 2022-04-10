@@ -174,7 +174,7 @@ date updated: 2022-01-23 11:33
 - [[Перезапуск анимации]]
 
 #### Regular expressions
-
+- [[Regular expression cheat sheet]]
 - [[Patterns and flags]]
 - [[Классы символов]]
 - [[Unicode flag 'u' and class p{...}]]

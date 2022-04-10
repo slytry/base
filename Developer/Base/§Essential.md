@@ -35,7 +35,8 @@ title: §Essential
 - [[Проверка качества хостинга]]
 - [[JAMstack]]
 - [[Аутентификация]]
-
+- [[Scrum]]
+- [[Markdown]]
 ---
 
 - [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://htmlacademy.ru/blog/education/what/brauzer-google)
