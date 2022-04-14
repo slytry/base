@@ -2,7 +2,7 @@
 tags: 
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Thursday, April 7th 2022, 1:57:44 pm
+date modified: Monday, April 11th 2022, 4:27:38 pm
 
 title: §React
 ---
@@ -11,10 +11,8 @@ title: §React
 
 - [[Reack basic]]
 - [[Snippets VS code|React сниппды]]
-- [[React Формы]]
 
 ### React Router DOM
-
 
 - [GitHub tutorial](https://github.com/remix-run/react-router/blob/main/docs/getting-started/tutorial.md)
 - [npm react-router-dom](https://www.npmjs.com/package/react-router-dom)
@@ -25,9 +23,12 @@ title: §React
 
 ### Libs
 
+- [[React Формы]]
+- [[Как отослать email]]
 - [[classnames]]
 - [[html-react-parser]]
 - [[date-fns]]
+- [[react-input-mask]]
 
 ##### Бибилотеки компонентов
 

@@ -37,7 +37,7 @@ Closes #<issue>
 
  ### Пример 
 ```markdown
-Sandbox | Выполнение задания из песочницы
+ADVMGFN21-82 | Sandbox | Выполнение задания из песочницы
 
 Closes #[ADVMGFN21-82](https://jira.chulakov.org/browse/PRDHRPODR-3057)
 
@@ -61,10 +61,6 @@ Closes #[ADVMGFN21-82](https://jira.chulakov.org/browse/PRDHRPODR-3057)
 
 ```
 
-| Before                               | After                                |
-| ------------------------------------ | ------------------------------------ |
-| ![[Pasted image 20220406151803.png]] | ![[Pasted image 20220406152017.png]] |
-| Заголовок третьего уровня            | Заголовок второго уровня                                     |
 
 ---
 
@@ -72,4 +68,4 @@ Closes #[ADVMGFN21-82](https://jira.chulakov.org/browse/PRDHRPODR-3057)
 
 TODO:
 
-GitLab поддерживает [Markdown](https://git.chulakov.org/help/user/markdown) и[quick actions](https://git.chulakov.org/help/user/project/quick_actions) - классно разобраться
+GitLab поддерживает [Markdown](https://git.chulakov.org/help/user/markdown) и[quick actions](https://git.chulakov.org/help/user/project/quick_actions)

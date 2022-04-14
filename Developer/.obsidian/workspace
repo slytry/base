@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a197173a2587795d",
+        "id": "ed2f49a868bc8884",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/¶Публикация Obsidian.md",
+            "file": "Base/GIT.md",
             "mode": "source",
             "backlinks": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "will-ch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 287
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/¶Публикация Obsidian.md",
+                "file": "Base/GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,34 +98,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "7deaf23f8ee157a7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 784,
-    "collapsed": true
+    "width": 509
   },
-  "active": "a197173a2587795d",
+  "active": "ed2f49a868bc8884",
   "lastOpenFiles": [
-    "Base/¶Публикация Obsidian.md",
-    "Base/_Index.md",
-    "Base/Digital garden.md",
-    "Templates/Note.md",
-    "Base/§Алгоритмы.md",
-    "Base/_Symbols.md",
-    "Base/_About.md",
-    "Base/§Патерны.md",
-    "Base/§Верстка писем.md",
-    "Base/Соглашение по коммитам.md"
+    "Base/GIT.md",
+    "Base/Fonst and Themes VS code.md",
+    "Base/VS Code.md",
+    "Base/¶Yandex.Metrika.md",
+    "Base/XSS.md",
+    "Base/Информационная безопасность.md",
+    "Base/CSRF.md",
+    "Base/§HTTP.md",
+    "Base/XMLHttpRequest.md",
+    "Daily/Презентация Commit Convinion.md"
   ]
 }

@@ -1,8 +1,13 @@
 ---
+tags: 
 aliases: null
 date created: 2022-03-23 10:26
 date updated:
+date modified: Wednesday, March 23rd 2022, 10:52:39 am
+title: Типизация TS
 ---
+
+# Типизация TS
 
 TS - надстройка для JS добавляющая типы. Типы проверяютя во время компиляции TS в JS или во время проверок.
 
@@ -12,4 +17,3 @@ TS - надстройка для JS добавляющая типы. Типы п
 ---
 
 ###### Citation
-
