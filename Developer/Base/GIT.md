@@ -8,6 +8,7 @@ title: GIT
 ---
 
 # GIT
+# Git Prune: https://www.atlassian.com/git/tutorials/git-prune
 
 ### Основное
 
