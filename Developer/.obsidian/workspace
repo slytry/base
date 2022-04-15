@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/GIT.md",
+            "file": "Base/_About.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/GIT.md",
+                "file": "Base/_About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,19 +104,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509
+    "width": 509,
+    "collapsed": true
   },
   "active": "ed2f49a868bc8884",
   "lastOpenFiles": [
+    "Base/_About.md",
+    "Influence/§Искусство речи, ораторство.md",
+    "Base/_Index.md",
+    "Daily/Презентация Commit Convinion.md",
+    "Base/Исскуство речи, ораторство.md",
+    "Base/2022-06-09 Студия Чулакова (Frontend jun++).md",
     "Base/GIT.md",
-    "Base/Fonst and Themes VS code.md",
-    "Base/VS Code.md",
-    "Base/¶Yandex.Metrika.md",
-    "Base/XSS.md",
-    "Base/Информационная безопасность.md",
-    "Base/CSRF.md",
-    "Base/§HTTP.md",
-    "Base/XMLHttpRequest.md",
-    "Daily/Презентация Commit Convinion.md"
+    "Base/§HTML.md",
+    "Base/§Стартовые шаблоны.md",
+    "Base/§Патерны.md"
   ]
 }

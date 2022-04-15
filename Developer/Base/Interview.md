@@ -1,11 +1,17 @@
 ---
+aliases: собеседование, аттестация
+tags: 
 date created: 2022-01-12 10:25
 date updated: 2022-01-27 22:44
+date modified: Saturday, March 26th 2022, 7:37:44 pm
 ---
+
+# Interview
 
 [[2022-01-10 Anderson (JavaScript Developer Trainee)]]
 [[2022-01-26 Justice IT (Стажер React.js)]]
 [[2022-01-27 Студия Чулакова (Frontend Intern)]]
+[[2022-06-09 Студия Чулакова (Frontend jun++)]]
 
 ---
 

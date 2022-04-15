@@ -5,7 +5,6 @@ date updated:
 ---
 
 - [[Терминал]]
-- [[Docker]]
 - [[VS Code]]
 - [[osx]]
 - [[Windows]]
