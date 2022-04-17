@@ -8,7 +8,7 @@ title: GIT
 ---
 
 # GIT
-# Git Prune: https://www.atlassian.com/git/tutorials/git-prune
+	
 
 ### Основное
 
@@ -21,6 +21,7 @@ title: GIT
 - [[Основные команды]]
 - [[Команды stash]]
 - [[Тэги Git]]
+- [[Очистка веток]]
 
 ### Конфигкрация
 

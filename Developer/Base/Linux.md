@@ -14,3 +14,4 @@ date updated:
 
 ###### Citation
 
+# [Изучите необходимый минимум Linux, чтобы быть продуктивным](https://ru.hexlet.io/blog/posts/basic-linux-productivity)

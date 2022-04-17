@@ -1,14 +1,16 @@
 ---
 tags: 
-aliases: 
+aliases: тесты 
+date created: Saturday, March 26th 2022, 7:37:44 pm
+date modified: Sunday, April 17th 2022, 10:20:50 pm
 ---
-Про тесты - https://frontender.info/writing-testable-javascript/
-Mocha - https://mochajs.org/
-Chai - https://www.chaijs.com/
-Jest - https://jestjs.io/
+
+# Aotomatic test
+
+ - [[Unit тесты с React Testing Library]]
+ - [Cypress](https://www.cypress.io/)
+ - [Jest](https://jestjs.io/en/)
 
 ---
-###### Related 
----
-###### Citation
-Date: 2021-11-18T13:11
+
+###### References

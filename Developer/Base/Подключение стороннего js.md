@@ -57,3 +57,4 @@ export default function FirstPost() {
 
 ###### Citation
 To learn more about the `Script` component, check out the [documentation](https://nextjs.org/docs/basic-features/script).
+https://tproger.ru/translations/script-execution-order/

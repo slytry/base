@@ -19,5 +19,6 @@
   "showFrontmatter": false,
   "foldHeading": true,
   "foldIndent": true,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "vimMode": false
 }

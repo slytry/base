@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Wednesday, April 6th 2022, 2:41:52 pm
-date modified: Wednesday, April 6th 2022, 3:24:56 pm
+date modified: Sunday, April 17th 2022, 4:27:20 pm
 title: Merge requests
 ---
 
@@ -29,15 +29,15 @@ Closes #<issue>
 
 ## Before/After 
 
-| Before                                                        | After                                                        |
-| ------------------------------------------------------------- | ------------------------------------------------------------ |
-|  <Before the changes image>                                   | <After the changes image>                                    |
-
+| Before                      | After                     |
+| --------------------------- | ------------------------- |
+|  <Before the changes image> | <After the changes image> |
 ```
 
- ### Пример 
+ ### Пример
+
 ```markdown
-ADVMGFN21-82 | Sandbox | Выполнение задания из песочницы
+ADVMGFN21-82 | Выполнение задания из песочницы
 
 Closes #[ADVMGFN21-82](https://jira.chulakov.org/browse/PRDHRPODR-3057)
 
@@ -61,11 +61,10 @@ Closes #[ADVMGFN21-82](https://jira.chulakov.org/browse/PRDHRPODR-3057)
 
 ```
 
-
 ---
 
 ###### Citation
 
 TODO:
 
-GitLab поддерживает [Markdown](https://git.chulakov.org/help/user/markdown) и[quick actions](https://git.chulakov.org/help/user/project/quick_actions)
+GitLab поддерживает [Markdown](https://git.chulakov.org/help/user/markdown) и [quick actions](https://git.chulakov.org/help/user/project/quick_actions)

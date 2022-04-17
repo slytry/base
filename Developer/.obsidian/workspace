@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed2f49a868bc8884",
+        "id": "e3b03595b2feeda2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/2022-06-09 Студия Чулакова (Frontend jun++).md",
-            "mode": "source",
-            "backlinks": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "will-ch",
+                "query": "vpn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 287,
+    "collapsed": true
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/2022-06-09 Студия Чулакова (Frontend jun++).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,25 +95,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 509,
-    "collapsed": true
+    "width": 367
   },
-  "active": "ed2f49a868bc8884",
+  "active": "e3b03595b2feeda2",
   "lastOpenFiles": [
+    "Base/Aotomatic test.md",
+    "Base/Unit тесты с React Testing Library.md",
+    "Base/Подключение стороннего js.md",
     "Base/2022-06-09 Студия Чулакова (Frontend jun++).md",
-    "Base/_About.md",
-    "Influence/§Искусство речи, ораторство.md",
-    "Base/_Index.md",
-    "Daily/Презентация Commit Convinion.md",
-    "Base/Исскуство речи, ораторство.md",
+    "Base/Interview.md",
+    "Base/Merge requests.md",
     "Base/GIT.md",
-    "Base/§HTML.md",
-    "Base/§Стартовые шаблоны.md",
-    "Base/§Патерны.md"
+    "Base/Причины исползования.md",
+    "Base/Соглашение по коммитам.md",
+    "Base/zsh.md"
   ]
 }
