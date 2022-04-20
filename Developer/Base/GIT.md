@@ -2,12 +2,13 @@
 tags: 
 aliases: 
 date created: 08-10-2021 14:44
-date modified: Wednesday, April 6th 2022, 11:28:37 am
+date modified: Monday, April 18th 2022, 1:37:52 pm
 
 title: GIT
 ---
 
 # GIT
+
 	
 
 ### Основное
@@ -21,7 +22,7 @@ title: GIT
 - [[Основные команды]]
 - [[Команды stash]]
 - [[Тэги Git]]
-- [[Очистка веток]]
+- [[Очистка веток устаревших веток]]
 
 ### Конфигкрация
 
@@ -74,6 +75,11 @@ https://www.atlassian.com/ru/git/tutorials/rewriting-history
 
 - [Мои инструменты и технологии Николай Громов](https://nicothin.pro/page/my-small-tools)
 
+Видео ШРИ (ахеренные):
+
+- [01. Git — инструмент для совместной работы с нуля и до регламента в команде — Александр Васильев](https://www.youtube.com/watch?v=XfpNNPo5ypk&list=PLKaafC45L_SSUUku_N10BBkVWXkKzqZFI&index=1&t=48s)
+- [Git — инструмент для совместной работы, с нуля и до регламента в команде](https://www.youtube.com/watch?v=nKZsA4T7QPg&list=PLKaafC45L_SRoYnuEW5cgqHN-kpSTVfMs&index=2)
+
 Шпаргалки
 
 - [Решение проблем в Git](http://firstaidgit.ru/#/)
@@ -100,8 +106,9 @@ https://www.atlassian.com/ru/git/tutorials/rewriting-history
 
 Программы для работы с GitHub
 
-- [GitHub Desktop.](https://desktop.github.com/ "https://desktop.github.com/")
-- [GitKraken.](https://www.gitkraken.com/ "https://www.gitkraken.com/")
-- [Atlassian SourceTree.](https://www.sourcetreeapp.com/ "https://www.sourcetreeapp.com/")
-- [Sublime Merge.](https://www.sublimemerge.com/ "https://www.sublimemerge.com/")
-- [Tower.](https://www.git-tower.com/ "https://www.git-tower.com/")
+- [GitHub Desktop.](https://desktop.github.com/)
+- [GitKraken.](https://www.gitkraken.com/)
+- [Atlassian SourceTree.](https://www.sourcetreeapp.com/)
+- [Sublime Merge](https://www.sublimemerge.com/) - для любителей sulime text
+- [Tower.](https://www.git-tower.com/)
+- https://git-fork.com/

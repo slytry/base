@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e3b03595b2feeda2",
+        "id": "ed2f49a868bc8884",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/Настройка на VIM Takuya Matsuyama.md",
+            "mode": "source",
+            "backlinks": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vpn",
+                "query": "will-ch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287,
-    "collapsed": true
+    "width": 287
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Настройка на VIM Takuya Matsuyama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,19 +103,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367
+    "width": 509
   },
-  "active": "e3b03595b2feeda2",
+  "active": "ed2f49a868bc8884",
   "lastOpenFiles": [
-    "Base/Aotomatic test.md",
-    "Base/Unit тесты с React Testing Library.md",
-    "Base/Подключение стороннего js.md",
+    "Base/Настройка на VIM Takuya Matsuyama.md",
     "Base/2022-06-09 Студия Чулакова (Frontend jun++).md",
     "Base/Interview.md",
-    "Base/Merge requests.md",
+    "Base/ESLint.md",
+    "Base/React transition group.md",
+    "Base/Очистка веток устаревших веток.md",
     "Base/GIT.md",
-    "Base/Причины исползования.md",
     "Base/Соглашение по коммитам.md",
-    "Base/zsh.md"
+    "Base/useNavigate.md",
+    "Base/react-router-DOM.md"
   ]
 }

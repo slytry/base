@@ -180,7 +180,7 @@ npx install-peerdeps --dev eslint-config-airbnb
 ---
 
 ###### Citation
-
+https://www.youtube.com/watch?v=RXaltL8yIlc
 <https://github.com/airbnb/javascript/tree/HEAD/packages/eslint-config-airbnb#eslint-config-airbnbhooks>
 [Сложно о простом: ESLint в команде](https://habr.com/ru/post/322550/)
 <https://www.jscamp.app/ru/docs/typescript10/>

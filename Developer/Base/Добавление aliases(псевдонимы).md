@@ -23,6 +23,7 @@ title: Добавление aliases(псевдонимы)
 | git config --global alias.br branch                                                           | br    |     |     |
 | git config --global alias.type 'cat-file -t'                                                  | type  |     |     |
 | git config --global alias.dump 'cat-file -p'                                                  | dump  |     |     |
+| git config --global alias.reset reset --hard @                                                | reset | **    |     |
 
 
 ### Сложные алиасы с параметрами

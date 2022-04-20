@@ -1,8 +1,8 @@
 ---
-aliases: маска для телефона, react mask
+aliases: маска для телефона, mask
 tags: 
 date created: Monday, April 11th 2022, 3:46:03 pm
-date modified: Monday, April 11th 2022, 4:07:55 pm
+date modified: Tuesday, April 19th 2022, 12:11:33 pm
 title: react-input-mask
 ---
 
@@ -14,6 +14,7 @@ title: react-input-mask
 - [react-input-mask](https://github.com/sanniassin/react-input-mask)
 
 Issues
+
 - Если не работает `maskPlaceholder` https://github.com/sanniassin/react-input-mask/issues/216
 
 ## phoneinput
