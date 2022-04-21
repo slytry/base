@@ -19,11 +19,9 @@ date modified: Tuesday, April 19th 2022, 11:25:08 am
 
 [[ESLint]]
 
-[[Запуск задач VS code]]
-
 [[Hotkeys VS code]]
 
-[[Extensions list VS code]]
+[[Extension's list VS code]]
 
 ---
 

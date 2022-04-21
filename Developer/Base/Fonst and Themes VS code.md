@@ -1,10 +1,15 @@
 ---
+tags: 
 aliases: null
 date created: 2022-03-18 20:53
 date updated:
+date modified: Thursday, April 21st 2022, 10:57:53 am
 ---
 
+# Fonst and Themes VS code
+
 ###  Шрифт
+
 ![[Pasted image 20220320153330.png]]
 
 https://www.youtube.com/watch?v=f5DRAh7K8PU&list=WL&index=3
@@ -25,6 +30,7 @@ https://www.youtube.com/watch?v=f5DRAh7K8PU&list=WL&index=3
 ```
 
 **Jetbrains mono**
+
 ```json
 {
 	"editor.fontFamily": "JetBrains Mono",
@@ -36,17 +42,11 @@ https://www.youtube.com/watch?v=f5DRAh7K8PU&list=WL&index=3
 ```
 
 **MonoLisa** - платно
+
 https://www.monolisa.dev/buy
 
-```json
-{
-
-}
-```
-
-
 **Cascadia Code**
-Уже установлен
+Надо скачивать
 
 ```json
 {
@@ -55,8 +55,6 @@ https://www.monolisa.dev/buy
  "editor.fontLigatures": true,
 }
 ```
-
-
 
 ### Themes
 
@@ -83,8 +81,8 @@ https://www.monolisa.dev/buy
 - [Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
 - [Cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 
-
 ### Icons
+
 - [Seedling Icon Theme](https://marketplace.visualstudio.com/items?itemName=rastikerdar.vscode-seedling-icon-theme)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Quill Icons](https://marketplace.visualstudio.com/items?itemName=cdonohue.quill-icons)
@@ -92,4 +90,3 @@ https://www.monolisa.dev/buy
 ---
 
 ###### Citation
-

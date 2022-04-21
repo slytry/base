@@ -2,7 +2,7 @@
 tags: 
 aliases: svse
 date created: 2022-03-18 15:40
-date modified: Thursday, March 31st 2022, 5:58:53 pm
+date modified: Thursday, April 21st 2022, 11:17:55 am
 
 title: Настройки Расширения VS code
 ---
@@ -49,14 +49,15 @@ https://prettier.io/docs/en/options.html
 
 ```json
 {
+	"prettier.jsxBracketSameLine": true,
 	"prettier.jsxSingleQuote": true,
 	"prettier.singleQuote": true,
 	"prettier.tabWidth": 2,
 	"prettier.useTabs": true,
-	"prettier.printWidth": 100,
+	"prettier.printWidth": 90,
 	"prettier.trailingComma": "es5",
 	"prettier.bracketSameLine": true,
-	"prettier.jsxBracketSameLine": true,
+	
 }
 ```
 

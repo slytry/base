@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Настройка на VIM Takuya Matsuyama.md",
+            "file": "Base/VS Code.md",
             "mode": "source",
             "backlinks": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "will-ch",
+                "query": "prettier",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Настройка на VIM Takuya Matsuyama.md",
+                "file": "Base/VS Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +108,15 @@
   },
   "active": "ed2f49a868bc8884",
   "lastOpenFiles": [
-    "Base/Настройка на VIM Takuya Matsuyama.md",
-    "Base/2022-06-09 Студия Чулакова (Frontend jun++).md",
-    "Base/Interview.md",
+    "Base/VS Code.md",
+    "Base/Настройки Расширения VS code.md",
     "Base/ESLint.md",
-    "Base/React transition group.md",
-    "Base/Очистка веток устаревших веток.md",
-    "Base/GIT.md",
-    "Base/Соглашение по коммитам.md",
-    "Base/useNavigate.md",
-    "Base/react-router-DOM.md"
+    "Base/Settings VS code.md",
+    "Base/Настройки для винды VS code.md",
+    "Base/Автоматическое дополнение, подсказки VS code.md",
+    "Base/Настройки для верстки в VS code.md",
+    "Base/Универсальные настройки VS code.md",
+    "Base/Настройки языков.md",
+    "Base/Настройка jsconfig.json.md"
   ]
 }

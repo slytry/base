@@ -1,18 +1,26 @@
 ---
+tags: 
 aliases: null
 date created: 2022-03-16 21:27
-date updated:
+date modified: Thursday, April 21st 2022, 11:02:26 am
+date modified: Thursday, April 21st 2022, 11:02:26 am
 ---
+
+# Settings VS code
+
+### Задачи
+
+[[Смена ts/js]]
+[[Убрать вернуть автолинтер
 
 - [[Универсальные настройки VS code]]
 - [[Настройки Расширения VS code]]
 - [[Настройки для винды VS code]]
-- [[Настройки Javascript в VS code]]
+- [[Настройки языков]]
 - [[Автоматическое дополнение, подсказки VS code]]
 - [[Настройки для верстки в VS code]]
 
 ---
+###### References
 
-###### Citation
-
-https://www.youtube.com/watch?v=_jquc4KJ4IU
+https://code.visualstudio.com/docs/languages/jsconfig
