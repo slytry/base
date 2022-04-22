@@ -4,12 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ed2f49a868bc8884",
+        "id": "2cd03ea03aaf9493",
         "type": "leaf",
+        "dimension": 33.25396825396825,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Настройка на VIM Takuya Matsuyama.md",
+            "file": "Base/good Commits.md",
+            "mode": "source",
+            "backlinks": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "f8a68b9a5482653b",
+        "type": "leaf",
+        "dimension": 66.74603174603175,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Соглашение по коммитам.md",
             "mode": "source",
             "backlinks": false
           }
@@ -53,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 216
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -69,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Настройка на VIM Takuya Matsuyama.md",
+                "file": "Base/Соглашение по коммитам.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,23 +115,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 509
+    "width": 172,
+    "collapsed": true
   },
-  "active": "ed2f49a868bc8884",
+  "active": "f8a68b9a5482653b",
   "lastOpenFiles": [
-    "Base/Настройка на VIM Takuya Matsuyama.md",
-    "Base/2022-06-09 Студия Чулакова (Frontend jun++).md",
-    "Base/Interview.md",
-    "Base/ESLint.md",
-    "Base/React transition group.md",
-    "Base/Очистка веток устаревших веток.md",
-    "Base/GIT.md",
     "Base/Соглашение по коммитам.md",
-    "Base/useNavigate.md",
-    "Base/react-router-DOM.md"
+    "Base/good Commits.md",
+    "Base/svg-cli.md",
+    "Base/Причины исползования.md",
+    "Daily/Презентация Commit Convinion.md",
+    "Base/git bisect.md",
+    "Base/CHANGELOG.md",
+    "Base/exm.md",
+    "Base/История использования коммитов.md",
+    "Base/Речь.md"
   ]
 }
