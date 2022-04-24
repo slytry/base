@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2cd03ea03aaf9493",
+        "id": "ed2f49a868bc8884",
         "type": "leaf",
-        "dimension": 33.25396825396825,
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/good Commits.md",
-            "mode": "source",
-            "backlinks": false
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "f8a68b9a5482653b",
-        "type": "leaf",
-        "dimension": 66.74603174603175,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/Соглашение по коммитам.md",
+            "file": "Base/Команды конфигурации.md",
             "mode": "source",
             "backlinks": false
           }
@@ -56,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "will-ch",
+                "query": "shower",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 287
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -85,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Соглашение по коммитам.md",
+                "file": "Base/Команды конфигурации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,25 +100,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 172,
+    "width": 100,
     "collapsed": true
   },
-  "active": "f8a68b9a5482653b",
+  "active": "ed2f49a868bc8884",
   "lastOpenFiles": [
-    "Base/Соглашение по коммитам.md",
-    "Base/good Commits.md",
-    "Base/svg-cli.md",
-    "Base/Причины исползования.md",
+    "Base/Команды конфигурации.md",
+    "Base/GIT.md",
+    "Base/Alias git.md",
+    "Base/AutoCRFL.md",
+    "Base/shower.md",
+    "Base/Слайды.md",
     "Daily/Презентация Commit Convinion.md",
-    "Base/git bisect.md",
-    "Base/CHANGELOG.md",
-    "Base/exm.md",
-    "Base/История использования коммитов.md",
-    "Base/Речь.md"
+    "Daily/Git do a lil diggin.md",
+    "Base/shower - движок для презентаций.md",
+    "Base/Правила версткии писем и тесты.md"
   ]
 }
