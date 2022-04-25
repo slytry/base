@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: 08-10-2021 14:44
-date modified: Monday, April 18th 2022, 1:37:52 pm
+date modified: Saturday, April 23rd 2022, 10:28:26 pm
 
 title: GIT
 ---
@@ -27,8 +27,9 @@ title: GIT
 ### Конфигкрация
 
 - [[Команды конфигурации]]
-- [[Добавление aliases(псевдонимы)]]
+- [[Alias git]]
 - [[Кастомный шаблон Коммита]]
+- [[AutoCRFL]]
 
 ### Работа с ветками
 
@@ -69,9 +70,14 @@ https://www.atlassian.com/ru/git/tutorials/rewriting-history
 - [[Способы вывести логи красиво]]
 - [[Git Cherry Pick]]
 
+
+### Offtop
+
+- [[VCS системы контроля версий]]
+
 ---
 
-#### Citation
+###### References
 
 - [Мои инструменты и технологии Николай Громов](https://nicothin.pro/page/my-small-tools)
 
@@ -79,6 +85,8 @@ https://www.atlassian.com/ru/git/tutorials/rewriting-history
 
 - [01. Git — инструмент для совместной работы с нуля и до регламента в команде — Александр Васильев](https://www.youtube.com/watch?v=XfpNNPo5ypk&list=PLKaafC45L_SSUUku_N10BBkVWXkKzqZFI&index=1&t=48s)
 - [Git — инструмент для совместной работы, с нуля и до регламента в команде](https://www.youtube.com/watch?v=nKZsA4T7QPg&list=PLKaafC45L_SRoYnuEW5cgqHN-kpSTVfMs&index=2)
+- [003. Git — инструмент для совместной работы, с нуля и до регламента в команде — Сергей Сергеев](https://www.youtube.com/watch?v=yDSs80lu3ak&list=PLZTsCOAKJJ_bGf1tARI_ZFCpLUwZvf73P&index=2&t=5923s)
+- [# Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE&list=PLZTsCOAKJJ_bGf1tARI_ZFCpLUwZvf73P&index=3&t=1262s)
 
 Шпаргалки
 
@@ -98,17 +106,3 @@ https://www.atlassian.com/ru/git/tutorials/rewriting-history
 Статья
 
 - [Как склеить коммиты и зачем это нужно](https://htmlacademy.ru/blog/boost/tools/how-to-squash-commits-and-why-it-is-needed)
-- [Работа с Git через консоль](https://htmlacademy.ru/blog/boost/frontend/git-console)
-- [Полезные команды для работы с Git](https://htmlacademy.ru/blog/boost/tools/useful-commands-for-working-with-git)
-- [Статья про разницу между LF и CRLF.](https://htmlacademy.ru/blog/389-konec-stroki "https://htmlacademy.ru/blog/389-konec-stroki")
-- [Как открыть пулреквест в GitHub и не облажаться.](https://isqua.ru/blog/2017/04/12/kak-otkryt-pull-riekviest-v-github-i-nie-oblazhatsia/ "https://isqua.ru/blog/2017/04/12/kak-otkryt-pull-riekviest-v-github-i-nie-oblazhatsia/")
-- [Комментируйте свои пулл-реквесты.](https://isqua.ru/blog/2017/04/13/kommientiruitie-svoi-pull-riekviesty/ "https://isqua.ru/blog/2017/04/13/kommientiruitie-svoi-pull-riekviesty/")
-
-Программы для работы с GitHub
-
-- [GitHub Desktop.](https://desktop.github.com/)
-- [GitKraken.](https://www.gitkraken.com/)
-- [Atlassian SourceTree.](https://www.sourcetreeapp.com/)
-- [Sublime Merge](https://www.sublimemerge.com/) - для любителей sulime text
-- [Tower.](https://www.git-tower.com/)
-- https://git-fork.com/

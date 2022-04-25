@@ -2,8 +2,8 @@
 aliases: собеседование, аттестация
 tags: 
 date created: 2022-01-12 10:25
-date updated: 2022-01-27 22:44
-date modified: Saturday, March 26th 2022, 7:37:44 pm
+date modified: Sunday, April 24th 2022, 9:18:47 pm
+date modified: Sunday, April 24th 2022, 9:18:47 pm
 ---
 
 # Interview
@@ -12,6 +12,119 @@ date modified: Saturday, March 26th 2022, 7:37:44 pm
 [[2022-01-26 Justice IT (Стажер React.js)]]
 [[2022-01-27 Студия Чулакова (Frontend Intern)]]
 [[2022-06-09 Студия Чулакова (Frontend jun++)]]
+
+# Interview Questions
+
+## Git
+**Intern**
+- Что такое VCS. Разновидности систем котроля версий кода.
+- Принцип работы Git
+
+**Junior**
+
+- Базовые сущности Git и работа с ними. 
+- Проверка и анализ статуса репозитория. 
+- Идеология создания точек фиксации.
+
+**Junior+**
+
+Состояния репозитория, понятие рабочего каталога, состав директории .git. Понимание GitFlow.
+
+**Junior++**
+
+- Типы репозиториев. 
+- Системы управления репозиториями.
+- Базовые операции с удаленным репозтиторием
+- Предложения о применение изменений
+- Исключения файлов и директорий из индексирования
+
+## HTML
+**Intern**
+
+
+
+**Junior**
+
+
+**Junior+**
+
+
+**Junior++**
+
+## CSS
+
+**Intern**
+
+
+
+**Junior**
+
+
+**Junior+**
+
+
+**Junior++**
+
+
+## Пропроцессоры
+
+**Intern**
+
+
+
+**Junior**
+
+
+**Junior+**
+
+
+**Junior++**
+
+
+## JavaScript: Основы
+
+**Intern**
+
+
+
+**Junior**
+
+
+**Junior+**
+
+
+**Junior++**
+
+
+## JavaScript: Работа с DO
+
+**Intern**
+
+
+
+**Junior**
+
+
+**Junior+**
+
+
+**Junior++**
+
+
+## JavaScript: Сетевые запросы
+
+**Intern**
+
+
+
+**Junior**
+
+
+**Junior+**
+
+
+**Junior++**
+
 
 ---
 

@@ -35,3 +35,7 @@ https://jay.gooby.org/2021/07/13/positional-arguments-in-git-aliases
 ###### Citation
 
 https://www.atlassian.com/ru/git/tutorials/git-alias
+
+https://opensource.com/article/20/11/git-aliases
+
+https://git.wiki.kernel.org/index.php/Aliases
