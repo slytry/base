@@ -74,6 +74,8 @@ https://www.atlassian.com/ru/git/tutorials/rewriting-history
 ### Offtop
 
 - [[VCS системы контроля версий]]
+- [[История Git]]
+- [[Что такое Git]]
 
 ---
 
