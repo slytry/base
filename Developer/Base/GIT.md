@@ -70,6 +70,11 @@ https://www.atlassian.com/ru/git/tutorials/rewriting-history
 - [[Способы вывести логи красиво]]
 - [[Git Cherry Pick]]
 
+
+### Offtop
+
+- [[VCS системы контроля версий]]
+
 ---
 
 ###### References

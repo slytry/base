@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ed2f49a868bc8884",
+        "id": "a7136bcbba14766d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Команды конфигурации.md",
+            "file": "Base/VCS системы контроля версий.md",
             "mode": "source",
             "backlinks": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Команды конфигурации.md",
+                "file": "Base/VCS системы контроля версий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +107,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "ed2f49a868bc8884",
+  "active": "a7136bcbba14766d",
   "lastOpenFiles": [
-    "Base/Команды конфигурации.md",
+    "Base/VCS системы контроля версий.md",
     "Base/GIT.md",
-    "Base/Alias git.md",
-    "Base/AutoCRFL.md",
-    "Base/shower.md",
-    "Base/Слайды.md",
-    "Daily/Презентация Commit Convinion.md",
-    "Daily/Git do a lil diggin.md",
-    "Base/shower - движок для презентаций.md",
-    "Base/Правила версткии писем и тесты.md"
+    "Base/Interview.md",
+    "Base/Cобеседование Junior Frontend разработчика.md",
+    "Base/2022-06-09 Студия Чулакова (Frontend jun++).md",
+    "Base/VS Code.md",
+    "Base/Snippets VS code.md",
+    "Base/Запуск задач VS code.md",
+    "Base/Hotkeys VS code.md",
+    "Base/Extensions list VS code.md"
   ]
 }

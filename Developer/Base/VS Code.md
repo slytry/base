@@ -4,7 +4,7 @@ aliases:
 created date: 2021-11-08T14:12
 
 date created: Wednesday, April 6th 2022, 4:54:17 pm
-date modified: Tuesday, April 19th 2022, 11:25:08 am
+date modified: Sunday, April 24th 2022, 4:29:02 pm
 ---
 
 # VS Code
@@ -19,11 +19,10 @@ date modified: Tuesday, April 19th 2022, 11:25:08 am
 
 [[ESLint]]
 
-[[Запуск задач VS code]]
-
 [[Hotkeys VS code]]
 
 [[Extensions list VS code]]
+[styled-jsx](https://marketplace.visualstudio.com/items?itemName=blanu.vscode-styled-jsx)
 
 ---
 
