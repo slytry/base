@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Monday, March 21st 2022, 9:21:47 am
-date modified: Tuesday, March 29th 2022, 1:06:10 pm
+date modified: Tuesday, April 26th 2022, 4:07:49 pm
 title: Structure
 ---
 [CSS Properties Sheet](https://docs.google.com/spreadsheets/d/1-pca7hev_jizbaKW1ns13kvHFQUz6R1rz7SyXg8dQAQ/edit#gid=0)
@@ -102,7 +102,6 @@ title: Structure
 - Общее
 	- [[Основы Sass]]
 	- [[Медиазапросы в SCSS]]
-	- [CSS-препроцессоры против CSS](https://nicothin.pro/page/css-preprocessors)
 	- [[Организация кнопок на сайте с помощью Sass]]
 	
 - Модули

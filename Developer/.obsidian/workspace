@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/VCS системы контроля версий.md",
+            "file": "Base/БЭМ.md",
             "mode": "source",
             "backlinks": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "will-ch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/VCS системы контроля версий.md",
+                "file": "Base/БЭМ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "a7136bcbba14766d",
   "lastOpenFiles": [
-    "Base/VCS системы контроля версий.md",
-    "Base/GIT.md",
-    "Base/Что такое Git.md",
-    "Base/История Git.md",
-    "Base/Interview.md",
-    "Base/Cобеседование Junior Frontend разработчика.md",
-    "Base/2022-06-09 Студия Чулакова (Frontend jun++).md",
-    "Base/VS Code.md",
-    "Base/Snippets VS code.md",
-    "Base/Запуск задач VS code.md"
+    "Base/БЭМ.md",
+    "Base/§CSS.md",
+    "Base/will-change.md",
+    "Base/Шаблон разметки Holy Grail.md",
+    "Base/Приватные свойства.md",
+    "Base/Основы Sass.md",
+    "Base/Медиазапросы в SCSS.md",
+    "Base/scss @forward.md",
+    "Base/scss @use.md",
+    "Base/CSS-фон.md"
   ]
 }
