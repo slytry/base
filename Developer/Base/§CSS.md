@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Monday, March 21st 2022, 9:21:47 am
-date modified: Tuesday, April 26th 2022, 4:07:49 pm
+date modified: Wednesday, April 27th 2022, 12:39:40 pm
 title: Structure
 ---
 [CSS Properties Sheet](https://docs.google.com/spreadsheets/d/1-pca7hev_jizbaKW1ns13kvHFQUz6R1rz7SyXg8dQAQ/edit#gid=0)
@@ -83,6 +83,8 @@ title: Structure
 
 [[background-image для ретины]]
  Links
+ [Адаптивные изображения: 5 трюков CSS для экономии времени](https://proglib.io/p/responsive-images)
+ [When to use IMG vs. CSS background-image?](https://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image)
 	- [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
 	- [Responsive Images in Practice](http://alistapart.com/article/responsive-images-in-practice/)
 	- [Почему мы не можем делать по-настоящему адаптивные изображения при помощи CSS или JavaScript](https://css-live.ru/articles/pochemu-my-ne-mozhem-delat-po-nastoyashhemu-adaptivnye-izobrazheniya-pri-pomoshhi-css-ili-javascript.html)
