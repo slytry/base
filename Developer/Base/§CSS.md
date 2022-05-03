@@ -5,7 +5,7 @@ date created: Monday, March 21st 2022, 9:21:47 am
 date modified: Monday, May 2nd 2022, 6:19:26 pm
 title: Structure
 ---
-[CSS Properties Sheet](https://docs.google.com/spreadsheets/d/1-pca7hev_jizbaKW1ns13kvHFQUz6R1rz7SyXg8dQAQ/edit#gid=0)
+
 [Работа с HTML и CSS: 10 полезных приемов для дизайнер](https://nuancesprog.ru/p/12211/)
 
 # Structure
@@ -52,6 +52,8 @@ title: Structure
 	- [[Выравнивание текста text-align]]
 	- [[Перенос текста]]
 - Шрифты
+- https://htmlacademy.ru/blog/best/fonts-loading
+- https://habr.com/ru/post/539680/
 	- [[Системный шрифт]]
 	- [[15 безопасных шрифтов на подмену]]
 - Links
