@@ -2,10 +2,10 @@
 tags: 
 aliases: 
 date created: Monday, March 21st 2022, 9:21:47 am
-date modified: Wednesday, April 27th 2022, 12:39:40 pm
+date modified: Monday, May 2nd 2022, 6:19:26 pm
 title: Structure
 ---
-[CSS Properties Sheet](https://docs.google.com/spreadsheets/d/1-pca7hev_jizbaKW1ns13kvHFQUz6R1rz7SyXg8dQAQ/edit#gid=0)
+
 [Работа с HTML и CSS: 10 полезных приемов для дизайнер](https://nuancesprog.ru/p/12211/)
 
 # Structure
@@ -28,7 +28,7 @@ title: Structure
 - [[Адаптивность с помощью clamp()]]
 - [[The Deconstructed Pancake Подвижные карточки]]
 - [[Отзывчивый и адаптивный дизайн сайта]]
-- [[Media queries CSS]]
+- [[Медиа запросы CSS]]
  Links
 - [10 modern layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU) https://1linelayouts.glitch.me/ https://thecode.media/css-one-line/ https://thecode.media/new-1line-css/
 - https://itchief.ru/html-and-css/responsive-design
@@ -44,10 +44,16 @@ title: Structure
 	- [[Типографика, свойства]]
 	- [Все варианты отзывчевого текста, Михаил Иванкив](https://www.youtube.com/watch?v=cO2-zYzjyD0)
 	- [[Перенос строк и слов]]
+- Адаптив
+	- https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/		
+	- https://css-tricks.com/snippets/css/fluid-typography/
+	- https://css-tricks.com/fun-viewport-units/
 - Стилизация
 	- [[Выравнивание текста text-align]]
 	- [[Перенос текста]]
 - Шрифты
+- https://htmlacademy.ru/blog/best/fonts-loading
+- https://habr.com/ru/post/539680/
 	- [[Системный шрифт]]
 	- [[15 безопасных шрифтов на подмену]]
 - Links
@@ -60,9 +66,8 @@ title: Structure
 	- [Ремы, емы, и почему отказ от них — не проблема.](https://medium.com/devschacht/david-gilbertson-rems-and-ems-and-why-you-probably-dont-need-them-3b2b1e785787)
 
 #### Функции
-
+[A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
 - Размеры
-	- [[Переменные CSS. Кастомные свойства]]
 	- [[переменные с цветами]]
 	- [[CSS-функции min(), max() и clamp()]]
 - Работа с картинками
@@ -71,6 +76,11 @@ title: Structure
 - Links
 	- [Математические функции в CSS](https://yoksel.github.io/css-math/#restrictions)
 	- [5 функций CSS, которые пригодятся при разработке сайтов](https://nuancesprog.ru/p/12643/)
+
+#### Кастомные свойств
+
+- [[Переменные CSS. Кастомные свойства]]
+- [[Как лучше именовать переменный с цветами]]
 
 #### Animations
 

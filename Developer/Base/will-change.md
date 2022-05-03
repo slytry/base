@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: bug-css
 tags: 
 date created: Monday, April 11th 2022, 2:49:43 pm
 date modified: Tuesday, April 26th 2022, 4:09:19 pm
