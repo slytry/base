@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Monday, March 21st 2022, 9:21:47 am
-date modified: Monday, May 2nd 2022, 6:19:26 pm
+date modified: Tuesday, May 3rd 2022, 12:09:43 pm
 title: Structure
 ---
 
@@ -45,7 +45,7 @@ title: Structure
 	- [Все варианты отзывчевого текста, Михаил Иванкив](https://www.youtube.com/watch?v=cO2-zYzjyD0)
 	- [[Перенос строк и слов]]
 - Адаптив
-	- https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/		
+	- https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/
 	- https://css-tricks.com/snippets/css/fluid-typography/
 	- https://css-tricks.com/fun-viewport-units/
 - Стилизация
@@ -66,6 +66,7 @@ title: Structure
 	- [Ремы, емы, и почему отказ от них — не проблема.](https://medium.com/devschacht/david-gilbertson-rems-and-ems-and-why-you-probably-dont-need-them-3b2b1e785787)
 
 #### Функции
+
 [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
 - Размеры
 	- [[переменные с цветами]]
