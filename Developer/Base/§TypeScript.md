@@ -37,3 +37,7 @@ title: §TypeScript
 - [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 - [Interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html)
+
+[https://www.newline.co/books/fullstack-react-with-typescript/welcome](https://www.newline.co/books/fullstack-react-with-typescript/welcome)
+
+[https://bespoyasov.ru/blog/fullstack-react-typescript/](https://bespoyasov.ru/blog/fullstack-react-typescript/)

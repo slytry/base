@@ -17,7 +17,7 @@ VCS (Version Control System) - программное обеспечениедл
 
 Когд патчи хранятся в специальном формате на локальном диске
 
-Привер такой програмы - [RCS](https://www.gnu.org/software/rcs/)
+Пример такой програмы - [RCS](https://www.gnu.org/software/rcs/)
 
 **Минусы:**
 

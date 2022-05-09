@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§CSS.md",
-            "mode": "source",
+            "file": "Base/good Commits.md",
+            "mode": "preview",
             "backlinks": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 363
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§CSS.md",
+                "file": "Base/good Commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "b78dbc0169ede2a2",
   "lastOpenFiles": [
-    "Base/§CSS.md",
-    "Base/Медиа запросы CSS.md",
-    "Base/will-change.md",
-    "Base/Адаптивность с помощью clamp().md",
-    "Base/cross-fade().md",
-    "Base/blend modes.md",
-    "Base/переменные с цветами.md",
-    "Base/Как лучше именовать переменный с цветами.md",
-    "Base/CSS Scroll Snap.md",
-    "Base/Блок на весь экран.md"
+    "Base/good Commits.md",
+    "Daily/Презентация Commit Convinion.md",
+    "Base/exm.md",
+    "Daily/Git Middle +.md",
+    "Base/Соглашение по коммитам.md",
+    "Base/§GIT.md",
+    "Base/Merge requests.md",
+    "Base/Lean Branching.md",
+    "Base/Семантическое Версионирование 2.0.0.md",
+    "Base/CHANGELOG.md"
   ]
 }
