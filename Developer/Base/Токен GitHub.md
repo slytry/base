@@ -1,12 +1,14 @@
 ---
+tags: 
 aliases: null
 date created: 2022-02-02 13:06
 date updated: 2022-02-02 13:10
+date modified: Saturday, May 7th 2022, 9:18:01 pm
 ---
-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
-С 13 агуста 2021 года Git Hub обновился, надо создавать токен.
 
-### Создание токена
+# Создание токена
+
+С 13 агуста 2021 года Git Hub обновился, надо создавать токен.
 
 <https://github.com/settings/tokens>
 
