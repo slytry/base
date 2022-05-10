@@ -50,7 +50,7 @@ https://www.atlassian.com/ru/git/tutorials/undoing-changes
 - [[Отмена запушенный изменений]]
 
 ### Переписывание истории
-
+[Как удалить конфиденциальный файл из истории коммитов на GitHub](https://techrocks.ru/2021/02/11/removing-sensitive-file-from-commit-history/b)
 - <https://www.atlassian.com/ru/git/tutorials/rewriting-history>
 
 ### Идеология
