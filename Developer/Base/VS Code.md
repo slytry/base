@@ -4,25 +4,32 @@ aliases:
 created date: 2021-11-08T14:12
 
 date created: Wednesday, April 6th 2022, 4:54:17 pm
-date modified: Sunday, April 24th 2022, 4:29:02 pm
+date modified: Wednesday, May 11th 2022, 12:57:47 pm
 ---
 
 # VS Code
 
-### Settings part
+### Settings
 
 [[Settings VS code]]
 
 [[Fonst and Themes VS code]]
 
+### Code style
+
 [[Snippets VS code]]
 
 [[ESLint]]
 
+[[Prettier]]
+
+### Hotkeys
+
 [[Hotkeys VS code]]
 
-[[Extensions list VS code]]
-[styled-jsx](https://marketplace.visualstudio.com/items?itemName=blanu.vscode-styled-jsx)
+### Snippets
+
+[styled-jsx](https://marketplac()e.visualstudio.com/items?itemName=blanu.vscode-styled-jsx)
 
 ---
 

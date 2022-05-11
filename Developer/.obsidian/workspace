@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§CSS.md",
+            "file": "Base/Prettier.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§CSS.md",
+                "file": "Base/Prettier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,20 +103,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 415
   },
   "active": "a7136bcbba14766d",
   "lastOpenFiles": [
+    "Base/Prettier.md",
+    "Base/VS Code.md",
+    "Base/ESLint.md",
+    "Base/GIT.md",
+    "Base/Соглашение по коммитам.md",
+    "Base/Extensions list VS code.md",
     "Base/§CSS.md",
     "Base/CSS-фон.md",
     "Base/Подключение svg.md",
-    "Base/§HTML.md",
-    "Base/Стилизация svg.md",
-    "Base/Оптимизация svg, полифиллы, инструменты.md",
-    "Base/svg-cli.md",
-    "Base/background-image для ретины.md",
-    "Base/БЭМ.md",
-    "Base/will-change.md"
+    "Base/§HTML.md"
   ]
 }
