@@ -31,9 +31,12 @@ title: _Index
 1. [Цифровой сад Maggie Appleton](https://maggieappleton.com/about) - вдохновение
 2. [Showcase](https://quartz.jzhao.xyz/notes/showcase/) - примеры
 
+[10 плагинов и 3 темы для Obsidian: делаем из приложения конфетку](https://fedorovpishet.ru/pimp-my-obsidian/)
 
 ---
 
 ###### Referencec
+
+https://github.com/dy-sh/obsidian-wiki
 
 - ![[_.pdf]]

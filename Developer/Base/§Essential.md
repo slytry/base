@@ -21,7 +21,7 @@ title: §Essential
 
 - [[npm менеджер пакетов]]
 - [[npx ]]
-- [[GIT]]
+- [[§GIT]]
 - [[GitHub]]
 - [[Chrome DevTools]]
 - [[Документация]]
