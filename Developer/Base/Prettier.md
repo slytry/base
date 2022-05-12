@@ -39,7 +39,24 @@ date modified: Wednesday, May 11th 2022, 12:57:50 pm
 -  [lerna](https://github.com/lerna/lerna)
 -  [use-platform](https://github.com/use-platform/use-platform)
 
+### Конфиг
+"@trivago/prettier-plugin-sort-imports" - плагин для сортировки импортов
+```
+{
+	"trailingComma": "es5",
+	"arrowParens": "always",
+	"endOfLine": "lf",
+	"printWidth": 100,
+	"semi": true,
+	"singleQuote": true,
+	"tabWidth": 4,
+	"useTabs": true,
+	"importOrder": ["^[./]"],
+	"importOrderSeparation": true,
+	"importOrderSortSpecifiers": true
+}
 
+```
 
 ---
 

@@ -23,6 +23,8 @@ date modified: Wednesday, May 11th 2022, 12:57:47 pm
 
 [[Prettier]]
 
+[[EditorConfig for VS Code]]
+
 ### Hotkeys
 
 [[Hotkeys VS code]]
