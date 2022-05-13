@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Prettier.md",
+            "file": "Base/ESLint CRA Typescript.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Prettier.md",
+                "file": "Base/ESLint CRA Typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,25 +99,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 172,
-    "collapsed": true
+    "width": 519
   },
   "active": "b78dbc0169ede2a2",
   "lastOpenFiles": [
+    "Base/ESLint CRA Typescript.md",
+    "Base/ESLint.md",
     "Base/Prettier.md",
     "Base/VS Code.md",
+    "Base/Терминал.md",
+    "Base/zsh.md",
     "Base/EditorConfig for VS Code.md",
     "Base/Соглашение по коммитам.md",
     "Base/§GIT.md",
-    "Base/Отмена запушенный изменений.md",
-    "Base/shower.md",
-    "Base/История использования коммитов.md",
-    "Daily/Презентация Commit Convinion.md",
-    "Base/good Commits.md"
+    "Base/Отмена запушенный изменений.md"
   ]
 }

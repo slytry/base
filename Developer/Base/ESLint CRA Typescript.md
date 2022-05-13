@@ -120,3 +120,4 @@ date updated:
 
 [ESLINT React TS](https://andrebnassis.medium.com/setting-eslint-on-a-react-typescript-project-2021-1190a43ffba)
 
+https://indepth.dev/posts/1282/setting-up-efficient-workflows-with-eslint-prettier-and-typescript
