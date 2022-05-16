@@ -43,7 +43,9 @@ date updated:
 ### Подвинутые функции
 - [[path aliases next js]]
 
-### Развертывание приложения Next.js
+### Окуружение
+
+- [[Анимация всей встраницы NEXT.JS]]
 
 ### Примеры
 [Next.js  Material UI  - Emotion](https://www.youtube.com/watch?v=IFaFFmPYyMI&list=PLZTsCOAKJJ_b_qj0W5-9XVKnu769iBXR5&index=8&t=130s)
