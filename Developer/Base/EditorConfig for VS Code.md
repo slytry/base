@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Thursday, March 17th 2022, 9:36:45 am
-date modified: Thursday, May 12th 2022, 5:36:37 pm
+date modified: Friday, May 13th 2022, 10:24:12 pm
 ---
 
 # EditorConfig
@@ -17,6 +17,7 @@ date modified: Thursday, May 12th 2022, 5:36:37 pm
 ### Правила
 
 editorconfig поддерживает минимайльный набор правил, представленый внизу
+
 некоторые среды разработки могут поддерживать больше свойст, но там где они не поддерживаются они будут просто проигнорированный
 правила можно настравивать под конкретные разширения файлов
 
@@ -29,11 +30,16 @@ root = true //говорит что файлы буду искаться в ди
 [*]
 charset = utf-8
 indent_style = tab
-indent_size = 2
-tab_width = 2
+indent_size = 4
 end_of_line = lf
 insert_final_newline = true
-trim_trailing_whitespace = true
+trim_trailing_whitespace = true`
+
+[{*.json,*.yml,*.toml}]
+indent_size = 2
+
+
+
 
 ```
 

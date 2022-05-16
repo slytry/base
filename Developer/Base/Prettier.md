@@ -42,7 +42,6 @@ date modified: Friday, May 13th 2022, 4:59:30 pm
 
 ### Конфиг
 
-"@trivago/prettier-plugin-sort-imports" - плагин для сортировки импортов
 
 ```
 {
@@ -54,6 +53,11 @@ date modified: Friday, May 13th 2022, 4:59:30 pm
 	"singleQuote": true,
 	"tabWidth": 4,
 	"useTabs": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.jsxBracketSameLine": true
+	
+	// "@trivago/prettier-plugin-sort-imports" - плагин для сортировки импортов
+
 	"importOrder": ["^[./]"],
 	"importOrderSeparation": true,
 	"importOrderSortSpecifiers": true

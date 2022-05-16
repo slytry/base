@@ -1,8 +1,12 @@
 ---
+tags: 
 aliases: null
 date created: 2022-03-14 19:02
 date updated:
+date modified: Friday, May 13th 2022, 8:49:09 pm
 ---
+
+# ESLint CRA Typescript
 
 ## eslintrc
 
@@ -59,8 +63,7 @@ date updated:
 
 ```
 
-
-## Packaje.json 
+## Packaje.json
 
 ```json
 {
