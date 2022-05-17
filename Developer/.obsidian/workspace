@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§MOBX.md",
+            "file": "Base/§MTS.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§MOBX.md",
+                "file": "Base/§MTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "19ce41fbe72b210d",
   "lastOpenFiles": [
+    "Base/§MTS.md",
+    "Base/§Mock.md",
     "Base/§MOBX.md",
     "Base/Как что писать в констукторе.md",
     "Base/Формы на MOBX.md",
     "Base/Связь с бэком на NEXT.JS.md",
     "Base/Root Store Pattern.md",
     "Base/Концепция MOBX.md",
-    "Base/§MTS.md",
     "Base/§Next.js.md",
-    "Base/Анимация всей встраницы NEXT.JS.md",
-    "Base/§VUE.md"
+    "Base/Анимация всей встраницы NEXT.JS.md"
   ]
 }
