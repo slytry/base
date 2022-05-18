@@ -3,11 +3,7 @@ aliases: null
 date created: {{date:YYYY-MM-DD}} {{time:HH:mm}}
 date updated:
 ---
-Пароли
-L: naumov99.rst@gmail.com
 
-GitLab сргдфлщм
-portainer naumov chulakov
 
 ### Для чего?
 Решает проблему когда на одной машине все работает, а на другой нет
@@ -78,3 +74,8 @@ $ docker-compose up -d
 
 ###### Citation
 https://docs.google.com/document/d/1yOvQCxe69lnAKaheTLv-cbO2HXJsxCckSg_SQB6Yw-Y/edit#heading=h.p1p8b6q8twxc
+
+YT:
+
+-  [Docker: глубокое погружение (плейлист)](https://www.youtube.com/watch?v=v_GbcTpMTLE&list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u)
+-  [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=0N3n56KsC28&list=PLZTsCOAKJJ_YZglqBYyrRx_iy_npQH-3N&index=2&t=133s)

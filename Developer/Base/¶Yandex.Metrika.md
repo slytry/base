@@ -17,4 +17,7 @@ title: Yandex.Metrika
 
 ###### Refferences
 
-- https://www.youtube.com/playlist?list=PLjEKjSpX1kHXiwpHpR_j44YFxXaq7GYrh
+https://www.youtube.com/playlist?list=PLjEKjSpX1kHXiwpHpR_j44YFxXaq7GYrh
+https://www.youtube.com/watch?v=_t4CJW3e4_w&list=PLZTsCOAKJJ_YjunAtEdFBhtOE5fgBR2Cl&index=4&t=481s
+https://www.youtube.com/watch?v=yU0QqAAftJg&list=PLZTsCOAKJJ_YjunAtEdFBhtOE5fgBR2Cl&index=3&t=148s
+https://www.youtube.com/watch?v=pOHqwTC--vQ&list=PLZTsCOAKJJ_YjunAtEdFBhtOE5fgBR2Cl&index=2&t=961s

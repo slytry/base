@@ -3,7 +3,11 @@ tags:
   - src/Course
 aliases: null
 date updated: 2022-01-23 11:33
+date created: Friday, March 18th 2022, 8:19:42 pm
+date modified: Wednesday, May 18th 2022, 8:14:00 am
 ---
+
+# Теория JavaScript
 
 [[#Citation|toBottom↓]]
 
@@ -64,6 +68,7 @@ date updated: 2022-01-23 11:33
 - [[Variables Scopes Hoisting Closures]] ==перед собесом==
 - [[Function Hoisting]]
 - https://www.freecodecamp.org/news/es6-functions-9f61c72b1e86/
+
 #### Свойства объекта, их конфигурация
 
 - ==[[Геттеры и сеттеры]]==
@@ -80,8 +85,9 @@ date updated: 2022-01-23 11:33
 - [[Классы]]
 
 #### Обработка ошибок
+
 - [[Консольные методы consol]]
-- [[try...catch]]
+- [[try…catch]]
 
 #### Промисы, async/await
 
@@ -155,6 +161,7 @@ date updated: 2022-01-23 11:33
 - [[LocalStorage, sessionStorage]]
 
 #### Сетевые запросы
+
 - [[Fetch]]
 - [[FormData]]
 - [[Fetch: ход загрузки]]
@@ -174,11 +181,13 @@ date updated: 2022-01-23 11:33
 - [[Перезапуск анимации]]
 
 #### Regular expressions
+
 - [[Regular expression cheat sheet]]
 - [[Patterns and flags]]
 - [[Классы символов]]
-- [[Unicode flag 'u' and class p{...}]]
+- [[Unicode flag 'u' and class p{…}]]
 - [[Sticky flag 'y', searching at position]]
+[Префикс квантификатора № 1 - * в RegExp JavaScript](https://www.youtube.com/watch?v=DBF44p_tVYE&list=PLZTsCOAKJJ_YKA2m4bYEyewNlkJ67kV0T&index=2&t=33s)
 
 #### Tests
 
