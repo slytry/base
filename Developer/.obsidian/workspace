@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/Relocate.md",
+            "file": "Base/Сброс стилей.md",
             "mode": "source",
             "backlinks": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Велик",
+                "query": "will-ch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356
+    "width": 256
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Relocate.md",
+                "file": "Base/Сброс стилей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,20 +103,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371,
-    "collapsed": true
+    "width": 371
   },
   "active": "19ce41fbe72b210d",
   "lastOpenFiles": [
-    "Daily/Relocate.md",
-    "Daily/Велик.md",
-    "Influence/_About.md",
-    "Influence/_Index.md",
-    "Influence/_Symbols.md",
-    "Influence/§ Обучение.md",
-    "Influence/§ Запски по тони робинсону.md",
-    "Daily/≈  FCodex. Любовь приходит и уходит, а кушать хочется всегда..md",
-    "Daily/Стиральная машина.md",
-    "Daily/Git Middle +.md"
+    "Base/Сброс стилей.md",
+    "Base/§CSS.md",
+    "Base/ESLint CRA Typescript.md",
+    "Base/ESLint.md",
+    "Base/§TypeScript.md",
+    "Base/§MTS.md",
+    "Base/§Mock.md",
+    "Base/§MOBX.md",
+    "Base/Как что писать в констукторе.md",
+    "Base/Формы на MOBX.md"
   ]
 }
