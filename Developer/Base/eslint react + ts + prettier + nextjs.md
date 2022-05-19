@@ -244,9 +244,12 @@ package-lock.json
 ---
 
 ###### Citation
+Articles
 - [Setting up efficient workflows with ESLint, Prettier and TypeScript](https://indepth.dev/posts/1282/setting-up-efficient-workflows-with-eslint-prettier-and-typescript)
 - [Setting ESLint on a React Typescript project (2022)](https://andrebnassis.medium.com/setting-eslint-on-a-react-typescript-project-2021-1190a43ffba)
 
 
+Examples
+- [storybook repo](https://github.com/storybookjs/storybook) - переписывают правила только для определенных языков
 
 

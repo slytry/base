@@ -1,11 +1,14 @@
 ---
+tags: 
 aliases: null
 date created: 2022-03-09 11:36
 date updated:
+date modified: Thursday, March 17th 2022, 9:36:45 am
 ---
 
-jsconfig
+# Настройка WP для alias
 
+jsconfig
 
 ```js
 {
@@ -22,7 +25,7 @@ jsconfig
 
 ```
 
-Только такой webpack 
+Только такой webpack
 
 ```js
 const path = require('path');
@@ -46,4 +49,3 @@ config.resolve.alias = {
 ---
 
 ###### Citation
-

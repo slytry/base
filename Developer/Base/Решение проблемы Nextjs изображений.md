@@ -1,13 +1,17 @@
 ---
+tags: 
 aliases: null
 date created: 2022-03-03 15:43
 date updated:
+date modified: Thursday, March 17th 2022, 9:36:45 am
 ---
+
+# Решение проблемы Nextjs изображений
 
 Because Storybook runs these components in isolation of Next.js framework-integrations, we need to configure it in two important ways:
 
-1.  Serve the Next.js `public` directory in Storybook
-2.  Add the `unoptimized` prop to Next.js Image component in all stories
+1. Serve the Next.js `public` directory in Storybook
+2. Add the `unoptimized` prop to Next.js Image component in all stories
 
 ### 1. Serve the public directory in Storybook
 
@@ -53,4 +57,3 @@ For more information on this technique, read _How to Use the Next.js Image Compo
 ---
 
 ###### Citation
-

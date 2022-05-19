@@ -2,7 +2,7 @@
 tags: 
 aliases: git
 date created: 08-10-2021 14:44
-date modified: Sunday, May 8th 2022, 1:15:06 pm
+date modified: Thursday, May 19th 2022, 6:42:22 pm
 
 title: GIT
 ---
@@ -50,7 +50,9 @@ https://www.atlassian.com/ru/git/tutorials/undoing-changes
 - [[Отмена запушенный изменений]]
 
 ### Переписывание истории
+
 [Как удалить конфиденциальный файл из истории коммитов на GitHub](https://techrocks.ru/2021/02/11/removing-sensitive-file-from-commit-history/b)
+
 - <https://www.atlassian.com/ru/git/tutorials/rewriting-history>
 
 ### Идеология
