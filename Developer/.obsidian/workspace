@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§GIT.md",
+            "file": "Base/Алиасы для стилей nextjs.md",
             "mode": "source",
             "backlinks": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§GIT.md",
+                "file": "Base/Алиасы для стилей nextjs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "56e692062427de06",
   "lastOpenFiles": [
-    "Base/§GIT.md",
-    "Base/Сброс стилей.md",
-    "Base/Как писать css в next.md",
+    "Base/Алиасы для стилей nextjs.md",
     "Base/§Next.js.md",
-    "Base/Организация кнопок на сайте с помощью Sass.md",
+    "Base/scss @use.md",
     "Base/§CSS.md",
-    "Base/npm менеджер пакетов.md",
-    "Base/Как работать со статикой.md",
-    "Base/Как менять head для каждой страницы.md",
-    "Base/Роутинг.md"
+    "Base/scss @forward.md",
+    "Base/scss @import.md",
+    "Base/Сигнатура и примеры.md",
+    "Base/§TypeScript.md",
+    "Base/§GIT.md",
+    "Base/Зачем нужный Generic.md"
   ]
 }
