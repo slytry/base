@@ -58,8 +58,9 @@ date modified: Monday, May 16th 2022, 1:50:59 pm
 
 [[Image nextjs]]
 
-### Подвинутые функции
+### Конфигурация
 
+- [[Поддержка браузеров nextjs]]
 - [[path aliases next js]]
 
 ### Окуружение
