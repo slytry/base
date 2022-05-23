@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/npm менеджер пакетов.md",
+            "file": "Base/§React.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "fcc8415fdd4c643c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Ant Design.md",
             "mode": "source",
             "backlinks": false
           }
@@ -49,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/npm менеджер пакетов.md",
+                "file": "Base/Ant Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +117,17 @@
     "direction": "horizontal",
     "width": 371
   },
-  "active": "56e692062427de06",
+  "active": "fcc8415fdd4c643c",
   "lastOpenFiles": [
-    "Base/npm менеджер пакетов.md",
-    "Base/Поддержка браузеров nextjs.md",
-    "Base/§Next.js.md",
-    "Base/Алиасы для стилей nextjs.md",
-    "Base/scss @use.md",
-    "Base/§CSS.md",
-    "Base/scss @forward.md",
-    "Base/scss @import.md",
-    "Base/Сигнатура и примеры.md",
-    "Base/§TypeScript.md"
+    "Base/Ant Design.md",
+    "Base/§React.md",
+    "Base/Reack basic.md",
+    "Base/Snippets VS code.md",
+    "Base/useToggle.md",
+    "Influence/§ Обучение.md",
+    "Base/Структура фалов React проекта.md",
+    "Base/Терминал.md",
+    "Base/Структура React проекта.md",
+    "Base/Структура файлов.md"
   ]
 }
