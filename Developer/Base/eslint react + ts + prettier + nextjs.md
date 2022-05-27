@@ -11,7 +11,7 @@ date modified: Wednesday, May 18th 2022, 9:56:01 pm
 Конфиг основан  [этой](https://indepth.dev/posts/1282/setting-up-efficient-workflows-with-eslint-prettier-and-typescript) статье и доплнительными плюшками:
 - некоторые правала взятых с шаблона виталика
 - eslint для nextjs взят из [доки](https://nextjs.org/docs/basic-features/eslint#:~:text=Migrating%20Existing%20Config)
-- установлен [плагин](https://nextjs.org/docs/basic-features/eslint#:~:text=Migrating%20Existing%20Config) для притиера, отменяет некоторые правили дл яизбежания конфликтов
+- установлен [плагин](https://nextjs.org/docs/basic-features/eslint#:~:text=Migrating%20Existing%20Config) для притиера, отменяет некоторые правили для избежания конфликтов
 
 ### main part
 

@@ -2,13 +2,14 @@
 tags: 
 aliases: 
 date created: Thursday, March 17th 2022, 9:36:45 am
-date modified: Wednesday, May 18th 2022, 10:13:20 pm
+date modified: Wednesday, May 25th 2022, 2:43:03 pm
 title: ESLint
 ---
 
 # ESLint
 
 - [[eslint react + ts + prettier + nextjs]]
+- [[import order rules]]
 
 ---
 

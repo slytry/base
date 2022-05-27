@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Tuesday, April 12th 2022, 10:48:14 am
-date modified: Tuesday, April 12th 2022, 10:50:00 am
+date modified: Wednesday, May 25th 2022, 4:27:37 pm
 title: §HTTP
 ---
 
@@ -19,4 +19,6 @@ title: §HTTP
 
 ---
 
-###### Refferences
+###### References
+
+https://deworker.pro/edu/series/http-basics
