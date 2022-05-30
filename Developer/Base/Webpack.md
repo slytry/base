@@ -1,29 +1,58 @@
 ---
 tags: 
 aliases: 
+date created: Saturday, March 26th 2022, 7:37:44 pm
+date modified: Sunday, May 29th 2022, 4:03:12 pm
 ---
 
+# Webpack
 
-### Работа Webpack
+## Концепции
 
-#### Файл конфигураии
-Режим сборки: разработка || продакшн.
-Для продакшена код оптимизируется и подключаются все плагины. Работает чуть дольше. Продакшн использовать чисто один раз в самом конце, когд все готово.
-Можно перенастроить {
-Энтри файл(entry): файл с котоого все начнется
-Файл выхода(output): назначить имя выходного файла и где он будет находится
-Отслеживать(watch): Будт ли срабатывать после каждого изменения файла
-Наличие карты (devtool): оптимизированный код не читабелен, чтобы его развернуть нужна карта. source-map хранит иформацию об исходнике. Потом в браузере можно посмотреть откуда был взят весь этот код, очень удобно.
-Модули(module): подключить модули, например babil.
-Дополнительно можно подключать плагины. Но эторедко надо. Все что нужно обычно с коробки
-}
+Сборщик принципа 'снизу вверх'. Этот принцип отлицается от gulp. Благодяря ему можно не забитится о подключаемых зависимостях. Если что-то не используется оно просто не попадет в конечную сборку.
 
+### Лоадеры
+
+Загрузчики - програми которые говорят вебпаку как работать с данным типом файлов
+
+### Плагины
+
+Плагины - имеют более рамширеный функционал в отличии от лоадером. Работаю с API WB, отслеживают его события
+
+## Конфигурация
+
+### HTML
+
+### CSS
+
+### JS
+
+webpack-bundle-analyzer
+
+### Image
+
+### SVG
+
+### Font
 
  
----
-###### Citation
-http://largescalejs.ru/commonjs-modules/
-https://webpack.js.org/guides/getting-started/
-https://webpack.js.org/configuration/devtool/
 
-Date: 2021-11-15T13:49
+---
+
+###### Citation
+
+Видео
+
+- [Webpack 5 Full Project Setup](https://www.youtube.com/watch?v=TOb1c39m64A)
+- [Я перепробовал 200 webpack-плагинов для перформанса (чтобы избавить от этого вас) [ru] / Иван Акулов](https://www.youtube.com/watch?v=Nmjy_wMlTuQ)
+- [Webpack. Базовая сборка проекта](https://www.youtube.com/watch?v=R9DTbDA_ZVE)
+
+Статьи
+
+- [How to Advanced Webpack 5 - Setup Tutorial](https://www.robinwieruch.de/webpack-advanced-setup-tutorial/)
+- [Настройка Webpack 5 с нуля](https://habr.com/ru/post/524260/)
+
+Примеры
+
+- https://github.com/bradtraversy/webpack-starter/blob/main/webpack.config.js
+- https://github.com/taniarascia/webpack-boilerplate

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "56e692062427de06",
+        "id": "ae696522a52def27",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Подключение шрифтов.md",
+            "file": "Base/Webpack.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Подключение шрифтов.md",
+                "file": "Base/Webpack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,19 +103,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371
+    "width": 371,
+    "collapsed": true
   },
-  "active": "56e692062427de06",
+  "active": "ae696522a52def27",
   "lastOpenFiles": [
-    "Base/Подключение шрифтов.md",
-    "Base/Lean Branching.md",
-    "Base/§HTTP.md",
-    "Base/import order rules.md",
-    "Base/ESLint.md",
-    "import/import order rules.md",
-    "Base/VS Code.md",
-    "Base/eslint react + ts + prettier + nextjs.md",
+    "Base/Webpack.md",
+    "Base/Микросервисы.md",
+    "Base/redux-toolkit snipp.md",
+    "Base/Books.md",
     "Base/§React.md",
-    "Base/Автоматический спрайт.md"
+    "Base/Ant Design.md",
+    "Base/Reack basic.md",
+    "Base/Snippets VS code.md",
+    "Base/useToggle.md",
+    "Influence/§ Обучение.md"
   ]
 }
