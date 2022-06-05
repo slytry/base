@@ -14,4 +14,5 @@ date updated:
 
 ###### Citation
 
-# [Изучите необходимый минимум Linux, чтобы быть продуктивным](https://ru.hexlet.io/blog/posts/basic-linux-productivity)
+- [Изучите необходимый минимум Linux, чтобы быть продуктивным](https://ru.hexlet.io/blog/posts/basic-linux-productivity)
+- [# 7 Things You MUST DO After Installing Fedora 36](https://www.youtube.com/watch?v=RrRpXs2pkzg&list=WL&index=2)

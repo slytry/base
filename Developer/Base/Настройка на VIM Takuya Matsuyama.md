@@ -1,12 +1,15 @@
 ---
 tags: 
-aliases: vim
+aliases: 
 date created: 2022-03-21 21:43
 date updated:
 date modified: Tuesday, March 22nd 2022, 9:32:50 am
 ---
 
 # Настройка на VIM Takuya Matsuyama
+
+
+
 
 ---
 

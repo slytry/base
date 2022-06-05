@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/Пример верстки Sumsung.md",
+            "file": "Daily/Велик.md",
             "mode": "source",
             "backlinks": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 560
+    "width": 290.01219177246094
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Пример верстки Sumsung.md",
+                "file": "Daily/Велик.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "ae696522a52def27",
   "lastOpenFiles": [
-    "Daily/Пример верстки Sumsung.md",
-    "Base/Я переделал HTML.md",
-    "Base/Я переделал CSS.md",
-    "Base/Альберт сделал HTML.md",
-    "Base/Альберт сделал CSS.md",
+    "Daily/Велик.md",
+    "Base/Linux.md",
+    "Daily/Английский.md",
+    "Base/Untitled 5.md",
+    "Base/Untitled 4.md",
+    "Base/Untitled 3.md",
+    "Base/Untitled 2.md",
     "Base/Untitled 1.md",
-    "Base/Webpack.md",
-    "Base/Микросервисы.md",
-    "Base/redux-toolkit snipp.md",
-    "Base/Books.md"
+    "Influence/Как научиться формулировать мысли. Как четко и ясно выражать свои мысли. Ораторское искусство память.md",
+    "Daily/Механическая клавиатура.md"
   ]
 }
