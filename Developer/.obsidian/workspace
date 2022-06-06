@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/Пример верстки Sumsung.md",
+            "file": "Base/visuallyhidden.md",
             "mode": "source",
             "backlinks": false
           }
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Пример верстки Sumsung.md",
+                "file": "Base/visuallyhidden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +109,15 @@
   },
   "active": "ae696522a52def27",
   "lastOpenFiles": [
-    "Daily/Пример верстки Sumsung.md",
-    "Base/Я переделал HTML.md",
-    "Base/Я переделал CSS.md",
-    "Base/Альберт сделал HTML.md",
-    "Base/Альберт сделал CSS.md",
-    "Base/Untitled 1.md",
-    "Base/Webpack.md",
-    "Base/Микросервисы.md",
-    "Base/redux-toolkit snipp.md",
-    "Base/Books.md"
+    "Base/visuallyhidden.md",
+    "Base/§HTML.md",
+    "Base/Предложения для инпута.md",
+    "Base/Формы и валидация.md",
+    "Base/Размеры элемента и прокрутка.md",
+    "Base/Теория JavaScript.md",
+    "Base/Размеры окна и прокрутка.md",
+    "Base/Работа с узлами, свойства DOM.md",
+    "Base/Координаты.md",
+    "Base/§JS.md"
   ]
 }
