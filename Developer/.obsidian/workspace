@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/Велик.md",
+            "file": "Base/visuallyhidden.md",
             "mode": "source",
             "backlinks": false
           }
@@ -49,11 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 290.01219177246094
+    "width": 560
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Велик.md",
+                "file": "Base/visuallyhidden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +109,15 @@
   },
   "active": "ae696522a52def27",
   "lastOpenFiles": [
-    "Daily/Велик.md",
-    "Base/Linux.md",
-    "Daily/Английский.md",
-    "Base/Untitled 5.md",
-    "Base/Untitled 4.md",
-    "Base/Untitled 3.md",
-    "Base/Untitled 2.md",
-    "Base/Untitled 1.md",
-    "Influence/Как научиться формулировать мысли. Как четко и ясно выражать свои мысли. Ораторское искусство память.md",
-    "Daily/Механическая клавиатура.md"
+    "Base/visuallyhidden.md",
+    "Base/§HTML.md",
+    "Base/Предложения для инпута.md",
+    "Base/Формы и валидация.md",
+    "Base/Размеры элемента и прокрутка.md",
+    "Base/Теория JavaScript.md",
+    "Base/Размеры окна и прокрутка.md",
+    "Base/Работа с узлами, свойства DOM.md",
+    "Base/Координаты.md",
+    "Base/§JS.md"
   ]
 }
