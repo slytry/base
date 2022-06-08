@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/visuallyhidden.md",
+            "file": "Base/import order rules.md",
             "mode": "source",
             "backlinks": false
           }
@@ -49,12 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 560
+    "width": 188
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/visuallyhidden.md",
+                "file": "Base/import order rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +108,15 @@
   },
   "active": "ae696522a52def27",
   "lastOpenFiles": [
-    "Base/visuallyhidden.md",
-    "Base/§HTML.md",
-    "Base/Предложения для инпута.md",
-    "Base/Формы и валидация.md",
+    "Base/import order rules.md",
+    "Base/ESLint.md",
     "Base/Размеры элемента и прокрутка.md",
     "Base/Теория JavaScript.md",
-    "Base/Размеры окна и прокрутка.md",
-    "Base/Работа с узлами, свойства DOM.md",
-    "Base/Координаты.md",
-    "Base/§JS.md"
+    "Base/§JS.md",
+    "Base/Горизонтальный скролл.md",
+    "Base/smooth scroll.md",
+    "Base/focus-visible.md",
+    "Base/Уникальный ключ React.md",
+    "Base/eslint react + ts + prettier + nextjs.md"
   ]
 }
