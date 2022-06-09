@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ae696522a52def27",
+        "id": "7086831597c6daab",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/import order rules.md",
+            "file": "Base/Transition react-transition-group.md",
             "mode": "source",
             "backlinks": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "svg",
+                "query": "scroll",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 188
+    "width": 404,
+    "collapsed": true
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/import order rules.md",
+                "file": "Base/Transition react-transition-group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +101,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 371,
-    "collapsed": true
+    "width": 371
   },
-  "active": "ae696522a52def27",
+  "active": "7086831597c6daab",
   "lastOpenFiles": [
+    "Base/Transition react-transition-group.md",
+    "Base/React transition group.md",
+    "Base/SEO.md",
+    "Base/Open Graph.md",
+    "Base/Микроразметка schema.org.md",
     "Base/import order rules.md",
     "Base/ESLint.md",
-    "Base/Размеры элемента и прокрутка.md",
-    "Base/Теория JavaScript.md",
-    "Base/§JS.md",
-    "Base/Горизонтальный скролл.md",
-    "Base/smooth scroll.md",
-    "Base/focus-visible.md",
-    "Base/Уникальный ключ React.md",
-    "Base/eslint react + ts + prettier + nextjs.md"
+    "Base/scrollmagic.md",
+    "Base/Скролл анимация.md",
+    "Base/ScrollTrigger.md"
   ]
 }
