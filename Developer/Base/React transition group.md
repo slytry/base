@@ -2,7 +2,7 @@
 aliases: rtg
 tags: 
 date created: Thursday, April 7th 2022, 12:30:19 pm
-date modified: Tuesday, April 19th 2022, 11:26:54 am
+date modified: Thursday, June 9th 2022, 8:10:46 pm
 title: React transition group
 ---
 
@@ -20,10 +20,11 @@ npm install react-transition-group --save
 
 ### Components
 
-- [[Transition]]
-- [CSSTransition](https://reactcommunity.org/react-transition-group/css-transition)
-- [SwitchTransition](https://reactcommunity.org/react-transition-group/switch-transition)
-- [TransitionGroup](https://reactcommunity.org/react-transition-group/transition-group)
+- [[Transition react-transition-group]]
+- [[CSSTransition react-transition-group]]
+- [[SwitchTransition react-transition-group]]
+- [[TransitionGroup react-transition-group]]
+- [[Usage with React Router]]
 
 ---
 
