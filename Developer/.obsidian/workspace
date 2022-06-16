@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§MOBX.md",
+            "file": "Base/Упражнения для снижения зашкалившего адреналина.md",
             "mode": "source",
             "backlinks": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "svg",
+                "query": "tag:#харизма",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.01219177246094,
-    "collapsed": true
+    "width": 467.01219177246094
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§MOBX.md",
+                "file": "Base/Упражнения для снижения зашкалившего адреналина.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +108,15 @@
   },
   "active": "5b0e055b48a72acd",
   "lastOpenFiles": [
-    "Base/§MOBX.md",
-    "Base/Типы отношений между объектами в ООП.md",
-    "Base/§Патерны.md",
-    "Base/SOLID.md",
-    "Base/Основы ООП.md",
-    "Base/Для чего нужны все эти условности.md",
-    "Base/FP.md",
-    "Base/Compound Components.md",
-    "Base/Функциональное программирование.md",
-    "Base/Тэг picture. Оптимизация и адаптивность.md"
+    "Base/Упражнения для снижения зашкалившего адреналина.md",
+    "Influence/§ Искусство речи, ораторство.md",
+    "Base/Прелюдия к ораторству.md",
+    "Influence/¶ Харизма.md",
+    "Influence/Как научиться формулировать мысли.md",
+    "Influence/Стиральная машина.md",
+    "Influence/Что делать после изучения материала.md",
+    "Influence/¶ Relocate.md",
+    "Influence/¶ FCodex. Любовь приходит и уходит, а кушать хочется всегда..md",
+    "Influence/§ Стоицизм.md"
   ]
 }
