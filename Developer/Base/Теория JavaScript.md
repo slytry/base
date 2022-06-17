@@ -191,7 +191,7 @@ date modified: Wednesday, May 18th 2022, 8:14:00 am
 
 #### Tests
 
-- [[Aotomatic test]]
+- [[Unit test]]
 
 ---
 

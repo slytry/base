@@ -2,33 +2,49 @@
 tags: 
 aliases: 
 date created: Friday, March 18th 2022, 8:19:42 pm
-date modified: Friday, March 18th 2022, 8:19:42 pm
+date modified: Monday, June 13th 2022, 10:17:58 am
 ---
 
 # Медиа запросы CSS
 
-[Шпаргалка адаптивности](https://tpverstak.ru/adaptive-cheatsheet/)
- [The 100% correct way to do CSS breakpoints](https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/#.ioazjk440)
+Создание медиа-запроса начинается с ключевого слова `@media` после которого указывается одно или несколько условий. В качестве условия можно указывать тип устройства или требования к определённой характеристике. Требование к определённой характеристике записывается в круглых скобках.
 
-- функция prefers-color-scheme, значения light или dark
+Комбинирование нескольких условий выполняется с помощью логических операторов.
+
+После составления `@media`, стили, указанные в нём, будут применяться только в том случае, когда итоговый результат вычисления условий является истинной.
+
+## Логические операторы
+
+Логические операторы `and`, `,` (запятая), `not` и `only` предназначены для создания сложных медиа-запросов.
+
+- `and` - объединения нескольких условий `@media screen and (min-width: 1200px) and (orientation: landscape) { … }`
+- `,` - выполнение одного из указанных условий `@media (min-width: 544px), (orientation: landscape) { … }`
+- `not` - используется для отрицания. Когда указываем `not` необходимо обязательно задавать тип устройства. При использовании `not` с `and` отрицание работает для всего медиа-запроса. При использовании `not` в выражении с запятой он добавляет отрицание только для этой части.
+
+## Запросы
+
+### От параметров устройство
+
 - min-width и max-width
 - функция orientation, значения landscape или portrait
+- `aspect-ration`, `min-aspect-ratio` и `max-aspect-ratio` позволяют задавать стили в зависимости от соотношения сторон viewport.
+-  `resolution`, `min-resolution` и `max-resolution` - стили в зависимости от плотности пикселей устройства.
+-  `display-mode` - fullscreen standalone minimal-ui browser
+### От типа устройсва
 
-### Запросы не только для адаптивности
+- `all` – для всех;
+- `print` – для принтеров и в режиме предварительного просмотра страницы перед печатью;
+- `screen` – для устройств с экранами;
+- `speech` – для программ чтения с экрана.
 
-##### Медиа-запрос prefers-reduced-motion
+### От настроек
 
-CSS [медиа функция](https://developer.mozilla.org/ru/docs/Web/CSS/Media_Queries/Using_media_queries) `prefers-reduced-motion` может использоваться для определения того, запросил ли пользователь, чтобы ОС минимизировала количество анимации или движения, которые она использует.
+- функция prefers-color-scheme, значения light или dark - пользователь настроил тему по-умолчанию в свой OS
+- Медиа-запрос prefers-reduced-motion -  пользователь настроил минимазацию анимаций в свой OS
 
 ---
 
 ###### Citation
 
-https://css-tricks.com/a-complete-guide-to-custom-properties/
-
-[Новые медиазапросы: адаптируем страницу к яркому свету и ночному режиму, управляем контрастностью и анимацией с помощью CSS](https://ru.hexlet.io/blog/posts/novye-mediazaprosy-kotorye-izmenyat-vashi-predstavleniya-o-vozmozhnostyah-css)
-
-[CSS медиа-запросы (media queries)](https://itchief.ru/html-and-css/media-queries)
-[Logic in CSS Media Queries (If / Else / And / Or / Not)](https://css-tricks.com/logic-in-css-media-queries/)
-
-Date: 07-06-2021 10:19
+- [css-tricks# A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-custom-properties/)
+ -[The 100% correct way to do CSS breakpoints](https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/#.ioazjk440)

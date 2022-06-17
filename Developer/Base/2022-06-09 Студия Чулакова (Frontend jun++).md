@@ -9,7 +9,7 @@ date modified: Thursday, April 14th 2022, 10:45:42 pm
 
 
 [interview-questions](https://github.com/YauhenKavalchuk/interview-questions)
-https://github.com/YauhenKavalchuk/useful/blob/main/front-end-2022.md
+- [ ] https://github.com/YauhenKavalchuk/useful/blob/main/front-end-2022.md
 ---
 
 ###### References
