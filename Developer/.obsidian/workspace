@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Transition react-transition-group.md",
+            "file": "Base/css shapes.md",
             "mode": "source",
             "backlinks": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scroll",
+                "query": "svg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404,
-    "collapsed": true
+    "width": 404
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Transition react-transition-group.md",
+                "file": "Base/css shapes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +105,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371
+    "width": 371,
+    "collapsed": true
   },
   "active": "7086831597c6daab",
   "lastOpenFiles": [
-    "Base/Transition react-transition-group.md",
-    "Base/React transition group.md",
-    "Base/SEO.md",
-    "Base/Open Graph.md",
-    "Base/Микроразметка schema.org.md",
-    "Base/import order rules.md",
-    "Base/ESLint.md",
-    "Base/scrollmagic.md",
-    "Base/Скролл анимация.md",
-    "Base/ScrollTrigger.md"
+    "Base/css shapes.md",
+    "Base/§TypeScript.md",
+    "Base/Сигнатура и примеры.md",
+    "Base/Аннотации и определение типа в TS.md",
+    "Base/Типизация TS.md",
+    "Base/§React.md",
+    "Base/Definitely Typed.md",
+    "Base/SVG.md",
+    "Base/§HTML.md",
+    "Base/Box Shadow vs. Drop Shadow.md"
   ]
 }

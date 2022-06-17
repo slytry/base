@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Wednesday, May 25th 2022, 2:40:07 pm
-date modified: Wednesday, June 8th 2022, 3:54:23 pm
+date modified: Tuesday, June 14th 2022, 11:26:48 am
 ---
 
 # Order rules
@@ -137,45 +137,7 @@ import type { Foo } from 'foo';
 
 ### warnOnUnassignedImports: true|false
 
-```json
-"rules": {
-		"import/order": [
-			"error",
-			{
-				"alphabetize": {
-					"caseInsensitive": true,
-					"order": "asc"
-				},
-
-				"newlines-between": "always",
-				"pathGroups": [
-					{
-						"pattern": "./**/*.scss",
-						"group": "type",
-						"position": "after"
-					},
-					{
-						"pattern": "components/**",
-						"group": "type",
-						"position": "before"
-					},
-					{
-						"pattern": ["/**/*.types", "../**/*.types"],
-						"group": "type",
-						"position": "before"
-					},
-					{
-						"pattern": "modules/**",
-						"group": "type",
-						"position": "before"
-					}
-				],
-				"pathGroupsExcludedImportTypes": ["./**/*.scss"],
-				"warnOnUnassignedImports": true
-			}
-		],
-}
-```
+Примеры настройки
 
 ```json
 "import/order": [
