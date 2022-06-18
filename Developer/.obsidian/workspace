@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Webpack.md",
+            "file": "Base/§Storybook.md",
             "mode": "source",
             "backlinks": false
           }
@@ -49,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 467.01219177246094,
-    "collapsed": true
+    "width": 467.01219177246094
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Webpack.md",
+                "file": "Base/§Storybook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,8 +108,8 @@
   },
   "active": "5b0e055b48a72acd",
   "lastOpenFiles": [
-    "Base/Webpack.md",
     "Base/§Storybook.md",
+    "Base/Webpack.md",
     "Base/Глобальные стили Storybook.md",
     "Base/Настройка рендеринга, декораторы  Storybook.md",
     "Base/Библиотеки CSS-in-JS Storybook.md",
