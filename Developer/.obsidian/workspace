@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Упражнения для снижения зашкалившего адреналина.md",
+            "file": "Base/will-change.md",
             "mode": "source",
             "backlinks": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#харизма",
+                "query": "will-ch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Упражнения для снижения зашкалившего адреналина.md",
+                "file": "Base/will-change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +109,7 @@
   },
   "active": "5b0e055b48a72acd",
   "lastOpenFiles": [
+    "Base/will-change.md",
     "Base/Упражнения для снижения зашкалившего адреналина.md",
     "Influence/§ Искусство речи, ораторство.md",
     "Base/Прелюдия к ораторству.md",
@@ -116,7 +118,6 @@
     "Influence/Стиральная машина.md",
     "Influence/Что делать после изучения материала.md",
     "Influence/¶ Relocate.md",
-    "Influence/¶ FCodex. Любовь приходит и уходит, а кушать хочется всегда..md",
-    "Influence/§ Стоицизм.md"
+    "Influence/¶ FCodex. Любовь приходит и уходит, а кушать хочется всегда..md"
   ]
 }

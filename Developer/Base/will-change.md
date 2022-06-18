@@ -6,6 +6,11 @@ date modified: Tuesday, April 26th 2022, 4:09:19 pm
 title: will-change
 ---
 
+Если мы что то анимаруем это надо вынести в отдельный слой
+
+Это можно сделать transform: translate(0)
+will-change: transform
+
 # will-change
 
 Эта тварь можетт сломать плеер на сафари. Когда проблемма со слоями, музыка играет и видео не вино
