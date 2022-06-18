@@ -250,6 +250,6 @@ Articles
 
 
 Examples
-- [storybook repo](https://github.com/storybookjs/storybook) - переписывают правила только для определенных языков
+- [storybook  lint config](There is a good example here: [https://github.com/storybookjs/linter-config/blob/master/eslint.config.js](https://github.com/storybookjs/linter-config/blob/master/eslint.config.js) 
 
 

@@ -23,6 +23,7 @@ title: Structure
 - [[supports@supports]]
 - [[CSS-фон]]
 - [[Фокус элементов CSS]]
+- [[Box Shadow vs. Drop Shadow]]
 
 #### Адаптивность
 
