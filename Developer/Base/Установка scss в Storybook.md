@@ -1,39 +1,63 @@
 ---
+tags: 
 aliases: null
 date created: 2022-03-03 10:28
-date updated:
+date modified: Saturday, June 18th 2022, 11:12:52 am
+date modified: Saturday, June 18th 2022, 11:12:52 am
 ---
+
+# Установка scss в Storybook
 
 Конфигурация webpack в sb поддерживает нативный css, но препроцессоры не будут работать.
 Надо установить необходимые лоадеры и настроить WP
 
+### Установить пакеты
 
-### Чтобы работал scss
-
-##### Установить пакеты
 ```
 npm i -D sass style-loader css-loader sass-loader
 ```
 
+### Настроить конфиг webpack
 
-##### Настроить конфиг webpack
-
-Файл main.js. в папку .storybook
+- Если внутри стилевых файлов хотим использовать алиасы а не относительные пути, над добавить эту настройку
 
 ```js
+sassOptions: {
+		includePaths: [path.join(__dirname, '../styles/')],
+			 },
+```
+
+- Конфигурация находится  в `src/.storybook/main.js`. Надо попросить веб пак выйти в паку src и там смотреть. 
+> Возможно есть более изящное решение. Наверняка можно задать корневую папку для всего WP. Но на момент когда я это настраив
+
+```js
+include: path.resolve(__dirname, '../'), 
+```
+
+
+```js
+//.storybook/main.js
 const path = require('path');
 
 module.exports = {
-//тут другие настройки
-	
-	
-  //Надо добавить
+
   webpackFinal: async (config, { configType }) => {
-    config.module.rules.push({
-      test: /\.scss$/,
-      use: ['style-loader', 'css-loader', 'sass-loader'],
-      include: path.resolve(__dirname, '../'),
-    });
+ 	config.module.rules.push({
+			test: /\.scss$/i,
+			use: [
+				'style-loader',
+				'css-loader',
+				{
+					loader: 'sass-loader',
+					options: {
+						sassOptions: {
+							includePaths: [path.join(__dirname, '../styles/')],
+						},
+					},
+				},
+			],
+			include: path.resolve(__dirname, '../'),
+		});
 
     return config;
   },
@@ -44,4 +68,3 @@ module.exports = {
 ---
 
 ###### Citation
-

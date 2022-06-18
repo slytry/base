@@ -2,7 +2,7 @@
 tags: 
 aliases: null
 date created: 2022-02-28 18:13
-date modified: Saturday, June 18th 2022, 11:07:46 am
+date modified: Saturday, June 18th 2022, 11:10:05 am
 
 title: §Storybook
 ---
@@ -11,7 +11,6 @@ title: §Storybook
 
 - [[Концепция UI-kit]]
 - [[Установка Storybook]]
-- [[Файлы конфигурации Storybook ]]
 
 ### Кастомная настройка webpack
 
