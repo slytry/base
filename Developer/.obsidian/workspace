@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Influence/§ Искусство речи, ораторство.md",
+            "file": "Influence/§ Бизнес.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Influence/§ Искусство речи, ораторство.md",
+                "file": "Influence/§ Бизнес.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
   },
   "active": "5b0e055b48a72acd",
   "lastOpenFiles": [
+    "Influence/§ Бизнес.md",
     "Influence/§ Искусство речи, ораторство.md",
     "Base/§Storybook.md",
     "Base/Webpack.md",
@@ -116,7 +117,6 @@
     "Base/Библиотеки CSS-in-JS Storybook.md",
     "Base/Настройка WP для alias.md",
     "Base/Добавить шрифты Storybook.md",
-    "Base/Установка scss в Storybook.md",
-    "Base/Пример конфига WP для SB с TS.md"
+    "Base/Установка scss в Storybook.md"
   ]
 }
