@@ -3,7 +3,7 @@
   "spellcheck": true,
   "promptDelete": false,
   "fileSortOrder": "alphabetical",
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "Base",
   "attachmentFolderPath": "Files",
   "showLineNumber": true,
@@ -17,8 +17,9 @@
   "legacyEditor": true,
   "livePreview": false,
   "showFrontmatter": false,
-  "foldHeading": true,
-  "foldIndent": true,
+  "foldHeading": false,
+  "foldIndent": false,
   "defaultViewMode": "source",
-  "vimMode": false
+  "vimMode": false,
+  "trashOption": "system"
 }
