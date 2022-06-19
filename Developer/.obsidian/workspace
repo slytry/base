@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/HTTP заголовки.md",
-            "mode": "source",
+            "file": "Base/§HTTP.md",
+            "mode": "preview",
             "backlinks": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/HTTP заголовки.md",
+                "file": "Base/§HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +108,8 @@
   },
   "active": "5b0e055b48a72acd",
   "lastOpenFiles": [
-    "Base/HTTP заголовки.md",
     "Base/§HTTP.md",
+    "Base/HTTP заголовки.md",
     "Base/Interview.md",
     "Base/§Патерны.md",
     "Base/Bash.md",
