@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Медиа запросы CSS.md",
+            "file": "Base/SOLID.md",
             "mode": "preview",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Медиа запросы CSS.md",
+                "file": "Base/SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
   },
   "active": "5b0e055b48a72acd",
   "lastOpenFiles": [
+    "Base/SOLID.md",
     "Base/Медиа запросы CSS.md",
     "Base/2022-01-10 Anderson (JavaScript Developer Trainee).md",
     "Base/Замыкание.md",
@@ -116,7 +117,6 @@
     "Base/§HTTP.md",
     "Base/HTTP заголовки.md",
     "Base/§Патерны.md",
-    "Base/Bash.md",
-    "Influence/§ Велик.md"
+    "Base/Bash.md"
   ]
 }
