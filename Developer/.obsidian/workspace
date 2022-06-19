@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Отличие interface от type.md",
-            "mode": "preview",
+            "file": "Base/Основы ООП.md",
+            "mode": "source",
             "backlinks": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Отличие interface от type.md",
+                "file": "Base/Основы ООП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "5b0e055b48a72acd",
   "lastOpenFiles": [
+    "Base/Основы ООП.md",
+    "Base/Замыкание.md",
     "Base/Отличие interface от type.md",
     "Base/§TypeScript.md",
     "Base/§Патерны.md",
     "Base/SOLID.md",
     "Base/Медиа запросы CSS.md",
     "Base/2022-01-10 Anderson (JavaScript Developer Trainee).md",
-    "Base/Замыкание.md",
     "Base/Interview.md",
-    "Base/2022-01-26 Justice IT (Стажер React.js).md",
-    "Base/§HTTP.md"
+    "Base/2022-01-26 Justice IT (Стажер React.js).md"
   ]
 }
