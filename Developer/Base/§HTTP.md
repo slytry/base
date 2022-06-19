@@ -16,7 +16,7 @@ title: §HTTP
 
 - [OPTIONS](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/OPTIONS)
 - [Нужен ли метод OPTIONS в REST-сервисах?](https://habr.com/ru/post/342432/)
-
+- [[HTTP заголовки]]
 ---
 
 ###### References

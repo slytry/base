@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Bash.md",
+            "file": "Base/HTTP заголовки.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Bash.md",
+                "file": "Base/HTTP заголовки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "5b0e055b48a72acd",
   "lastOpenFiles": [
+    "Base/HTTP заголовки.md",
+    "Base/§HTTP.md",
+    "Base/Interview.md",
+    "Base/§Патерны.md",
     "Base/Bash.md",
     "Influence/§ Велик.md",
     "Influence/§ Бизнес.md",
     "Influence/§ Искусство речи, ораторство.md",
     "Base/§Storybook.md",
-    "Base/Webpack.md",
-    "Base/Глобальные стили Storybook.md",
-    "Base/Настройка рендеринга, декораторы  Storybook.md",
-    "Base/Библиотеки CSS-in-JS Storybook.md",
-    "Base/Настройка WP для alias.md"
+    "Base/Webpack.md"
   ]
 }
