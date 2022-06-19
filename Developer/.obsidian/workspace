@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§Патерны.md",
-            "mode": "preview",
+            "file": "Base/Отличие interface от type.md",
+            "mode": "source",
             "backlinks": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§Патерны.md",
+                "file": "Base/Отличие interface от type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,8 @@
   },
   "active": "5b0e055b48a72acd",
   "lastOpenFiles": [
+    "Base/Отличие interface от type.md",
+    "Base/§TypeScript.md",
     "Base/§Патерны.md",
     "Base/SOLID.md",
     "Base/Медиа запросы CSS.md",
@@ -114,8 +116,6 @@
     "Base/Замыкание.md",
     "Base/Interview.md",
     "Base/2022-01-26 Justice IT (Стажер React.js).md",
-    "Base/§HTTP.md",
-    "Base/HTTP заголовки.md",
-    "Base/Bash.md"
+    "Base/§HTTP.md"
   ]
 }
