@@ -15,7 +15,6 @@ title: §HTTP
 ## OPTIONS
 
 - [OPTIONS](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/OPTIONS)
-- [Нужен ли метод OPTIONS в REST-сервисах?](https://habr.com/ru/post/342432/)
 - [[HTTP заголовки]]
 
 ---
@@ -23,3 +22,4 @@ title: §HTTP
 ###### References
 
 https://deworker.pro/edu/series/http-basics
+[HTTP за 36 минут. Методы, статус-коды, заголовки, редиректы, SSL](https://www.youtube.com/watch?v=PpdQQjPS0MA)
