@@ -2,50 +2,74 @@
 tags: 
 aliases: null
 date created: 2022-03-09 11:36
-date updated:
-date modified: Thursday, March 17th 2022, 9:36:45 am
+date modified: Friday, June 17th 2022, 11:00:47 am
+date modified: Friday, June 17th 2022, 11:00:47 am
 ---
 
 # Настройка WP для alias
 
-jsconfig
+Есть несколько путей настроить алиасы
 
+### Ручное управление
+Shortest:
 ```js
-{
-  "compilerOptions": {
-    "baseUrl": ".",
-    "paths": {
-      "@/components/*": ["components/*"],
-      "@/hooks/*": ["hooks/*"],
-      "@/lib/*": ["lib/*"],
-      "@/styles/*": ["styles/*"]
-    }
-  }
-}
+const path = require("path")
 
+webpackFinal: async (config) => {
+  config.resolve.alias['~'] = path.resolve(__dirname, '../src/');
+  return config;
+},
 ```
 
-Только такой webpack
-
+Short:
 ```js
-const path = require('path');
+const path = require("path")
 
-webpackFinal: async (config, { configType }) => {
-config.resolve.alias = {
-      ...config.resolve?.alias,
-      '@': path.resolve(__dirname, '../'),
-      '@/components': path.resolve(__dirname, '../components/'),
-      '@/hooks': path.resolve(__dirname, '../hooks/'),
-      '@/lib': path.resolve(__dirname, '../lib/'),
-      '@/styles': path.resolve(__dirname, '../styles/'),
-    };
-	
-	return config
-}
+webpackFinal: async (config) => {
+  config.resolve.alias = {
+    ...config.resolve?.alias,
+    '~': path.resolve(__dirname, '../src/'),
+  };
+  return config;
+},
+```
 
+### Автоматизация для typescript
 
+ С помощью плагина можно выгрузить aliases с tsconfig файла
+
+#### Синтаксис с официальной документации
+
+```ts
+// .storybook/main.js
+
+const TsconfigPathsPlugin = require('tsconfig-paths-webpack-plugin');
+
+module.exports = {
+  webpackFinal: async (config) => {
+    config.resolve.plugins = [
+      ...(config.resolve.plugins || []),
+      new TsconfigPathsPlugin({
+        extensions: config.resolve.extensions,
+      }),
+    ];
+    return config;
+  },
+};
+```
+
+#### Более короткий синтаксис с issue github
+
+```ts
+ webpackFinal: async (config) => {
+    config.resolve.plugins = [new TsconfigPathsPlugin({ extensions: config.resolve.extensions })]
+    return config
+  },
 ```
 
 ---
 
 ###### Citation
+
+- [Cant add aliases in storybook config #11989](https://github.com/storybookjs/storybook/issues/11989)
+- [TypeScript Module Resolution](https://storybook.js.org/docs/react/builders/webpack#typescript-module-resolution:~:text=TypeScript%20Module%20Resolution)

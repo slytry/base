@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Monday, May 23rd 2022, 3:03:21 pm
+date modified: Friday, June 17th 2022, 9:47:26 am
 
 title: §React
 ---
@@ -11,7 +11,11 @@ title: §React
 
 - [[Reack basic]]
 
-### Насиройка окружения
+### Оптимизация
+
+- [5 Ways to Optimize Your Functional React Components](https://javascript.plainenglish.io/5-ways-to-optimize-your-functional-react-components-cb3cf6c7bd68)
+
+### Настройка окружения
 
 - [[Snippets VS code|React сниппды]]
 
