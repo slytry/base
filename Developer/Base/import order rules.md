@@ -137,31 +137,42 @@ import type { Foo } from 'foo';
 
 ### warnOnUnassignedImports: true|false
 
-Примеры настройки
+## Пример настройки (с проекта "Vertical")
 
 ```json
 "import/order": [
-      "error",
-      {
-        "groups": [
-          "index",
-          "external",
-          "builtin",
-          "internal",
-          "parent",
-          "sibling",
-          "object",
-          "type",
-          "unknown"
-        ],
-        "warnOnUnassignedImports": true,
-        "newlines-between": "always",
-        "alphabetize": {
-          "order": "asc",
-          "caseInsensitive": false
-        }
-      }
-    ]
+			"error",
+			{
+				"newlines-between": "always",
+				"alphabetize": {
+					"caseInsensitive": false,
+					"order": "asc"
+				},
+				"warnOnUnassignedImports": true,
+				"groups": [
+					"builtin",
+					"external",
+					"internal",
+					"parent",
+					"sibling",
+					"index",
+					"type",
+					"object"
+				],
+				"pathGroups": [
+					{
+						"pattern": "./**/**.scss",
+						"group": "object",
+						"position": "after"
+					},
+					{
+						"pattern": "**/**.svg",
+						"group": "object",
+						"position": "before"
+					}
+				]
+			}
+		],
 ```
 
 ---

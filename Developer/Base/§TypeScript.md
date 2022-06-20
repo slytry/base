@@ -2,25 +2,28 @@
 tags: 
 aliases: ts
 date created: 2022-02-16 12:35
-date modified: Thursday, May 12th 2022, 10:12:18 am
+date modified: Sunday, June 19th 2022, 6:04:34 pm
 
 title: §TypeScript
 ---
 
 # §TypeScript
+
 ## Основа
+
 - [[Типизация TS]]
 - [[Аннотации и определение типа в TS]]
 - [[Массивы и объекты в TS]]
 - [[Типы данных JS]]
 
+## Тонкости
+
+- [[Отличие interface от type]]
+
 ## Дженерики
 
 - [[Зачем нужный Generic]]
 - [[Сигнатура и примеры]]
-
-
-
 
 ##### [[Definitely Typed]]
 

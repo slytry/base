@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Tuesday, April 12th 2022, 10:48:14 am
-date modified: Wednesday, May 25th 2022, 4:27:37 pm
+date modified: Sunday, June 19th 2022, 3:54:15 pm
 title: §HTTP
 ---
 
@@ -15,10 +15,11 @@ title: §HTTP
 ## OPTIONS
 
 - [OPTIONS](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods/OPTIONS)
-- [Нужен ли метод OPTIONS в REST-сервисах?](https://habr.com/ru/post/342432/)
+- [[HTTP заголовки]]
 
 ---
 
 ###### References
 
 https://deworker.pro/edu/series/http-basics
+[HTTP за 36 минут. Методы, статус-коды, заголовки, редиректы, SSL](https://www.youtube.com/watch?v=PpdQQjPS0MA)

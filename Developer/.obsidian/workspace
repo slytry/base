@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "svg",
+                "query": "will-ch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371,
-    "collapsed": true
+    "width": 371
   },
   "active": "a43e8cca662d18f0",
   "lastOpenFiles": [

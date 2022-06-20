@@ -2,7 +2,7 @@
 tags: 
 aliases: null
 date created: 2022-02-28 18:13
-date modified: Friday, June 17th 2022, 3:04:07 pm
+date modified: Saturday, June 18th 2022, 11:23:40 am
 
 title: §Storybook
 ---
@@ -11,27 +11,29 @@ title: §Storybook
 
 - [[Концепция UI-kit]]
 - [[Установка Storybook]]
-- [[Файлы конфигурации Storybook ]]
 
-### Конфигурация
+### Кастомная настройка webpack
 
-- [[Использование storybook  в nextjs]]
 - [[Настройка WP для alias]]
+- [[Добавить шрифты Storybook]]
+- [[Установка scss в Storybook]]
+- [[Изображения, шрифты и статика Storybook]]
+- [[Пример конфига WP для SB с TS]]
 
 ### Добавлене стилей
 
 - [[Глобальные стили Storybook]]
 - [[Настройка рендеринга, декораторы  Storybook]]
-- [[Добавить шрифты Storybook]]
-- [[Установка scss в Storybook]]
 - [[Библиотеки CSS-in-JS Storybook]]
-- [[Изображения, шрифты и статика Storybook]]
-- [[Решение проблемы Nextjs изображений]]
 
 ### Тестирование
 
 - [[Snapshot]]
 - [[Unit тесты с React Testing Library]]
+
+### Other
+
+- [[Решение проблемы Nextjs изображений]]
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 tags: 
-aliases: 
+aliases: wp
 date created: Saturday, March 26th 2022, 7:37:44 pm
-date modified: Sunday, May 29th 2022, 4:03:12 pm
+date modified: Saturday, June 18th 2022, 11:28:40 am
 ---
 
 # Webpack

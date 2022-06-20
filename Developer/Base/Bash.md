@@ -1,10 +1,17 @@
 ---
+tags: 
 aliases: null
 date created: 2022-03-21 21:40
-date updated:
+date modified: Saturday, June 18th 2022, 12:04:20 pm
+date modified: Saturday, June 18th 2022, 12:04:20 pm
 ---
 
+# Bash
+
+### [Bash Config for Front End Developers on Windows 10](https://medium.com/@george.norberg/bash-config-for-front-end-developers-on-windows-10-c5dcf61b360)
+
 ### Команды терминала Баш
+
 | Команда       | Описание                                                                 |
 | ------------- | ------------------------------------------------------------------------ |
 | cat           | Показывает содержимое файла в терминала. Подходит для маленьких файлов   |
@@ -14,10 +21,10 @@ date updated:
 | notepad       | Откроет в Notepad                                                        |
 | mkdir         | Папку создает                                                            |
 | touch         | Файл создает                                                             |
-| .             | "в этой папке"                                                           |
-| ..            | в предыдущей папку перейти                                               |
-| ls -1 -a      | показать содержимое папи в столбик, включа скрытое                      |
-| ~             | перейти в корневой раздел                                                |
+| cd .          | "в этой папке"                                                           |
+| cd ..         | в предыдущей папку перейти                                               |
+| ls -la        | показать содержимое папи в столбик, включа скрытое                       |
+| cd  ~         | перейти в корневой раздел                                                |
 |               |                                                                          |
 
  
@@ -25,4 +32,3 @@ date updated:
 ---
 
 ###### Citation
-

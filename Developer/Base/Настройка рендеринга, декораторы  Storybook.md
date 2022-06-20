@@ -2,8 +2,8 @@
 tags: 
 aliases: null
 date created: 2022-03-03 10:55
-date updated:
-date modified: Thursday, March 17th 2022, 9:36:45 am
+date modified: Saturday, June 18th 2022, 11:02:07 am
+date modified: Saturday, June 18th 2022, 11:02:07 am
 ---
 
 # Настройка рендеринга, декораторы  Storybook
