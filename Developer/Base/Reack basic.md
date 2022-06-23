@@ -1,9 +1,8 @@
 ---
 tags: 
 aliases: null
-date modified: Thursday, April 7th 2022, 1:50:46 pm
+date modified: Thursday, May 26th 2022, 6:20:58 pm
 date created: Thursday, March 17th 2022, 9:36:45 am
-date modified: Thursday, April 7th 2022, 1:50:46 pm
 title: Reack
 ---
 
@@ -45,7 +44,6 @@ title: Reack
 ### Стиль
 
 - [[Модульный CSS]]
-
 
 ---
 
