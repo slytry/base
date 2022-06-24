@@ -68,3 +68,7 @@ date modified: Friday, May 13th 2022, 4:59:30 pm
 ---
 
 ###### References
+
+### Сортировка CSS свойств
+-	https://github.com/tujoworker/prettier-plugin-rational-order
+-	https://www.npmjs.com/package/prettier-plugin-css-order

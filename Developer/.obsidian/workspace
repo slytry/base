@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a43e8cca662d18f0",
+        "id": "67cff3039cc5432c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Добавить шрифты Storybook.md",
+            "file": "Base/Размеры элемента и прокрутка.md",
             "mode": "source",
             "backlinks": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "will-ch",
+                "query": "svg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404,
-    "collapsed": true
+    "width": 404
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -71,14 +70,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Добавить шрифты Storybook.md",
+                "file": "Base/Размеры элемента и прокрутка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -101,24 +100,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 371
   },
-  "active": "a43e8cca662d18f0",
+  "active": "67cff3039cc5432c",
   "lastOpenFiles": [
-    "Base/Добавить шрифты Storybook.md",
-    "Base/§Storybook.md",
-    "Base/Установка scss в Storybook.md",
-    "Base/Использование storybook  в nextjs.md",
-    "Base/Настройка WP для alias.md",
+    "Base/Размеры элемента и прокрутка.md",
+    "Base/Размеры окна и прокрутка.md",
+    "Base/usePortal.md",
+    "Base/scss mixins.md",
+    "Base/§CSS.md",
+    "Base/scss @use.md",
     "Base/§React.md",
-    "Base/css shapes.md",
-    "Base/§TypeScript.md",
-    "Base/Сигнатура и примеры.md",
-    "Base/Аннотации и определение типа в TS.md"
+    "Base/Модальное окно js.md",
+    "Base/Подключение svg.md",
+    "Base/React basic.md"
   ]
 }

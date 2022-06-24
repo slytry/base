@@ -16,5 +16,5 @@ title: ESLint
 ---
 
 ###### Citation
-
-[Сложно о простом: ESLint в команде](https://habr.com/ru/post/322550/) - добавление всех зависимочстей линтера и сомого линтера в peerDeps
+- [Config ESLint, Prettier in Typescript React App.](https://medium.com/@raj-durai/config-eslint-prettier-in-typescript-react-app-77c5634d6dd1) - Новая статья
+- [Сложно о простом: ESLint в команде](https://habr.com/ru/post/322550/) - добавление всех зависимочстей линтера и сомого линтера в peerDeps

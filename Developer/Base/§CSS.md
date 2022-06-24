@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Monday, March 21st 2022, 9:21:47 am
-date modified: Wednesday, May 18th 2022, 10:53:07 pm
+date modified: Tuesday, June 21st 2022, 2:21:09 pm
 title: Structure
 ---
 
@@ -14,7 +14,7 @@ title: Structure
 
 [[will-change]]
 
-#### Main
+## Main
 
 - [[Сброс стилей]]
 - [[Единицы измерения CSS]]
@@ -25,7 +25,7 @@ title: Structure
 - [[Фокус элементов CSS]]
 - [[Box Shadow vs. Drop Shadow]]
 
-#### Адаптивность
+### Адаптивность
 
 - [[Адаптивность с помощью clamp()]]
 - [[The Deconstructed Pancake Подвижные карточки]]
@@ -39,7 +39,7 @@ title: Structure
 - [Мобильные браузеры и их пушистые лапки](https://habr.com/ru/company/zerotech/blog/336172/)
 - [Адаптивное видео с помощью встроенных математических функций CSS](https://yoksel.github.io/adaptive-video-with-css-math/)
 
-#### Fonts
+### Fonts
 
 - Основа
 	- [[Подключение шрифтов]]
@@ -67,7 +67,7 @@ title: Structure
 	- [REM vs EM – Великий спор](https://habr.com/ru/post/280125/)
 	- [Ремы, емы, и почему отказ от них — не проблема.](https://medium.com/devschacht/david-gilbertson-rems-and-ems-and-why-you-probably-dont-need-them-3b2b1e785787)
 
-#### Функции
+### Функции
 
 [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
 
@@ -81,19 +81,19 @@ title: Structure
 	- [Математические функции в CSS](https://yoksel.github.io/css-math/#restrictions)
 	- [5 функций CSS, которые пригодятся при разработке сайтов](https://nuancesprog.ru/p/12643/)
 
-#### Кастомные свойств
+### Кастомные свойств
 
 - [[Переменные CSS. Кастомные свойства]]
 - [[Как лучше именовать переменный с цветами]]
 
-#### Animations
+### Animations
 
 - [[transitions (переходы)]]
 - [[Animation и @keyframes]]
 - [[Transform]]
 - [[Motion Path]]
 
-#### Graphic
+### Graphic
 
 [[background-image для ретины]]
 
@@ -105,7 +105,7 @@ title: Structure
 	- [Почему мы не можем делать по-настоящему адаптивные изображения при помощи CSS или JavaScript](https://css-live.ru/articles/pochemu-my-ne-mozhem-delat-po-nastoyashhemu-adaptivnye-izobrazheniya-pri-pomoshhi-css-ili-javascript.html)
 	- [# Automatically art-directed responsive images](https://cloudinary.com/blog/automatically_art_directed_responsive_images)
 
-#### Расположение
+### Расположение
 
 - [[Блочная модель]]
 - [[Позиционирование]]
@@ -114,37 +114,44 @@ title: Structure
 - [[Grid]]
 - [[Flexbox]]
 
-#### Sass
+## Sass
 
-- Общее
+### Общее
+
 	- [[Основы Sass]]
 	- [[Медиазапросы в SCSS]]
 	- [[Организация кнопок на сайте с помощью Sass]]
 	
-- Модули
+
+### Mixins
+
+- [[scss mixins]]
+
+### Модули
+
 	- [[scss @use]]
 	- [[scss @forward]]
 	- [[scss @import]]
 	- [[Приватные свойства]]
 	- [[index файлы в scss]]
 
-### Прочее
+## Прочее
 
 - [[Функциональный CSS]]
 - [[visuallyhidden]]
 
-#### Questions
+## Questions
 
 - [[Блок на весь экран]]
 - [[По центру]]
 - [[Кастомный чекбокс или радиобатон]]
 - [[Шаблон разметки Holy Grail]]
 
-##### CSS Framework
+## CSS Framework
 
 [[Tailwind CSS]]
 
-#### Ууууу!
+## Ууууу!
 
 - [[CSS Scroll Snap]]
 

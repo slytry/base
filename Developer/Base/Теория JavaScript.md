@@ -139,7 +139,7 @@ date modified: Wednesday, May 18th 2022, 8:14:00 am
 
 #### Forms, controls
 
-- [[Модальное окно]]
+- [[Модальное окно js]]
 - [[Обработка input]]
 
 #### Server
@@ -191,7 +191,7 @@ date modified: Wednesday, May 18th 2022, 8:14:00 am
 
 #### Tests
 
-- [[Unit test]]
+- [[Unit tests with storybook on React]]
 
 ---
 
