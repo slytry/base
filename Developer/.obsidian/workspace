@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404,
-    "collapsed": true
+    "width": 404
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -110,6 +109,7 @@
   "active": "d4e933cf15e489cc",
   "lastOpenFiles": [
     "Base/useCallback.md",
+    "Base/Вопросы для собеседования.md",
     "Base/React basic.md",
     "Base/useMemo.md",
     "Base/useContext.md",
@@ -117,7 +117,6 @@
     "Base/useState.md",
     "Base/§React.md",
     "Base/Создание хуков.md",
-    "Base/Remix js.md",
-    "Base/Архитектура React приложения.md"
+    "Base/Remix js.md"
   ]
 }

@@ -46,9 +46,27 @@ const memoizedCallback = useCallback(
 2. Когда ф-я является зависимостью для других хуков. useEffect(..., [callback]). Иначе бесконечный цикл ререндеров
 3. Если ф-я имеет какое-то внутренне состояние ([Debounce and Throttle Callbacks in React](https://dmitripavlutin.com/react-throttle-debounce/#2-debouncing-a-callback-the-first-attempt))
 
-### 
+### Не надо мемоизировать обработчик события
 
+Мемоизация обработчика события не даст прироста в скорости.
 
+- Ф-я будет все равно создаваться каждый раз, useCallback будет просто отбрасывать ее.
+- Это усложнит код 
+- Ресурсы на стравнения двух объектов превысят выгоду от стабильой ссылки.
+
+Так делать не надо
+```jsx
+import { useCallback } from 'react';
+function MyComponent() {
+  const handleClick = () => {
+    // handle the click event
+  };
+  return <MyChild onClick={handleClick} />;
+}
+function MyChild ({ onClick }) {
+  return <button onClick={onClick}>I am a child</button>;
+}
+```
 
 
 ---
