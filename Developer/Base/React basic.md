@@ -37,7 +37,7 @@ title: Reack
 
 ### Продвинутые темы
 - [[React.memo]]
-- [[Debounce and Throttle  in React]]
+- [[Debounce and Throttle, rAF  in React]]
 - [[usePortal]]
 - [[Доступность контента React]]
 
