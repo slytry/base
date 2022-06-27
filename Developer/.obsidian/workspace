@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§React.md",
+            "file": "Base/useCallback.md",
             "mode": "source",
             "backlinks": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§React.md",
+                "file": "Base/useCallback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "d4e933cf15e489cc",
   "lastOpenFiles": [
+    "Base/useCallback.md",
+    "Base/React basic.md",
+    "Base/useMemo.md",
+    "Base/useContext.md",
+    "Base/useEffect.md",
+    "Base/useState.md",
     "Base/§React.md",
     "Base/Создание хуков.md",
     "Base/Remix js.md",
-    "Base/Архитектура React приложения.md",
-    "Base/Размеры элемента и прокрутка.md",
-    "Base/Размеры окна и прокрутка.md",
-    "Base/usePortal.md",
-    "Base/scss mixins.md",
-    "Base/§CSS.md",
-    "Base/scss @use.md"
+    "Base/Архитектура React приложения.md"
   ]
 }

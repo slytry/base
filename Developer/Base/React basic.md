@@ -26,9 +26,9 @@ title: Reack
 ### Хуки
 
 - [[хуки]]
-- [[useState  Хук состояния]]
+- [[useState]]
 - [[useReducer]]
-- [[useEffect Хук эффекта]]
+- [[useEffect]]
 - [[useLayoutEffect]]
 - [[useCallback]]
 - [[useMemo]]
