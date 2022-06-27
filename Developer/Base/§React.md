@@ -20,6 +20,11 @@ title: §React
 - [[Создание хуков]]
 - [[useDeviceWidth Отслеживание изменения ширины экрана]]
 - [[useInput хуки валидации]]
+- [ТОП 5 REACT ХУКОВ (React hooks)](https://www.youtube.com/watch?v=ks8oftGP2oc&list=PLZTsCOAKJJ_YjEHsB4HJQ9GnB7I_g3n1l&index=1)
+- [Кастомные React-Хуки, useToggle, useLocalStorage](https://www.youtube.com/watch?v=igmAJCCSILY)
+- [20 REACT ХУКОВ за 1 ЧАС + Custom хуки](https://www.youtube.com/watch?v=8VyTTcT_EwY)
+
+
 
 ### Оптимизация
 
