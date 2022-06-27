@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Debounce and Throttle, rAF  in React.md",
+            "file": "Base/§CSS.md",
             "mode": "source",
             "backlinks": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Debounce and Throttle, rAF  in React.md",
+                "file": "Base/§CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,8 @@
   },
   "active": "d4e933cf15e489cc",
   "lastOpenFiles": [
+    "Base/§CSS.md",
+    "Base/JavaScript-анимации.md",
     "Base/Debounce and Throttle, rAF  in React.md",
     "Base/Вопросы для собеседования.md",
     "Base/React basic.md",
@@ -116,8 +118,6 @@
     "Base/Модальное окно react.md",
     "Base/React.memo.md",
     "Base/useMemo.md",
-    "Base/useCallback.md",
-    "Base/useContext.md",
-    "Base/useEffect.md"
+    "Base/useCallback.md"
   ]
 }
