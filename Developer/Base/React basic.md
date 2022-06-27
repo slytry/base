@@ -1,7 +1,7 @@
 ---
 tags: 
 aliases: null
-date modified: Thursday, May 26th 2022, 6:20:58 pm
+date modified: Monday, June 27th 2022, 9:05:08 pm
 date created: Thursday, March 17th 2022, 9:36:45 am
 title: Reack
 ---
@@ -35,9 +35,9 @@ title: Reack
 - [[useContext]]
 - [[useRef]]
 
-
 ### Продвинутые темы
-
+- [[React.memo]]
+- [[Debounce and Throttle  in React]]
 - [[usePortal]]
 - [[Доступность контента React]]
 

@@ -2,13 +2,13 @@
 tags: 
 aliases: null
 date created: 2022-03-01 21:42
-date updated:
-date modified: Monday, June 27th 2022, 9:07:20 pm
+date modified: Monday, June 27th 2022, 9:07:23 pm
+date modified: Monday, June 27th 2022, 9:07:23 pm
 ---
 
 # useMemo
 
-Хук похож на useCallback, толья для значений. Если у нас есть какие-то сложные вычисления и мы не хотил их каждый раз пересчитывать - значение можно мемоизировать. То есть в реакте все - ф-я, и при каждой перерисовке это значение будет заного считаться, а так не будет.
+Хук похож на useCallback, только для значений. Если у нас есть какие-то сложные вычисления и мы не хотил их каждый раз пересчитывать - значение можно мемоизировать. То есть в реакте все - ф-я, и при каждой перерисовке это значение будет заного считаться, а так не будет.
 
 ```js
 const memoizedValue = useMemo(() => computeExpensiveValue(a, b), [a, b]);
@@ -26,4 +26,4 @@ const memoizedValue = useMemo(() => computeExpensiveValue(a, b), [a, b]);
 
 ###### Citation
 
-- [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely/)
+

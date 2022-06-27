@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/useCallback.md",
+            "file": "Base/Debounce and Throttle  in React.md",
             "mode": "source",
             "backlinks": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404
+    "width": 404,
+    "collapsed": true
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/useCallback.md",
+                "file": "Base/Debounce and Throttle  in React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +109,15 @@
   },
   "active": "d4e933cf15e489cc",
   "lastOpenFiles": [
+    "Base/Debounce and Throttle  in React.md",
+    "Base/React basic.md",
+    "Base/§React.md",
+    "Base/Модальное окно react.md",
+    "Base/React.memo.md",
+    "Base/useMemo.md",
     "Base/useCallback.md",
     "Base/Вопросы для собеседования.md",
-    "Base/React basic.md",
-    "Base/useMemo.md",
     "Base/useContext.md",
-    "Base/useEffect.md",
-    "Base/useState.md",
-    "Base/§React.md",
-    "Base/Создание хуков.md",
-    "Base/Remix js.md"
+    "Base/useEffect.md"
   ]
 }
