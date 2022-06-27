@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d4e933cf15e489cc",
+        "id": "67cff3039cc5432c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§React.md",
+            "file": "Base/Соглашение по коммитам.md",
             "mode": "source",
             "backlinks": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404,
-    "collapsed": true
+    "width": 404
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§React.md",
+                "file": "Base/Соглашение по коммитам.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,20 +103,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371,
-    "collapsed": true
+    "width": 371
   },
-  "active": "d4e933cf15e489cc",
+  "active": "67cff3039cc5432c",
   "lastOpenFiles": [
+    "Base/Соглашение по коммитам.md",
     "Base/§React.md",
-    "Base/Создание хуков.md",
     "Base/Remix js.md",
-    "Base/Архитектура React приложения.md",
     "Base/Размеры элемента и прокрутка.md",
     "Base/Размеры окна и прокрутка.md",
     "Base/usePortal.md",
     "Base/scss mixins.md",
     "Base/§CSS.md",
-    "Base/scss @use.md"
+    "Base/scss @use.md",
+    "Base/Модальное окно js.md"
   ]
 }

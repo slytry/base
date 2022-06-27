@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Tuesday, June 21st 2022, 1:27:51 pm
+date modified: Monday, June 27th 2022, 9:47:15 am
 
 title: §React
 ---
@@ -20,11 +20,10 @@ title: §React
 - [[Создание хуков]]
 - [[useDeviceWidth Отслеживание изменения ширины экрана]]
 - [[useInput хуки валидации]]
+- [usehooks-ts](https://usehooks-ts.com/react-hook/use-boolean)
 - [ТОП 5 REACT ХУКОВ (React hooks)](https://www.youtube.com/watch?v=ks8oftGP2oc&list=PLZTsCOAKJJ_YjEHsB4HJQ9GnB7I_g3n1l&index=1)
 - [Кастомные React-Хуки, useToggle, useLocalStorage](https://www.youtube.com/watch?v=igmAJCCSILY)
 - [20 REACT ХУКОВ за 1 ЧАС + Custom хуки](https://www.youtube.com/watch?v=8VyTTcT_EwY)
-
-
 
 ### Оптимизация
 

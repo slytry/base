@@ -14,3 +14,4 @@ date modified: Saturday, June 25th 2022, 8:56:49 pm
 **Docs**
 
 - [Quickstart](https://remix.run/docs/en/v1/tutorials/blogs)
+- [Remix: The Yang to React's Yin](https://kentcdodds.com/blog/remix-the-yang-to-react-s-yin)
