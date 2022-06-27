@@ -2,29 +2,48 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Tuesday, June 21st 2022, 1:27:51 pm
+date modified: Monday, June 27th 2022, 10:29:54 pm
 
 title: §React
 ---
 
 # React
 
-- [[React basic]]
+### Основное
 
-### Компоненты
+- [[Для чего нужен реакт]]
+- [[react virtual tree (Virtual DOM)]]
+- [[JSX]]
+- [[Компоненты]]
+- [[Свойсво key]]
 
-- [[Модальное окно react]]
+##### Арихитектура
 
-### Кастомные хуки
+- [[Структура React проекта]]
+- [[Структура фалов React проекта]]
+- [[Мышление реакт]]
+- [[Оптимизация React прилолжения]]
 
-- [[Создание хуков]]
-- [[useDeviceWidth Отслеживание изменения ширины экрана]]
-- [[useInput хуки валидации]]
-- [ТОП 5 REACT ХУКОВ (React hooks)](https://www.youtube.com/watch?v=ks8oftGP2oc&list=PLZTsCOAKJJ_YjEHsB4HJQ9GnB7I_g3n1l&index=1)
-- [Кастомные React-Хуки, useToggle, useLocalStorage](https://www.youtube.com/watch?v=igmAJCCSILY)
-- [20 REACT ХУКОВ за 1 ЧАС + Custom хуки](https://www.youtube.com/watch?v=8VyTTcT_EwY)
+### Хуки
 
+- [[хуки]]
+- [[useState]]
+- [[useReducer]]
+- [[useEffect]]
+- [[useLayoutEffect]]
+- [[useCallback]]
+- [[useMemo]]
+- [[useContext]]
+- [[useRef]]
 
+### [[Кастомные хуки]]
+
+### Продвинутые темы
+
+- [[React.memo]]
+- [[Debounce and Throttle, rAF  in React]]
+- [[usePortal]]
+- [[Доступность контента React]]
 
 ### Оптимизация
 

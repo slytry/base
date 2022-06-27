@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§CSS.md",
+            "file": "Base/§React.md",
             "mode": "source",
             "backlinks": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§CSS.md",
+                "file": "Base/§React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "d4e933cf15e489cc",
   "lastOpenFiles": [
-    "Base/§CSS.md",
-    "Base/JavaScript-анимации.md",
-    "Base/Debounce and Throttle, rAF  in React.md",
-    "Base/Вопросы для собеседования.md",
-    "Base/React basic.md",
     "Base/§React.md",
+    "Base/Debounce and Throttle, rAF  in React.md",
+    "Base/Как отослать email.md",
+    "Base/react-router-DOM.md",
+    "Base/Модульный CSS.md",
     "Base/Модальное окно react.md",
-    "Base/React.memo.md",
-    "Base/useMemo.md",
-    "Base/useCallback.md"
+    "Base/Структура фалов React проекта.md",
+    "Base/React basic.md",
+    "Base/Кастомные хуки.md",
+    "Base/JavaScript-анимации.md"
   ]
 }

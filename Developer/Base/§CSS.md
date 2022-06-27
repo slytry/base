@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Monday, March 21st 2022, 9:21:47 am
-date modified: Tuesday, June 21st 2022, 2:21:09 pm
+date modified: Monday, June 27th 2022, 10:24:58 pm
 title: Structure
 ---
 
@@ -24,6 +24,7 @@ title: Structure
 - [[CSS-фон]]
 - [[Фокус элементов CSS]]
 - [[Box Shadow vs. Drop Shadow]]
+- [[css-анимация]]
 
 ### Адаптивность
 
