@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Debounce and Throttle  in React.md",
+            "file": "Base/Вопросы для собеседования.md",
             "mode": "source",
             "backlinks": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Debounce and Throttle  in React.md",
+                "file": "Base/Вопросы для собеседования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "d4e933cf15e489cc",
   "lastOpenFiles": [
+    "Base/Вопросы для собеседования.md",
     "Base/Debounce and Throttle  in React.md",
     "Base/React basic.md",
     "Base/§React.md",
@@ -116,7 +117,6 @@
     "Base/React.memo.md",
     "Base/useMemo.md",
     "Base/useCallback.md",
-    "Base/Вопросы для собеседования.md",
     "Base/useContext.md",
     "Base/useEffect.md"
   ]

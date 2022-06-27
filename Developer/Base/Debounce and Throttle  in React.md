@@ -18,6 +18,10 @@ date modified: Monday, June 27th 2022, 9:48:43 pm
 
 ## Throttle
 
+##  `immediate` instead of `leading` 
+
+У такой техники есть настройка. Можно ловить первое событие в все последущие за пероидо отбрасывать - immediate. Либо leading - срабатывает в конце периода
+
 ---
 
 ###### References
