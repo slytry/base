@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Основы ООП.md",
+            "file": "Base/Требования к архитекттуре.md",
             "mode": "source",
             "backlinks": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Основы ООП.md",
+                "file": "Base/Требования к архитекттуре.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "d4e933cf15e489cc",
   "lastOpenFiles": [
+    "Base/Требования к архитекттуре.md",
     "Base/Основы ООП.md",
     "Base/Как мокать данные.md",
     "Base/§Тестирование.md",
@@ -117,7 +118,6 @@
     "Base/Блоги.md",
     "Base/Debounce and Throttle, rAF  in React.md",
     "Base/Способы вывести логи красиво.md",
-    "Base/§Node.js.md",
-    "Base/Вопросы для собеседования.md"
+    "Base/§Node.js.md"
   ]
 }
