@@ -2,7 +2,7 @@
 tags: 
 aliases: wp
 date created: Saturday, March 26th 2022, 7:37:44 pm
-date modified: Saturday, June 18th 2022, 11:28:40 am
+date modified: Saturday, June 18th 2022, 11:34:18 am
 ---
 
 # Webpack
@@ -46,6 +46,8 @@ webpack-bundle-analyzer
 - [Webpack 5 Full Project Setup](https://www.youtube.com/watch?v=TOb1c39m64A)
 - [Я перепробовал 200 webpack-плагинов для перформанса (чтобы избавить от этого вас) [ru] / Иван Акулов](https://www.youtube.com/watch?v=Nmjy_wMlTuQ)
 - [Webpack. Базовая сборка проекта](https://www.youtube.com/watch?v=R9DTbDA_ZVE)
+- [Вадим Малютин — Как готовить production с Webpack 5 module federation](https://www.youtube.com/watch?v=ugkOEg5xJCA&list=PLZTsCOAKJJ_YgcYJFsw1xg2V15TVTRHQy&index=2&t=2651s)
+- [JSFE2021Q1 Webpack](https://www.youtube.com/watch?v=bozzyi8Tok0&list=PLZTsCOAKJJ_YgcYJFsw1xg2V15TVTRHQy&index=3&t=458s)
 
 Статьи
 

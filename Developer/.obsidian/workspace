@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Event Loop NodeJs.md",
+            "file": "Base/Вопросы для собеседования.md",
             "mode": "source",
             "backlinks": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Event Loop NodeJs.md",
+                "file": "Base/Вопросы для собеседования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,8 @@
   },
   "active": "d4e933cf15e489cc",
   "lastOpenFiles": [
+    "Base/Вопросы для собеседования.md",
+    "Base/Webpack.md",
     "Base/Event Loop NodeJs.md",
     "Base/§Node.js.md",
     "Base/Node.js.md",
@@ -116,8 +118,6 @@
     "Base/§React.md",
     "Base/Debounce and Throttle, rAF  in React.md",
     "Base/Как отослать email.md",
-    "Base/react-router-DOM.md",
-    "Base/Модульный CSS.md",
-    "Base/Модальное окно react.md"
+    "Base/react-router-DOM.md"
   ]
 }
