@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Соглашение по коммитам.md",
+            "file": "Base/Требования к архитекттуре.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Соглашение по коммитам.md",
+                "file": "Base/Требования к архитекттуре.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "67cff3039cc5432c",
   "lastOpenFiles": [
-    "Base/Соглашение по коммитам.md",
-    "Base/§React.md",
-    "Base/Remix js.md",
-    "Base/Размеры элемента и прокрутка.md",
-    "Base/Размеры окна и прокрутка.md",
-    "Base/usePortal.md",
-    "Base/scss mixins.md",
-    "Base/§CSS.md",
-    "Base/scss @use.md",
-    "Base/Модальное окно js.md"
+    "Base/Требования к архитекттуре.md",
+    "Base/Основы ООП.md",
+    "Base/Как мокать данные.md",
+    "Base/§Тестирование.md",
+    "Base/ESLint.md",
+    "Base/Различия между arrow  и обычной ф-ей.md",
+    "Base/Блоги.md",
+    "Base/Debounce and Throttle, rAF  in React.md",
+    "Base/Способы вывести логи красиво.md",
+    "Base/§Node.js.md"
   ]
 }

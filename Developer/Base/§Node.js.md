@@ -2,7 +2,7 @@
 tags: 
 aliases: null
 date created: 2022-02-15 13:23
-date modified: Thursday, March 31st 2022, 3:12:23 pm
+date modified: Friday, April 1st 2022, 10:25:39 pm
 
 title: §Node.js
 ---
@@ -10,10 +10,19 @@ title: §Node.js
 # §Node.js
 
 - [[Node.js]]
+- [[Event Loop NodeJs]]
+- [[Методы]]
 
-[[Методы]]
-[[Пример работы с файловой системой и MD файлами]]
+- [[Пример работы с файловой системой и MD файлами]]
 
 ---
 
 ###### Citation
+
+**Видео**
+- [Архитектура современного корпоративного Node js приложения - Андрей Мелихов](https://www.youtube.com/watch?v=dQjXIuaq-yo&list=WL&index=4&t=35s)
+
+**Книги для бэка**
+- Чистая архитектура
+- domain driven design distilled
+- https://khalilstemmler.com/ - отличный блог

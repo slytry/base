@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Monday, April 11th 2022, 4:26:52 pm
-date modified: Monday, April 11th 2022, 4:38:41 pm
+date modified: Thursday, April 14th 2022, 8:54:38 pm
 title: Как отослать email
 ---
 
