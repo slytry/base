@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/react-beautiful-dnd.md",
+            "file": "Influence/§ Велик.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/react-beautiful-dnd.md",
+                "file": "Influence/§ Велик.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,9 +108,9 @@
   },
   "active": "d4e933cf15e489cc",
   "lastOpenFiles": [
+    "Influence/§ Велик.md",
     "Base/react-beautiful-dnd.md",
     "Base/§React.md",
-    "Influence/§ Велик.md",
     "Influence/§ Искусство речи, ораторство.md",
     "Base/Требования к архитекттуре.md",
     "Base/Основы ООП.md",
