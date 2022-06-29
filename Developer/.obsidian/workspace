@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Требования к архитекттуре.md",
+            "file": "Influence/§ Велик.md",
             "mode": "source",
             "backlinks": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404,
-    "collapsed": true
+    "width": 404
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Требования к архитекттуре.md",
+                "file": "Influence/§ Велик.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +108,8 @@
   },
   "active": "d4e933cf15e489cc",
   "lastOpenFiles": [
+    "Influence/§ Велик.md",
+    "Influence/§ Искусство речи, ораторство.md",
     "Base/Требования к архитекттуре.md",
     "Base/Основы ООП.md",
     "Base/Как мокать данные.md",
@@ -116,8 +117,6 @@
     "Base/ESLint.md",
     "Base/Различия между arrow  и обычной ф-ей.md",
     "Base/Блоги.md",
-    "Base/Debounce and Throttle, rAF  in React.md",
-    "Base/Способы вывести логи красиво.md",
-    "Base/§Node.js.md"
+    "Base/Debounce and Throttle, rAF  in React.md"
   ]
 }
