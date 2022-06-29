@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Influence/§ Велик.md",
+            "file": "Base/react-beautiful-dnd.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Influence/§ Велик.md",
+                "file": "Base/react-beautiful-dnd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,8 @@
   },
   "active": "d4e933cf15e489cc",
   "lastOpenFiles": [
+    "Base/react-beautiful-dnd.md",
+    "Base/§React.md",
     "Influence/§ Велик.md",
     "Influence/§ Искусство речи, ораторство.md",
     "Base/Требования к архитекттуре.md",
@@ -115,8 +117,6 @@
     "Base/Как мокать данные.md",
     "Base/§Тестирование.md",
     "Base/ESLint.md",
-    "Base/Различия между arrow  и обычной ф-ей.md",
-    "Base/Блоги.md",
-    "Base/Debounce and Throttle, rAF  in React.md"
+    "Base/Различия между arrow  и обычной ф-ей.md"
   ]
 }

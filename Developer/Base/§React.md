@@ -64,6 +64,7 @@ title: §React
 - [[date-fns]]
 - [[react-input-mask]]
 - [[react-scroll-wheel-handler]]
+- [[react-beautiful-dnd]]
 
 ##### Бибилотеки компонентов
 
