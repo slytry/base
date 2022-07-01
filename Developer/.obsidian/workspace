@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Influence/§ Велик.md",
+            "file": "Base/§React.md",
             "mode": "source",
             "backlinks": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "svg",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Influence/§ Велик.md",
+                "file": "Base/§React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +109,15 @@
   },
   "active": "d4e933cf15e489cc",
   "lastOpenFiles": [
+    "Base/§React.md",
+    "Base/§VUE.md",
+    "Base/).md",
     "Influence/§ Велик.md",
     "Base/react-beautiful-dnd.md",
-    "Base/§React.md",
     "Influence/§ Искусство речи, ораторство.md",
     "Base/Требования к архитекттуре.md",
     "Base/Основы ООП.md",
     "Base/Как мокать данные.md",
-    "Base/§Тестирование.md",
-    "Base/ESLint.md",
-    "Base/Различия между arrow  и обычной ф-ей.md"
+    "Base/§Тестирование.md"
   ]
 }
