@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Thursday, March 17th 2022, 9:36:45 am
-date modified: Tuesday, June 28th 2022, 8:52:02 am
+date modified: Tuesday, June 28th 2022, 10:18:06 am
 title: ESLint
 ---
 
@@ -17,6 +17,7 @@ title: ESLint
 
 - [Config ESLint, Prettier in Typescript React App.](https://medium.com/@raj-durai/config-eslint-prettier-in-typescript-react-app-77c5634d6dd1) - Новая статья
 - [Сложно о простом: ESLint в команде](https://habr.com/ru/post/322550/) - добавление всех зависимочстей линтера и сомого линтера в peerDeps
+- [Config ESLint, Prettier in Typescript React App.](https://medium.com/@raj-durai/config-eslint-prettier-in-typescript-react-app-77c5634d6dd1)
 
 Серия класных статей
 

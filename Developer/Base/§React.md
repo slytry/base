@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Monday, June 27th 2022, 10:29:54 pm
+date modified: Thursday, June 30th 2022, 11:26:41 am
 
 title: §React
 ---
@@ -39,7 +39,7 @@ title: §React
 ### [[Кастомные хуки]]
 
 ### Продвинутые темы
-
+- [Делаем отзывчивый и максимально возможный размер шрифта динамического текста относительно контейнера](https://habr.com/ru/company/macloud/blog/562614/)
 - [[React.memo]]
 - [[Debounce and Throttle, rAF  in React]]
 - [[usePortal]]
@@ -48,6 +48,7 @@ title: §React
 ### Оптимизация
 
 - [5 Ways to Optimize Your Functional React Components](https://javascript.plainenglish.io/5-ways-to-optimize-your-functional-react-components-cb3cf6c7bd68)
+- [Десятикратное улучшение производительности React-приложения](https://habr.com/ru/company/macloud/blog/562614/)
 
 ### Окружение
 
