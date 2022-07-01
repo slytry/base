@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Thursday, June 30th 2022, 11:26:41 am
+date modified: Friday, July 1st 2022, 8:34:04 am
 
 title: §React
 ---
@@ -39,14 +39,17 @@ title: §React
 ### [[Кастомные хуки]]
 
 ### Продвинутые темы
-- [Делаем отзывчивый и максимально возможный размер шрифта динамического текста относительно контейнера](https://habr.com/ru/company/macloud/blog/562614/)
+
+- [Делаем отзывчивый и максимально возможный размер шрифта динамического текста относительно контейнера](https://habr.com/ru/post/672148/)
 - [[React.memo]]
 - [[Debounce and Throttle, rAF  in React]]
 - [[usePortal]]
 - [[Доступность контента React]]
+- [React: тестируем компоненты с помощью Jest и Testing Library](https://habr.com/ru/company/timeweb/blog/670480/)
 
 ### Оптимизация
 
+- [Десятикратное улучшение производительности React-приложения](https://habr.com/ru/company/macloud/blog/562614/)
 - [5 Ways to Optimize Your Functional React Components](https://javascript.plainenglish.io/5-ways-to-optimize-your-functional-react-components-cb3cf6c7bd68)
 - [Десятикратное улучшение производительности React-приложения](https://habr.com/ru/company/macloud/blog/562614/)
 
@@ -65,6 +68,7 @@ title: §React
 - [[date-fns]]
 - [[react-input-mask]]
 - [[react-scroll-wheel-handler]]
+- [[react-beautiful-dnd]]
 
 ##### Бибилотеки компонентов
 
