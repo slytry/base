@@ -1,8 +1,12 @@
 ---
+tags: 
 aliases: null
 date created: 2022-01-28 12:00
 date updated:
+date modified: Thursday, March 17th 2022, 9:36:45 am
 ---
+
+# JSX
 
 Расширение JS для возможности писать разменту внутри скриптов.
 
@@ -13,4 +17,3 @@ JSX должен возвращать один элемент
 ---
 
 ###### Citation
-
