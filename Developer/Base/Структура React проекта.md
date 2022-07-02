@@ -133,5 +133,4 @@ export const sampleOne = (arr) => {
 
 - [React Architecture: How to Structure and Organize a React Application](https://www.taniarascia.com/react-architecture-directory-structure/)
 - [Структура React REST API приложения + TypeScript + Styled-Components](https://vc.ru/u/758273-nikita-osin/220656-struktura-react-rest-api-prilozheniya-typescript-styled-components)
-- [Atomic Design Pattern: How to structure your React application](https://medium.com/@janelle.wg/atomic-design-pattern-how-to-structure-your-react-application-2bb4d9ca5f97)
 - [Delightful React File/Directory Structure](https://www.joshwcomeau.com/react/file-structure/#introduction)
