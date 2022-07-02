@@ -106,7 +106,7 @@ export const sampleOne = (arr) => {
 │   └── types/
 │       ├── Models/ 			
 │ 		│	└── product.models.ts - описание типов с бэка
-│       └── types.ts 			  - вспомогательная ф-я
+│       └── types.ts 			  - общие типы
 
 ```
 
