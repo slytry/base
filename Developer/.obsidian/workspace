@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§React.md",
+            "file": "Base/Компоненты.md",
             "mode": "source",
             "backlinks": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§React.md",
+                "file": "Base/Компоненты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "67cff3039cc5432c",
   "lastOpenFiles": [
+    "Base/Компоненты.md",
     "Base/§React.md",
     "Base/Virtual DOM React.md",
     "Base/Для чего нужен реакт.md",
@@ -117,7 +118,6 @@
     "Base/Содержание коммит файла.md",
     "Base/CHANGELOG.md",
     "Base/§GIT.md",
-    "Base/Соглашение по коммитам.md",
-    "Base/Как писать css в next.md"
+    "Base/Соглашение по коммитам.md"
   ]
 }
