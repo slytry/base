@@ -58,15 +58,15 @@ SSR: NextJs
 - Константы или данные, совместно используемые компонентом и связанными с ним файлами
 
 ```
-│   └── FileViewer/
-│       ├── FileViewer.tsx 			- основной комонент
-│       ├── FileContent.tsx 		- внутренный компонент для отрисовки кода
-│       ├── FileViewer.types.ts 	- типы 
-│       ├── FileViewer.stories.tsx 	- сторис
-│       ├── FileViewer.test.ts 		- тест
-│       ├── Sidebar.tsx 			- внутренный компонент 
-│       ├── FileViewer.data.ts 		- данные пока нет сервера 
-│       └── FileViewer.helpers.ts 	- вспомогательная ф-я
+ └── FileViewer/
+     ├── FileViewer.tsx 			- основной комонент
+     ├── FileContent.tsx 		- внутренный компонент для отрисовки кода
+     ├── FileViewer.types.ts 	- типы 
+     ├── FileViewer.stories.tsx 	- сторис
+     ├── FileViewer.test.ts 		- тест
+     ├── Sidebar.tsx 			- внутренный компонент 
+     ├── FileViewer.data.ts 		- данные пока нет сервера 
+     └── FileViewer.helpers.ts 	- вспомогательная ф-я
 
 ```
 
