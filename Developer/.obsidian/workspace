@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Compound Components.md",
+            "file": "Base/Структура React проекта.md",
             "mode": "source",
             "backlinks": false
           }
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404
+    "width": 404,
+    "collapsed": true
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Compound Components.md",
+                "file": "Base/Структура React проекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,9 +109,9 @@
   },
   "active": "67cff3039cc5432c",
   "lastOpenFiles": [
-    "Base/Compound Components.md",
-    "Base/§React.md",
     "Base/Структура React проекта.md",
+    "Base/§React.md",
+    "Base/Compound Components.md",
     "Base/Содержание коммит файла.md",
     "Base/CHANGELOG.md",
     "Base/§GIT.md",
