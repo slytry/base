@@ -2,21 +2,22 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Friday, July 1st 2022, 7:27:38 pm
+date modified: Sunday, July 3rd 2022, 9:00:18 pm
 
 title: §React
 ---
 
 # React
 
-  
-
 [new-component](https://github.com/joshwcomeau/new-component) - создание нового компонента
 
-### Основное
+## Основное
 
 - [[Для чего нужен реакт]]
-- [[react virtual tree (Virtual DOM)]]
+
+### Четыре основные концепции
+
+- [[Virtual DOM React]]
 - [[JSX]]
 - [[Компоненты]]
 - [[Свойсво key]]
