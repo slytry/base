@@ -65,7 +65,7 @@ SSR: NextJs
 │       ├── FileViewer.stories.tsx 	- сторис
 │       ├── FileViewer.test.ts 		- тест
 │       ├── Sidebar.tsx 			- внутренный компонент 
-│       ├── FileViewer.data.ts 		- внутренный компонент 
+│       ├── FileViewer.data.ts 		- данные пока нет сервера 
 │       └── FileViewer.helpers.ts 	- вспомогательная ф-я
 
 ```
