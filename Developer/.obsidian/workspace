@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Структура React проекта.md",
+            "file": "Base/Compound Components.md",
             "mode": "source",
             "backlinks": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Структура React проекта.md",
+                "file": "Base/Compound Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,9 +109,9 @@
   },
   "active": "67cff3039cc5432c",
   "lastOpenFiles": [
-    "Base/Структура React проекта.md",
-    "Base/§React.md",
     "Base/Compound Components.md",
+    "Base/§React.md",
+    "Base/Структура React проекта.md",
     "Base/Содержание коммит файла.md",
     "Base/CHANGELOG.md",
     "Base/§GIT.md",
