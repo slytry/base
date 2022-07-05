@@ -2,10 +2,13 @@
 aliases: 
 tags: 
 date created: Thursday, June 16th 2022, 1:24:18 pm
-date modified: Thursday, June 16th 2022, 4:39:46 pm
+date modified: Thursday, June 16th 2022, 4:39:52 pm
 ---
 
 # css shapes
+## Стрелки
+
+
 
 ---
 

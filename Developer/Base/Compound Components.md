@@ -29,4 +29,4 @@ React паттер организации компонента
 
 - [Compound Components In React](https://www.smashingmagazine.com/2021/08/compound-components-react/)
 - [Александр Дунай — Улучшаем качество кода React-приложения с помощью Compound Components](https://www.youtube.com/watch?v=4BByJUk5x7M)
-
+- [Улучшаем дизайн React приложения с помощью Compound components](https://habr.com/ru/company/alfa/blog/647013/)
