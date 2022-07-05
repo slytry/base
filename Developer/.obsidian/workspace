@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Head. Метаданные.md",
+            "file": "Base/Document. Модификация документа.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Head. Метаданные.md",
+                "file": "Base/Document. Модификация документа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,9 +107,9 @@
   },
   "active": "67cff3039cc5432c",
   "lastOpenFiles": [
-    "Base/Head. Метаданные.md",
-    "Base/§Next.js.md",
     "Base/Document. Модификация документа.md",
+    "Base/§Next.js.md",
+    "Base/Head. Метаданные.md",
     "Base/css shapes.md",
     "Influence/§ Английский.md",
     "Influence/§ Бизнес.md",
