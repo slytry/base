@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/css shapes.md",
+            "file": "Base/Backend driven ui.md",
             "mode": "source",
             "backlinks": false
           }
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 404,
+    "collapsed": true
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/css shapes.md",
+                "file": "Base/Backend driven ui.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,19 +105,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371
+    "width": 371,
+    "collapsed": true
   },
   "active": "67cff3039cc5432c",
   "lastOpenFiles": [
-    "Base/css shapes.md",
-    "Base/§React.md",
-    "Base/Compound Components.md",
-    "Base/Содержание коммит файла.md",
-    "Base/CHANGELOG.md",
-    "Base/§GIT.md",
-    "Base/Соглашение по коммитам.md",
-    "Base/Как писать css в next.md",
-    "Base/Структура React проекта.md",
-    "Base/Архитектура React приложения.md"
+    "Base/Backend driven ui.md",
+    "Base/Преобразование данных.md",
+    "Base/Функциональное программирование.md",
+    "Base/Рекурсия и стек.md",
+    "Base/Чистые функции.md",
+    "Base/Неизменяемость.md",
+    "Base/Декларативная и императивная парадигма.md",
+    "Base/Что такое ФП.md",
+    "Base/§Тестирование.md",
+    "Base/§React.md"
   ]
 }
