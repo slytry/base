@@ -1,11 +1,15 @@
 ---
+tags: 
 aliases: null
 date created: 2022-03-19 21:05
-date updated:
+date modified: Tuesday, July 5th 2022, 11:00:55 am
+date modified: Tuesday, July 5th 2022, 11:00:55 am
 ---
 
+# Фокус элементов CSS
+
 ---
 
-###### Citation
+###### References
 
-[Фокусы со стилями для фокуса](https://css-live.ru/articles/fokusy-so-stilyami-dlya-fokusa.html)
+- [Фокусы со стилями для фокуса](https://css-live.ru/articles/fokusy-so-stilyami-dlya-fokusa.html)

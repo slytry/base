@@ -2,15 +2,13 @@
 tags: 
 aliases: 
 date created: Monday, March 21st 2022, 9:21:47 am
-date modified: Monday, June 27th 2022, 10:24:58 pm
+date modified: Tuesday, July 5th 2022, 11:44:20 am
 title: Structure
 ---
 
 [Работа с HTML и CSS: 10 полезных приемов для дизайнер](https://nuancesprog.ru/p/12211/)
 
 # Structure
-
----
 
 [[will-change]]
 
@@ -32,6 +30,7 @@ title: Structure
 - [[The Deconstructed Pancake Подвижные карточки]]
 - [[Отзывчивый и адаптивный дизайн сайта]]
 - [[Медиа запросы CSS]]
+
  Links
 - [10 modern layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU) https://1linelayouts.glitch.me/ https://thecode.media/css-one-line/ https://thecode.media/new-1line-css/
 - https://itchief.ru/html-and-css/responsive-design
@@ -42,45 +41,59 @@ title: Structure
 
 ### Fonts
 
-- Основа
-	- [[Подключение шрифтов]]
-	- [[Типографика, свойства]]
-	- [Все варианты отзывчевого текста, Михаил Иванкив](https://www.youtube.com/watch?v=cO2-zYzjyD0)
-	- [[Перенос строк и слов]]
-- Адаптив
-	- https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/
-	- https://css-tricks.com/snippets/css/fluid-typography/
-	- https://css-tricks.com/fun-viewport-units/
-- Стилизация
-	- [[Выравнивание текста text-align]]
-	- [[Перенос текста]]
-- Шрифты
+#### Основа
+
+- [[Подключение шрифтов]]
+- [[Типографика, свойства]]
+- [Все варианты отзывчевого текста, Михаил Иванкив](https://www.youtube.com/watch?v=cO2-zYzjyD0)
+- [[Перенос текста]]
+
+#### Адаптив
+
+- https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/
+- https://css-tricks.com/snippets/css/fluid-typography/
+- https://css-tricks.com/fun-viewport-units/
+
+#### Стилизация
+
+- [[Выравнивание текста text-align]]
+
+#### Шрифты
+
 - https://htmlacademy.ru/blog/best/fonts-loading
 - https://habr.com/ru/post/539680/
-	- [[Системный шрифт]]
-	- [[15 безопасных шрифтов на подмену]]
-- Links
-	- [Front End Center — Crafting Webfont Fallbacks](https://www.youtube.com/watch?v=tO01ul1WNW8&t=604s)
-	- [# Вариативные шрифты (Будущее?)](https://yoksel.github.io/opentype-variable-fonts/)
-	- [Минимально необходимые шрифты](https://css-live.ru/articles/minimalno-neobxodimye-shrifty.html)
-	- [Антипаттерн для веб-шрифтов: Data URI](https://css-live.ru/articles/antipattern-dlya-veb-shriftov-data-uri.html)
-	- [Оптимизация шрифтов.](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
-	- [REM vs EM – Великий спор](https://habr.com/ru/post/280125/)
-	- [Ремы, емы, и почему отказ от них — не проблема.](https://medium.com/devschacht/david-gilbertson-rems-and-ems-and-why-you-probably-dont-need-them-3b2b1e785787)
+- [[Системный шрифт]]
+- [[15 безопасных шрифтов на подмену]]
+	
+
+#### Links
+
+- [Front End Center — Crafting Webfont Fallbacks](https://www.youtube.com/watch?v=tO01ul1WNW8&t=604s)
+- [# Вариативные шрифты (Будущее?)](https://yoksel.github.io/opentype-variable-fonts/)
+- [Минимально необходимые шрифты](https://css-live.ru/articles/minimalno-neobxodimye-shrifty.html)
+- [Антипаттерн для веб-шрифтов: Data URI](https://css-live.ru/articles/antipattern-dlya-veb-shriftov-data-uri.html)
+- [Оптимизация шрифтов.](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
+- [REM vs EM – Великий спор](https://habr.com/ru/post/280125/)
+- [Ремы, емы, и почему отказ от них — не проблема.](https://medium.com/devschacht/david-gilbertson-rems-and-ems-and-why-you-probably-dont-need-them-3b2b1e785787)
 
 ### Функции
 
 [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
 
-- Размеры
-	- [[переменные с цветами]]
-	- [[CSS-функции min(), max() и clamp()]]
-- Работа с картинками
-	- [[cross-fade()]]
-	- [[blend modes]]
-- Links
-	- [Математические функции в CSS](https://yoksel.github.io/css-math/#restrictions)
-	- [5 функций CSS, которые пригодятся при разработке сайтов](https://nuancesprog.ru/p/12643/)
+#### Размеры
+
+- [[CSS-функции min(), max() и clamp()]]
+
+#### Работа с картинками
+
+- [[cross-fade()]]
+- [[blend modes]]
+	
+
+#### Links
+
+- [Математические функции в CSS](https://yoksel.github.io/css-math/#restrictions)
+- [5 функций CSS, которые пригодятся при разработке сайтов](https://nuancesprog.ru/p/12643/)
 
 ### Кастомные свойств
 
@@ -96,15 +109,16 @@ title: Structure
 
 ### Graphic
 
-[[background-image для ретины]]
+- [[background-image для ретины]]
 
- Links
- [Адаптивные изображения: 5 трюков CSS для экономии времени](https://proglib.io/p/responsive-images)
- [When to use IMG vs. CSS background-image?](https://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image)
-	- [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
-	- [Responsive Images in Practice](http://alistapart.com/article/responsive-images-in-practice/)
-	- [Почему мы не можем делать по-настоящему адаптивные изображения при помощи CSS или JavaScript](https://css-live.ru/articles/pochemu-my-ne-mozhem-delat-po-nastoyashhemu-adaptivnye-izobrazheniya-pri-pomoshhi-css-ili-javascript.html)
-	- [# Automatically art-directed responsive images](https://cloudinary.com/blog/automatically_art_directed_responsive_images)
+#### Links
+
+- [Адаптивные изображения: 5 трюков CSS для экономии времени](https://proglib.io/p/responsive-images)
+- [When to use IMG vs. CSS background-image?](https://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image)
+- [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
+- [Responsive Images in Practice](http://alistapart.com/article/responsive-images-in-practice/)
+- [Почему мы не можем делать по-настоящему адаптивные изображения при помощи CSS или JavaScript](https://css-live.ru/articles/pochemu-my-ne-mozhem-delat-po-nastoyashhemu-adaptivnye-izobrazheniya-pri-pomoshhi-css-ili-javascript.html)
+- [# Automatically art-directed responsive images](https://cloudinary.com/blog/automatically_art_directed_responsive_images)
 
 ### Расположение
 
@@ -119,9 +133,9 @@ title: Structure
 
 ### Общее
 
-	- [[Основы Sass]]
-	- [[Медиазапросы в SCSS]]
-	- [[Организация кнопок на сайте с помощью Sass]]
+- [[Основы Sass]]
+- [[Медиазапросы в SCSS]]
+- [[Организация кнопок на сайте с помощью Sass]]
 	
 
 ### Mixins
@@ -130,11 +144,11 @@ title: Structure
 
 ### Модули
 
-	- [[scss @use]]
-	- [[scss @forward]]
-	- [[scss @import]]
-	- [[Приватные свойства]]
-	- [[index файлы в scss]]
+- [[scss @use]]
+- [[scss @forward]]
+- [[scss @import]]
+- [[Приватные свойства]]
+- [[index файлы в scss]]
 
 ## Прочее
 

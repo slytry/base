@@ -1,12 +1,14 @@
 ---
 tags: 
 aliases: 
+date created: Thursday, March 17th 2022, 9:36:45 am
+date modified: Tuesday, July 5th 2022, 11:00:22 am
 ---
 
+# CSS-фон
 
 ---
-###### Related 
----
-###### Citation
-[CSS-фон](https://html5book.ru/css-background/)
-Date: 2021-11-26T18:00
+
+###### References
+
+- [CSS-фон](https://html5book.ru/css-background/)

@@ -3,7 +3,7 @@ tags:
 aliases: null
 
 date created: Tuesday, March 22nd 2022, 9:32:50 am
-date modified: Thursday, March 31st 2022, 3:12:01 pm
+date modified: Tuesday, July 5th 2022, 11:10:42 am
 
 title: §Essential
 ---
@@ -37,7 +37,10 @@ title: §Essential
 - [[Аутентификация]]
 - [[Scrum]]
 - [[Markdown]]
+
 ---
+
+###### References
 
 - [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://htmlacademy.ru/blog/education/what/brauzer-google)
 - [Принципы работы современных веб-браузеров](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
