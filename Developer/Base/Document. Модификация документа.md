@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Tuesday, July 5th 2022, 9:15:43 pm
-date modified: Tuesday, July 5th 2022, 9:16:07 pm
+date modified: Tuesday, July 5th 2022, 9:16:14 pm
 ---
 
 # Изменение document

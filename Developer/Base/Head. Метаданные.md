@@ -22,6 +22,8 @@ import Head from 'next/head'
 </Head>
 ```
 
+Использовать компонет Head можно
+
 ---
 
 ###### References
