@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Thursday, June 16th 2022, 1:24:18 pm
-date modified: Tuesday, July 5th 2022, 3:15:39 pm
+date modified: Tuesday, July 5th 2022, 9:09:54 pm
 ---
 
 # CSS shapes

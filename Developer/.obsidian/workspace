@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/css shapes.md",
+            "file": "Base/§Next.js.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/css shapes.md",
+                "file": "Base/§Next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "67cff3039cc5432c",
   "lastOpenFiles": [
+    "Base/§Next.js.md",
+    "Base/Изменение document.md",
+    "Base/Head компонент.md",
     "Base/css shapes.md",
     "Influence/§ Английский.md",
     "Influence/§ Бизнес.md",
     "Influence/§ Велик.md",
     "Influence/§ Искусство речи, ораторство.md",
     "Influence/§ Как учиться.md",
-    "Influence/Что делать после изучения материала.md",
-    "Influence/Стиральная машина.md",
-    "Influence/Как научиться формулировать мысли.md",
-    "Influence/§ Персональная база знаний.md"
+    "Influence/Что делать после изучения материала.md"
   ]
 }
