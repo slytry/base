@@ -2,20 +2,19 @@
 aliases: 
 tags: 
 date created: Monday, May 16th 2022, 12:03:59 pm
-date modified: Monday, May 16th 2022, 3:42:49 pm
+date modified: Friday, June 17th 2022, 9:39:31 am
 ---
 
 # §MOBX
+
 **Pros**
 - Меньше кода писать его легче. Так как нет редьюсеров диспатчей.
 - MOBX реализует парадигму ООП, и все отсюда вытекающие совйста ООП. Например наследование
 
-
 **Cons**
 - Больше свободы по сравнению с редаксом. Не каждый програмист может написать хорошо на MOBX
 - MOBX тяжело дебажить. Изменения неочевидны, так как реализуется паттерн наблюдатель. Dev tools не такой хороший
-- Весит больше чем Redux 
-
+- Весит больше чем Redux
 
 - [[Концепция MOBX]]
 - [[Root Store Pattern]]
@@ -24,6 +23,7 @@ date modified: Monday, May 16th 2022, 3:42:49 pm
 ### Запросы на сервер
 
 https://dev.to/ndrean/fetch-with-mobx-in-react-1omi
+
 https://mono.software/2019/04/16/async-webapi-calls-using-react-with-mobx/
 
 ### Экосистема
@@ -31,6 +31,7 @@ https://mono.software/2019/04/16/async-webapi-calls-using-react-with-mobx/
 **Основа**
 
 [mobx-react-lite](https://github.com/mobxjs/mobx/tree/main/packages/mobx-react-lite) - облегченая связь с реактом (только функциональные компоненты)
+
 [mobx-state-tree]()
 
 **Окружение**
@@ -51,7 +52,11 @@ https://mono.software/2019/04/16/async-webapi-calls-using-react-with-mobx/
 
 ###### References
 
+- [#1 Фатальный недостаток Redux ;) - Управление состоянием](https://www.youtube.com/watch?v=GJANg9rMo5Y&list=PLZTsCOAKJJ_b_qj0W5-9XVKnu769iBXR5&index=7)
+- [React + Mobx: в чём смысл?](https://habr.com/ru/post/471048/) - habr
 - [10 minute interactive introduction to MobX and React](https://mobx.js.org/getting-started)
+- [anage Application State with Mobx-state-tree](https://egghead.io/courses/manage-application-state-with-mobx-state-tree) - egghead.io
+- [16. mobx state tree как подружить mobx и redux – Азат Разетдинов](https://www.youtube.com/watch?v=OqejxNwq2Y8&t=1686s&ab_channel=%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0) - YouTube
 - [docs (Guided tour)](https://mobx.js.org/about-this-documentation.html#:~:text=6%20cheat%20sheet-,Guided%20tour,-To%20get%20an)
 - [Практическое руководство по именованию классов, функций и переменных](https://habr.com/ru/post/558874/)
 

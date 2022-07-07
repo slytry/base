@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Thursday, March 17th 2022, 9:36:45 am
-date modified: Friday, May 13th 2022, 10:24:12 pm
+date modified: Monday, May 16th 2022, 11:52:35 am
 ---
 
 # EditorConfig
@@ -63,5 +63,7 @@ trim_trailing_whitespace` (on save)
 ###### Citation
 
 [EditorConfig Site](https://editorconfig.org)
+
 [Памятка про .editorconfig](http://glivera-team.github.io/tips/2016/02/08/editorconfig.html)
+
 [Расширения для VS code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)

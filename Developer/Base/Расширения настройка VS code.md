@@ -2,12 +2,12 @@
 tags: 
 aliases: svse
 date created: 2022-03-18 15:40
-date modified: Thursday, April 21st 2022, 11:17:55 am
+date modified: Wednesday, July 6th 2022, 8:37:42 pm
 
 title: Настройки Расширения VS code
 ---
 
-# Настройки Расширения VS code
+# Расширения VS code
 
 #### ecsstractor
 
@@ -73,4 +73,4 @@ https://prettier.io/docs/en/options.html
 
 ---
 
-###### Citation
+###### References

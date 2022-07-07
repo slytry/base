@@ -1,9 +1,15 @@
 ---
+tags: 
 aliases: null
 date created: 2022-02-18 14:25
-date updated:
+date modified: Wednesday, July 6th 2022, 8:42:47 pm
+date modified: Wednesday, July 6th 2022, 8:42:47 pm
 ---
+
+# Snippets VS code
+
 ### JS
+
 ```json
 {
 "Redux Toolkit Configure Store": {
@@ -72,9 +78,11 @@ date updated:
 }
 
 ```
+
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
 ### React
+
 ```json
 {
  "cnClass": {
@@ -133,13 +141,17 @@ date updated:
 ```
 
 [React Hooks Snippets](https://marketplace.visualstudio.com/items?itemName=AlDuncanson.react-hooks-snippets)
+
 [vscode-react-javascript-snippets](https://github.com/dsznajder/vscode-react-javascript-snippets)
+
 ### Emmet
 
 [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+
 [VS Code ES7+ React/Redux/React-Native/JS snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
-### Next 
+### Next
+
 [Next.js snippets](https://marketplace.visualstudio.com/items?itemName=PulkitGangwar.nextjs-snippets)
 
 ### SCSS
@@ -179,4 +191,3 @@ date updated:
 ---
 
 ###### Citation
-
