@@ -9,7 +9,7 @@ title: §Storybook
 
 # §Storybook
 
-- [[Концепция UI-kit]]
+- [[Концепция UI-core-kit]]
 - [[Установка Storybook]]
 
 ### Кастомная настройка webpack
