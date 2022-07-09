@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Saturday, July 9th 2022, 8:36:25 pm
+date modified: Saturday, July 9th 2022, 9:03:23 pm
 
 title: §React
 ---
@@ -98,12 +98,13 @@ title: §React
 
 - [[html-react-parser]]
 - [[date-fns]]
-
 - [[Как отослать email]]
 - [[react-scroll-wheel-handler]]
 - [[react-beautiful-dnd]]
 
 ### Бибилотеки компонентов
+
+#### Несколько компонентов
 
 - [use-platform](https://github.com/use-platform/use-platform)
 - [React ARIA](https://react-spectrum.adobe.com/react-aria/)
@@ -111,12 +112,20 @@ title: §React
 - [Headless UI](https://headlessui.dev/)
 - [Radix Primitives](https://www.radix-ui.com/)
 
+#### Узкая специализация
+
+- [React Hot Toast](http://react-hot-toast.com/) - всплывающие уведомления
+- [React Content Loader](https://skeletonreact.com/) - скелетон при загрузке
+- [React Filepond](https://pqina.nl/filepond/) - загрузка файлов
+- [React Auto Suggest](http://react-autosuggest.js.org/) - подскази при вводе
+- [React Burger Menu](https://negomi.github.io/react-burger-menu/)
+- [React Spinners](https://www.davidhu.io/react-spinners/)
+
 ### CSS фреймворки
 
 - [[Ant Design]]
 - [[Chakra UI]]
 - [[MUI]]
-- [ТОП-25 библиотек React 2021–2022: новые, полезные, но малоизвестные пакеты JavaScript](https://medium.com/nuances-of-programming/%D1%82%D0%BE%D0%BF-25-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA-react-2021-2022-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D0%BD%D0%BE-%D0%BC%D0%B0%D0%BB%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D1%8B-javascript-9e7bd71080f6)
 
 ---
 
