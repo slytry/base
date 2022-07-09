@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Saturday, July 9th 2022, 7:07:24 pm
+date modified: Saturday, July 9th 2022, 8:36:25 pm
 
 title: §React
 ---
@@ -37,8 +37,6 @@ title: §React
 - [[Архитектура React приложения]]
 - [[Структура React проекта]]
 - [[Мышление реакт]]
-
-- [5 Tips to writing cleaner and manageable react applications](https://medium.com/@bjahmad4tech/5-tips-to-writing-cleaner-and-manageable-react-applications-a08c24de0c5f)
 
 ### Хуки
 
