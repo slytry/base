@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Saturday, July 9th 2022, 9:12:52 pm
+date modified: Saturday, July 9th 2022, 9:14:31 pm
 
 title: §React
 ---
@@ -113,12 +113,11 @@ title: §React
 
 #### Несколько компонентов
 
-
 - [[Ant Design]]
 - [[Chakra UI]]
 - [[MUI]]
 - [Radix Primitives](https://www.radix-ui.com/)
-- 
+
 #### Узкая специализация
 
 - [React Hot Toast](http://react-hot-toast.com/) - всплывающие уведомления
@@ -127,10 +126,6 @@ title: §React
 - [React Auto Suggest](http://react-autosuggest.js.org/) - подскази при вводе
 - [React Burger Menu](https://negomi.github.io/react-burger-menu/) разны меню с анимацией
 - [React Spinners](https://www.davidhu.io/react-spinners/) - спиннер
-
-### CSS фреймворки
-
-
 
 ---
 
