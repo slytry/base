@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Thursday, July 7th 2022, 5:34:16 pm
+date modified: Saturday, July 9th 2022, 10:21:18 am
 
 title: §React
 ---
@@ -83,8 +83,6 @@ title: §React
 
 - [[react-input-mask]]
 - [Creating a Schema-Based Form System](https://www.taniarascia.com/schema-based-form-system/)
-
-- [[Формы react]]
 
 ### Animation
 
