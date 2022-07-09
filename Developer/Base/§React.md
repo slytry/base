@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Saturday, July 9th 2022, 9:03:23 pm
+date modified: Saturday, July 9th 2022, 9:12:52 pm
 
 title: §React
 ---
@@ -78,6 +78,13 @@ title: §React
 
 ## Инфраструктура
 
+### Доступные компоненты без стилей
+
+- [use-platform](https://github.com/use-platform/use-platform)
+- [React ARIA](https://react-spectrum.adobe.com/react-aria/)
+- [Reach UI](https://reach.tech/)
+- [Headless UI](https://headlessui.dev/)
+
 ### Core (Fetch data, State, Router)
 
 - [[React Query]]
@@ -106,26 +113,24 @@ title: §React
 
 #### Несколько компонентов
 
-- [use-platform](https://github.com/use-platform/use-platform)
-- [React ARIA](https://react-spectrum.adobe.com/react-aria/)
-- [Reach UI](https://reach.tech/)
-- [Headless UI](https://headlessui.dev/)
-- [Radix Primitives](https://www.radix-ui.com/)
 
+- [[Ant Design]]
+- [[Chakra UI]]
+- [[MUI]]
+- [Radix Primitives](https://www.radix-ui.com/)
+- 
 #### Узкая специализация
 
 - [React Hot Toast](http://react-hot-toast.com/) - всплывающие уведомления
 - [React Content Loader](https://skeletonreact.com/) - скелетон при загрузке
 - [React Filepond](https://pqina.nl/filepond/) - загрузка файлов
 - [React Auto Suggest](http://react-autosuggest.js.org/) - подскази при вводе
-- [React Burger Menu](https://negomi.github.io/react-burger-menu/)
-- [React Spinners](https://www.davidhu.io/react-spinners/)
+- [React Burger Menu](https://negomi.github.io/react-burger-menu/) разны меню с анимацией
+- [React Spinners](https://www.davidhu.io/react-spinners/) - спиннер
 
 ### CSS фреймворки
 
-- [[Ant Design]]
-- [[Chakra UI]]
-- [[MUI]]
+
 
 ---
 
