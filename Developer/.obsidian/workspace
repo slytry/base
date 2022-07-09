@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Influence/§ Английский.md",
+            "file": "Influence/§ Фотография и съемка.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Influence/§ Английский.md",
+                "file": "Influence/§ Фотография и съемка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "67cff3039cc5432c",
   "lastOpenFiles": [
-    "Influence/§ Английский.md",
+    "Influence/§ Фотография и съемка.md",
+    "Influence/¶ FCodex.md",
+    "Influence/¶ Харизма.md",
+    "Influence/001 Харизма.md",
+    "Templates/Note.md",
+    "Base/Хлебные крошки.md",
+    "Influence/Стиральная машина.md",
     "Influence/§ Бизнес.md",
-    "Influence/§ Велик.md",
-    "Influence/§ Искусство речи, ораторство.md",
-    "Influence/§ Как учиться.md",
-    "Influence/§ Персональная база знаний.md",
-    "Influence/§ Пиши, сокращай.md",
-    "Influence/§ Стоицизм.md",
-    "Influence/Фотография и съемка.md",
-    "Base/§Node.js.md"
+    "Influence/Как научиться формулировать мысли.md",
+    "Influence/¶ Relocate.md"
   ]
 }
