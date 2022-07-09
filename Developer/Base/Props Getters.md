@@ -1,11 +1,11 @@
 ---
 aliases: 
 tags: 
-date created: Saturday, July 9th 2022, 7:17:55 pm
-date modified: Saturday, July 9th 2022, 8:16:52 pm
+date created: Saturday, July 9th 2022, 8:17:15 pm
+date modified: Saturday, July 9th 2022, 8:17:15 pm
 ---
 
-# Control Props
+# Props Getters
 
 ---
 
