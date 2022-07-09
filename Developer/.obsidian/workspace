@@ -7,8 +7,12 @@
         "id": "67cff3039cc5432c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/§React.md",
+            "mode": "source",
+            "backlinks": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/§React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +107,8 @@
   },
   "active": "67cff3039cc5432c",
   "lastOpenFiles": [
-    "Base/Концепция UI-kit.md",
     "Base/§React.md",
+    "Base/Концепция UI-core-kit.md",
     "Base/§Storybook.md",
     "Base/Отзывчивый и адаптивный дизайн сайта.md",
     "Base/Соглашение по коммитам.md",
