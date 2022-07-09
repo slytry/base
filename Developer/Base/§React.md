@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Saturday, July 9th 2022, 6:53:06 pm
+date modified: Saturday, July 9th 2022, 7:07:24 pm
 
 title: §React
 ---
@@ -60,6 +60,7 @@ title: §React
 - [[usePortal]]
 - [[Доступность контента React]]
 - [[Инверсия контроля]]
+- [[Local Storage React]]
 
 ### Оптимизация
 
@@ -86,6 +87,7 @@ title: §React
 ### Forms
 
 - [[react-input-mask]]
+- [[react-hook-form]]
 - [Creating a Schema-Based Form System](https://www.taniarascia.com/schema-based-form-system/)
 
 ### Animation
@@ -103,11 +105,11 @@ title: §React
 
 ### Бибилотеки компонентов
 
-- [Reach UI](https://reach.tech/)A set of accessibility-focused primitives for React. Built by Ryan Florence, co-creator of React Router and Remix.
-- [Headless UI](https://headlessui.dev/) - A set of unstyled, fully accessible UI components for React and Vue. Built and maintained by the Tailwind team.
-- [Radix Primitives](https://www.radix-ui.com/) -  A set of unstyled, accessibility-focused components for React. This library has a very broad set of included components.
-- [React ARIA](https://react-spectrum.adobe.com/react-aria/) - A library of React hooks you can use to build accessible components from scratch.
 - [use-platform](https://github.com/use-platform/use-platform)
+- [React ARIA](https://react-spectrum.adobe.com/react-aria/)
+- [Reach UI](https://reach.tech/)
+- [Headless UI](https://headlessui.dev/)
+- [Radix Primitives](https://www.radix-ui.com/)
 
 ### CSS фреймворки
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Compound Components.md",
+            "file": "Base/Remix js.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Compound Components.md",
+                "file": "Base/Remix js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "67cff3039cc5432c",
   "lastOpenFiles": [
-    "Base/Compound Components.md",
+    "Base/Remix js.md",
     "Base/§React.md",
-    "Base/Инверсия контроля.md",
+    "Base/react-hook-form.md",
+    "Base/Local Storage React.md",
     "Base/Утилиты (Utils).md",
+    "Base/Compound Components.md",
+    "Base/Инверсия контроля.md",
     "Influence/§ Фотография и съемка.md",
     "Influence/¶ FCodex.md",
-    "Influence/¶ Харизма.md",
-    "Influence/001 Харизма.md",
-    "Templates/Note.md",
-    "Base/Хлебные крошки.md"
+    "Influence/¶ Харизма.md"
   ]
 }
