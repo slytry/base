@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Saturday, July 9th 2022, 11:51:58 am
+date modified: Saturday, July 9th 2022, 6:53:06 pm
 
 title: §React
 ---
@@ -22,12 +22,15 @@ title: §React
 - [[JSX]]
 - [[Свойсво key]]
 
-### Арихитектура
+### React паттерны
 
 - [5 продвинутых шаблонов React на пальцах](https://nuancesprog.ru/p/14066/)
 
-- [[Архитектура React приложения]]
 - [[Compound Components]]
+
+### Арихитектура
+
+- [[Архитектура React приложения]]
 - [[Структура React проекта]]
 - [[Мышление реакт]]
 
@@ -56,6 +59,7 @@ title: §React
 - [[Debounce and Throttle, rAF  in React]]
 - [[usePortal]]
 - [[Доступность контента React]]
+- [[Инверсия контроля]]
 
 ### Оптимизация
 
