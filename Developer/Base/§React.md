@@ -27,6 +27,10 @@ title: §React
 - [5 продвинутых шаблонов React на пальцах](https://nuancesprog.ru/p/14066/)
 
 - [[Compound Components]]
+- [[Control Props ]]
+- [[Custom Hook Pattern]]
+- [[Props Getters]]
+- [[State reducer]]
 
 ### Арихитектура
 
@@ -68,7 +72,7 @@ title: §React
 
 ### Тестирование
 
-- [[§Тестирование]]
+- [[§Testing]]
 - [[Unit tests with storybook on React]]
 - [React: тестируем компоненты с помощью Jest и Testing Library](https://habr.com/ru/company/timeweb/blog/670480/)
 

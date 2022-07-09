@@ -64,4 +64,5 @@ npm cache clear --force
 
 ###### References
 
-[Сломанные пакеты npm](https://www.youtube.com/watch?v=2AVs-Yh1bS8)
+- [Сломанные пакеты npm](https://www.youtube.com/watch?v=2AVs-Yh1bS8)
+- [7 Tools to Choose the Right NPM Package](https://javascript.plainenglish.io/7-tools-to-choose-the-right-npm-package-7baf47259ae0)

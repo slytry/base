@@ -27,6 +27,7 @@ date modified: Monday, June 20th 2022, 12:03:44 pm
 ---
 ###### Citation
 
+- [Front-end Testing Strategy](https://itnext.io/front-end-testing-strategy-5fddfd463feb)
 - [Автоматизация тестирования на максималках. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/506094/)
 - [# 09. Автотесты. Модульное тестирование – Дмитрий Андриянов](https://www.youtube.com/watch?v=DFLXBdfnAeE&list=PLKaafC45L_SSUUku_N10BBkVWXkKzqZFI&index=9)
 
