@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Compound Components.md",
+            "file": "Base/§React.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Compound Components.md",
+                "file": "Base/§React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,8 @@
   },
   "active": "67cff3039cc5432c",
   "lastOpenFiles": [
-    "Base/Compound Components.md",
     "Base/§React.md",
+    "Base/Compound Components.md",
     "Base/Формы и валидация.md",
     "Base/Формы react.md",
     "Base/Концепция UI-core-kit.md",
