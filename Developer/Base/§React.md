@@ -39,8 +39,6 @@ title: §React
 - [[Мышление реакт]]
 
 - [5 Tips to writing cleaner and manageable react applications](https://medium.com/@bjahmad4tech/5-tips-to-writing-cleaner-and-manageable-react-applications-a08c24de0c5f)
-- [5 Tools for Faster Development in React](https://blog.bitsrc.io/5-tools-for-faster-development-in-react-676f134050f2)
-- [How To Write Better Code in React](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
 
 ### Хуки
 
