@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Thursday, July 7th 2022, 5:34:16 pm
+date modified: Friday, July 8th 2022, 10:17:11 am
 
 title: §React
 ---
@@ -101,11 +101,11 @@ title: §React
 
 ### Бибилотеки компонентов
 
+- [use-platform](https://github.com/use-platform/use-platform)
+- [React ARIA](https://react-spectrum.adobe.com/react-aria/) - A library of React hooks you can use to build accessible components from scratch.
 - [Reach UI](https://reach.tech/)A set of accessibility-focused primitives for React. Built by Ryan Florence, co-creator of React Router and Remix.
 - [Headless UI](https://headlessui.dev/) - A set of unstyled, fully accessible UI components for React and Vue. Built and maintained by the Tailwind team.
 - [Radix Primitives](https://www.radix-ui.com/) -  A set of unstyled, accessibility-focused components for React. This library has a very broad set of included components.
-- [React ARIA](https://react-spectrum.adobe.com/react-aria/) - A library of React hooks you can use to build accessible components from scratch.
-- [use-platform](https://github.com/use-platform/use-platform)
 
 ### CSS фреймворки
 
