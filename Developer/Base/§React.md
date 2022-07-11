@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Friday, July 8th 2022, 10:17:11 am
+date modified: Saturday, July 9th 2022, 9:14:31 pm
 
 title: §React
 ---
@@ -22,18 +22,21 @@ title: §React
 - [[JSX]]
 - [[Свойсво key]]
 
-### Арихитектура
+### React паттерны
 
 - [5 продвинутых шаблонов React на пальцах](https://nuancesprog.ru/p/14066/)
 
-- [[Архитектура React приложения]]
 - [[Compound Components]]
+- [[Control Props ]]
+- [[Custom Hook Pattern]]
+- [[Props Getters]]
+- [[State reducer]]
+
+### Арихитектура
+
+- [[Архитектура React приложения]]
 - [[Структура React проекта]]
 - [[Мышление реакт]]
-
-- [5 Tips to writing cleaner and manageable react applications](https://medium.com/@bjahmad4tech/5-tips-to-writing-cleaner-and-manageable-react-applications-a08c24de0c5f)
-- [5 Tools for Faster Development in React](https://blog.bitsrc.io/5-tools-for-faster-development-in-react-676f134050f2)
-- [How To Write Better Code in React](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
 
 ### Хуки
 
@@ -56,6 +59,8 @@ title: §React
 - [[Debounce and Throttle, rAF  in React]]
 - [[usePortal]]
 - [[Доступность контента React]]
+- [[Инверсия контроля]]
+- [[Local Storage React]]
 
 ### Оптимизация
 
@@ -63,7 +68,7 @@ title: §React
 
 ### Тестирование
 
-- [[§Тестирование]]
+- [[§Testing]]
 - [[Unit tests with storybook on React]]
 - [React: тестируем компоненты с помощью Jest и Testing Library](https://habr.com/ru/company/timeweb/blog/670480/)
 
@@ -72,6 +77,13 @@ title: §React
 [React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
 
 ## Инфраструктура
+
+### Доступные компоненты без стилей
+
+- [use-platform](https://github.com/use-platform/use-platform)
+- [React ARIA](https://react-spectrum.adobe.com/react-aria/)
+- [Reach UI](https://reach.tech/)
+- [Headless UI](https://headlessui.dev/)
 
 ### Core (Fetch data, State, Router)
 
@@ -82,9 +94,8 @@ title: §React
 ### Forms
 
 - [[react-input-mask]]
+- [[react-hook-form]]
 - [Creating a Schema-Based Form System](https://www.taniarascia.com/schema-based-form-system/)
-
-- [[Формы react]]
 
 ### Animation
 
@@ -94,25 +105,27 @@ title: §React
 
 - [[html-react-parser]]
 - [[date-fns]]
-
 - [[Как отослать email]]
 - [[react-scroll-wheel-handler]]
 - [[react-beautiful-dnd]]
 
 ### Бибилотеки компонентов
 
-- [use-platform](https://github.com/use-platform/use-platform)
-- [React ARIA](https://react-spectrum.adobe.com/react-aria/) - A library of React hooks you can use to build accessible components from scratch.
-- [Reach UI](https://reach.tech/)A set of accessibility-focused primitives for React. Built by Ryan Florence, co-creator of React Router and Remix.
-- [Headless UI](https://headlessui.dev/) - A set of unstyled, fully accessible UI components for React and Vue. Built and maintained by the Tailwind team.
-- [Radix Primitives](https://www.radix-ui.com/) -  A set of unstyled, accessibility-focused components for React. This library has a very broad set of included components.
-
-### CSS фреймворки
+#### Несколько компонентов
 
 - [[Ant Design]]
 - [[Chakra UI]]
 - [[MUI]]
-- [ТОП-25 библиотек React 2021–2022: новые, полезные, но малоизвестные пакеты JavaScript](https://medium.com/nuances-of-programming/%D1%82%D0%BE%D0%BF-25-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA-react-2021-2022-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D0%BD%D0%BE-%D0%BC%D0%B0%D0%BB%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D1%8B-javascript-9e7bd71080f6)
+- [Radix Primitives](https://www.radix-ui.com/)
+
+#### Узкая специализация
+
+- [React Hot Toast](http://react-hot-toast.com/) - всплывающие уведомления
+- [React Content Loader](https://skeletonreact.com/) - скелетон при загрузке
+- [React Filepond](https://pqina.nl/filepond/) - загрузка файлов
+- [React Auto Suggest](http://react-autosuggest.js.org/) - подскази при вводе
+- [React Burger Menu](https://negomi.github.io/react-burger-menu/) разны меню с анимацией
+- [React Spinners](https://www.davidhu.io/react-spinners/) - спиннер
 
 ---
 
