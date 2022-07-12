@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Saturday, July 9th 2022, 9:14:31 pm
+date modified: Monday, July 11th 2022, 10:30:45 am
 
 title: §React
 ---
@@ -23,8 +23,6 @@ title: §React
 - [[Свойсво key]]
 
 ### React паттерны
-
-- [5 продвинутых шаблонов React на пальцах](https://nuancesprog.ru/p/14066/)
 
 - [[Compound Components]]
 - [[Control Props ]]

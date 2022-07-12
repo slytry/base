@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "67cff3039cc5432c",
+        "id": "6ca2c99c83939b41",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Base/§React.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false
           }
         }
@@ -103,19 +103,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371
+    "width": 371,
+    "collapsed": true
   },
-  "active": "67cff3039cc5432c",
+  "active": "6ca2c99c83939b41",
   "lastOpenFiles": [
     "Base/§React.md",
-    "Base/Ant Design.md",
-    "Base/Как отослать email.md",
-    "Base/State reducer.md",
-    "Base/Props Getters.md",
-    "Base/Custom Hook Pattern.md",
-    "Base/Control Props.md",
-    "Base/Remix js.md",
+    "Base/§Next.js.md",
+    "Base/Настройка Jest NextJs.md",
+    "Base/Создание Api-маршрута.md",
+    "Base/Анимация всей встраницы NEXT.JS.md",
     "Base/npm менеджер пакетов.md",
-    "Base/§Testing.md"
+    "Base/§Testing.md",
+    "Base/AAA (Arrange, Act, Assert).md",
+    "Base/Test Doubles (данные для тестов).md",
+    "Base/Unit tests with storybook on React.md"
   ]
 }
