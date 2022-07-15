@@ -25,7 +25,10 @@ title: §TypeScript
 - [[Зачем нужный Generic]]
 - [[Сигнатура и примеры]]
 
-##### [[Definitely Typed]]
+- [[Definitely Typed]]
+- [[type guard]]
+
+
 
 ---
 

@@ -2,7 +2,7 @@
 tags: reat
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Monday, July 11th 2022, 10:30:45 am
+date modified: Wednesday, July 13th 2022, 3:39: pm
 
 title: §React
 ---
@@ -76,13 +76,6 @@ title: §React
 
 ## Инфраструктура
 
-### Доступные компоненты без стилей
-
-- [use-platform](https://github.com/use-platform/use-platform)
-- [React ARIA](https://react-spectrum.adobe.com/react-aria/)
-- [Reach UI](https://reach.tech/)
-- [Headless UI](https://headlessui.dev/)
-
 ### Core (Fetch data, State, Router)
 
 - [[React Query]]
@@ -109,11 +102,18 @@ title: §React
 
 ### Бибилотеки компонентов
 
+#### Доступные компоненты без стилей
+
+- [use-platform](https://github.com/use-platform/use-platform)
+- [React ARIA](https://react-spectrum.adobe.com/react-aria/)
+- [Reach UI](https://reach.tech/)
+- [Headless UI](https://headlessui.dev/)
+
 #### Несколько компонентов
 
-- [[Ant Design]]
-- [[Chakra UI]]
-- [[MUI]]
+- [Ant Design](https://ant.design/)
+- [Chakra UI](https://chakra-ui.com/)
+- [MUI](https://mui.com/)
 - [Radix Primitives](https://www.radix-ui.com/)
 
 #### Узкая специализация
