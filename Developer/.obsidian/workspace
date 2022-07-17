@@ -11,7 +11,8 @@
           "state": {
             "file": "Base/§React.md",
             "mode": "preview",
-            "backlinks": false
+            "backlinks": false,
+            "source": true
           }
         }
       }
