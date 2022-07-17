@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/TypeScript and React Events.md",
+            "file": "Base/§TypeScript.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/TypeScript and React Events.md",
+                "file": "Base/§TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "6ca2c99c83939b41",
   "lastOpenFiles": [
+    "Base/TypeScript and React Events.md",
+    "Base/§TypeScript.md",
+    "Base/Definitely Typed.md",
     "Base/§React.md",
     "Base/JSdoc.md",
     "Base/§Next.js.md",
     "Base/Настройка Jest NextJs.md",
     "Base/Создание Api-маршрута.md",
     "Base/Анимация всей встраницы NEXT.JS.md",
-    "Base/npm менеджер пакетов.md",
-    "Base/§Testing.md",
-    "Base/AAA (Arrange, Act, Assert).md",
-    "Base/Test Doubles (данные для тестов).md"
+    "Base/npm менеджер пакетов.md"
   ]
 }
