@@ -1,8 +1,8 @@
 ---
-tags: reat
+tags: react
 aliases: null
 date created: 2022-02-15 09:44
-date modified: Monday, July 11th 2022, 10:30:45 am
+date modified: Friday, July 15th 2022, 9:28:17 pm
 
 title: §React
 ---

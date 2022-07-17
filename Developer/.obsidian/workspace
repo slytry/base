@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Base/§React.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -109,6 +109,7 @@
   },
   "active": "6ca2c99c83939b41",
   "lastOpenFiles": [
+    "Base/JSdoc.md",
     "Base/§React.md",
     "Base/§Next.js.md",
     "Base/Настройка Jest NextJs.md",
@@ -117,7 +118,6 @@
     "Base/npm менеджер пакетов.md",
     "Base/§Testing.md",
     "Base/AAA (Arrange, Act, Assert).md",
-    "Base/Test Doubles (данные для тестов).md",
-    "Base/Unit tests with storybook on React.md"
+    "Base/Test Doubles (данные для тестов).md"
   ]
 }
