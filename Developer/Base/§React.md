@@ -1,6 +1,6 @@
 ---
-tags: reat
-aliases: null
+tags: 
+aliases: react
 date created: 2022-02-15 09:44
 date modified: Wednesday, July 13th 2022, 3:39: pm
 

@@ -2,33 +2,38 @@
 tags: 
 aliases: ts
 date created: 2022-02-16 12:35
-date modified: Sunday, June 19th 2022, 6:04:34 pm
+date modified: Sunday, July 17th 2022, 6:44:37 pm
 
 title: §TypeScript
 ---
 
 # §TypeScript
 
-## Основа
+## Синтаксис
+
+### Основа
 
 - [[Типизация TS]]
 - [[Аннотации и определение типа в TS]]
 - [[Массивы и объекты в TS]]
 - [[Типы данных JS]]
 
-## Тонкости
+### Тонкости
 
 - [[Отличие interface от type]]
+- [[Definitely Typed]]
 
-## Дженерики
+### Дженерики
 
 - [[Зачем нужный Generic]]
 - [[Сигнатура и примеры]]
 
-- [[Definitely Typed]]
-- [[type guard]]
+## React TypeScript
 
-
+- [[TypeScript and React Events]]
+- [Why I don’t use React.FC](https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/)
+- [TypeScript + React](https://fettblog.eu/typescript-react/)
+- [Advanced TypeScript](https://fettblog.eu/advanced-typescript-guide/)
 
 ---
 

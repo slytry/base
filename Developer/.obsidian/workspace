@@ -9,9 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/type guard.md",
+            "file": "Base/Структура React проекта.md",
             "mode": "source",
-            "backlinks": false
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/type guard.md",
+                "file": "Base/Структура React проекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +109,15 @@
   },
   "active": "6ca2c99c83939b41",
   "lastOpenFiles": [
-    "Base/type guard.md",
+    "Base/§React.md",
     "Base/§TypeScript.md",
+    "Base/TypeScript and React Events.md",
     "Base/Definitely Typed.md",
-    "Base/_Index.md",
-    "Base/_About.md",
-    "Base/_Symbols.md",
-    "Base/React Query.md",
-    "Base/React transition group.md",
-    "Base/React.memo.md",
-    "Base/tree деревья.md"
+    "Base/JSdoc.md",
+    "Base/§Next.js.md",
+    "Base/Настройка Jest NextJs.md",
+    "Base/Создание Api-маршрута.md",
+    "Base/Анимация всей встраницы NEXT.JS.md",
+    "Base/npm менеджер пакетов.md"
   ]
 }
