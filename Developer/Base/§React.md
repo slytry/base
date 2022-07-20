@@ -102,6 +102,10 @@ title: §React
 
 ### Бибилотеки компонентов
 
+#### Отдельные компонеты
+
+- [[Tabs]]
+
 #### Доступные компоненты без стилей
 
 - [use-platform](https://github.com/use-platform/use-platform)

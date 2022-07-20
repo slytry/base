@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Структура React проекта.md",
+            "file": "Base/§Верстка писем.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 230.00192260742188
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Структура React проекта.md",
+                "file": "Base/§Верстка писем.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "6ca2c99c83939b41",
   "lastOpenFiles": [
+    "Base/Убрать стили яндекса.md",
+    "Base/§Верстка писем.md",
+    "Base/Правила версткии писем и тесты.md",
+    "Base/Tilda mail.md",
+    "Base/MJML.md",
     "Base/§React.md",
-    "Base/§TypeScript.md",
-    "Base/TypeScript and React Events.md",
-    "Base/Definitely Typed.md",
-    "Base/JSdoc.md",
-    "Base/§Next.js.md",
-    "Base/Настройка Jest NextJs.md",
-    "Base/Создание Api-маршрута.md",
-    "Base/Анимация всей встраницы NEXT.JS.md",
-    "Base/npm менеджер пакетов.md"
+    "Base/Tabs.md",
+    "Base/React.memo.md",
+    "Base/Структура React проекта.md",
+    "Base/§TypeScript.md"
   ]
 }
