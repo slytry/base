@@ -2,7 +2,7 @@
 tags: 
 aliases: react
 date created: 2022-02-15 09:44
-date modified: Wednesday, July 20th 2022, 9:22:41 am
+date modified: Wednesday, July 20th 2022, 6:44:27 pm
 
 title: §React
 ---
@@ -75,12 +75,13 @@ https://courses.webdevsimplified.com/react-hooks-simplified
 
 ### React TypeScript
 
-[React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
+- [React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
 
 ## Инфраструктура
 
-### Core (Fetch data, State, Router)
+### Core
 
+- [[React Spectrum]]
 - [[React Query]]
 - [[react-router-DOM]]
 - [[classnames]]
@@ -99,15 +100,10 @@ https://courses.webdevsimplified.com/react-hooks-simplified
 
 - [[html-react-parser]]
 - [[date-fns]]
-- [[Как отослать email]]
 - [[react-scroll-wheel-handler]]
 - [[react-beautiful-dnd]]
 
 ### Бибилотеки компонентов
-
-#### Отдельные компонеты
-
-- [[Tabs]]
 
 #### Доступные компоненты без стилей
 

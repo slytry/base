@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6ca2c99c83939b41",
+        "id": "942ca90ef5e2d3d6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§Верстка писем.md",
+            "file": "Base/Какие проблеме решает React Spectrum.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.00192260742188
+    "width": 437
   },
   "right": {
     "id": "b0a4108b52d282fe",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§Верстка писем.md",
+                "file": "Base/Какие проблеме решает React Spectrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,20 +104,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371,
-    "collapsed": true
+    "width": 371
   },
-  "active": "6ca2c99c83939b41",
+  "active": "942ca90ef5e2d3d6",
   "lastOpenFiles": [
-    "Base/Убрать стили яндекса.md",
-    "Base/§Верстка писем.md",
-    "Base/Правила версткии писем и тесты.md",
-    "Base/Tilda mail.md",
-    "Base/MJML.md",
+    "Base/React Spectrum.md",
+    "Base/Какие проблеме решает React Spectrum.md",
+    "Base/Аритектура ui-kit здорового человека.md",
+    "Base/Getting Started React Stately.md",
     "Base/§React.md",
+    "Base/Accessible Rich Internet Applications (ARIA).md",
+    "Base/Как отослать email.md",
     "Base/Tabs.md",
-    "Base/React.memo.md",
-    "Base/Структура React проекта.md",
-    "Base/§TypeScript.md"
+    "Base/SVG to base64.md",
+    "Base/SVG.md"
   ]
 }
