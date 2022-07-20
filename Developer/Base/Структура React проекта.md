@@ -103,10 +103,10 @@ export const sampleOne = (arr) => {
 В данной папке хранятся вспомогательные типы, а также декларации модулей.
 
 ```
-│   └── types/
-│       ├── Models/ 			
-│ 		│	└── product.models.ts - описание типов с бэка
-│       └── types.ts 			  - общие типы
+└── types/
+    ├── Models/ 			
+	│	└── product.models.ts - описание типов с бэка
+    └── types.ts 			  - общие типы
 
 ```
 
@@ -127,10 +127,16 @@ export const sampleOne = (arr) => {
 ### store
 
 
+
+
 ---
 
-###### Citation
+###### References
 
+- [https://tree.nathanfriend.io/](https://tree.nathanfriend.io/)
+- [How I structure my React projects](https://levelup.gitconnected.com/how-i-structure-my-react-projects-34b35e18f91e)
+- [Understanding ReactJs Project Structure and Folder Setups]()
+- [React Folder Structure in 5 Steps [2022]](https://www.robinwieruch.de/react-folder-structure/)
 - [React Architecture: How to Structure and Organize a React Application](https://www.taniarascia.com/react-architecture-directory-structure/)
 - [Структура React REST API приложения + TypeScript + Styled-Components](https://vc.ru/u/758273-nikita-osin/220656-struktura-react-rest-api-prilozheniya-typescript-styled-components)
 - [Delightful React File/Directory Structure](https://www.joshwcomeau.com/react/file-structure/#introduction)

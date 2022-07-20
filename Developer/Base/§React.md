@@ -2,7 +2,7 @@
 tags: 
 aliases: react
 date created: 2022-02-15 09:44
-date modified: Friday, July 15th 2022, 9:28:17 pm
+date modified: Sunday, July 17th 2022, 9:47:02 pm
 
 title: §React
 ---
@@ -38,6 +38,8 @@ title: §React
 
 ### Хуки
 
+https://courses.webdevsimplified.com/react-hooks-simplified
+
 - [[хуки]]
 - [[Кастомные хуки]]
 - [[useState]]
@@ -59,6 +61,7 @@ title: §React
 - [[Доступность контента React]]
 - [[Инверсия контроля]]
 - [[Local Storage React]]
+- [[SVG in React]]
 
 ### Оптимизация
 
