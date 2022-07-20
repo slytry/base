@@ -2,7 +2,7 @@
 tags: 
 aliases: react
 date created: 2022-02-15 09:44
-date modified: Sunday, July 17th 2022, 9:47:02 pm
+date modified: Wednesday, July 20th 2022, 9:22:41 am
 
 title: §React
 ---
@@ -79,13 +79,6 @@ https://courses.webdevsimplified.com/react-hooks-simplified
 
 ## Инфраструктура
 
-### Доступные компоненты без стилей
-
-- [use-platform](https://github.com/use-platform/use-platform)
-- [React ARIA](https://react-spectrum.adobe.com/react-aria/)
-- [Reach UI](https://reach.tech/)
-- [Headless UI](https://headlessui.dev/)
-
 ### Core (Fetch data, State, Router)
 
 - [[React Query]]
@@ -112,11 +105,18 @@ https://courses.webdevsimplified.com/react-hooks-simplified
 
 ### Бибилотеки компонентов
 
+#### Доступные компоненты без стилей
+
+- [use-platform](https://github.com/use-platform/use-platform)
+- [React ARIA](https://react-spectrum.adobe.com/react-aria/)
+- [Reach UI](https://reach.tech/)
+- [Headless UI](https://headlessui.dev/)
+
 #### Несколько компонентов
 
-- [[Ant Design]]
-- [[Chakra UI]]
-- [[MUI]]
+- [Ant Design](https://ant.design/)
+- [Chakra UI](https://chakra-ui.com/)
+- [MUI](https://mui.com/)
 - [Radix Primitives](https://www.radix-ui.com/)
 
 #### Узкая специализация
