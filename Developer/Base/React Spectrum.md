@@ -1,22 +1,34 @@
 ---
-aliases: 
+aliases: spectrum
 tags: 
 date created: Wednesday, July 20th 2022, 6:43:15 pm
-date modified: Wednesday, July 20th 2022, 8:18:37 pm
+date modified: Friday, July 22nd 2022, 3:47:50 pm
 ---
 
 # React Spectrum
 
+## Introduction
+
 Аххуено сделанный ui-kit компании Adobe. В свое время многому меня научил. Перевернул понимании о 'хорошем'.
+
+### Введение
 
 - [[Какие проблеме решает React Spectrum]]
 - [[Аритектура ui-kit здорового человека]]
 
-## React Stately
+#### Сложные логические концепции
 
-- [[ Getting Started React Stately]]
+- [[Collection components]]
+- [[Selection]]
 
-## React Aria
+## Semi-finished Componets
+
+- [[Tooltip]]
+
+## React Spectrum hooks
+
+- [[React Stately]]
+- [[React Aria]]
 
 ---
 

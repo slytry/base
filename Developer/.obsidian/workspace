@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Какие проблеме решает React Spectrum.md",
+            "file": "Base/Collection components.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Какие проблеме решает React Spectrum.md",
+                "file": "Base/Collection components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,20 +104,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371,
-    "collapsed": true
+    "width": 371
   },
   "active": "942ca90ef5e2d3d6",
   "lastOpenFiles": [
     "Base/React Spectrum.md",
-    "Base/Какие проблеме решает React Spectrum.md",
-    "Base/Аритектура ui-kit здорового человека.md",
-    "Base/Getting Started React Stately.md",
+    "Base/Snippets VS code.md",
+    "Base/VS Code.md",
+    "Base/Settings VS code.md",
     "Base/§React.md",
-    "Base/Accessible Rich Internet Applications (ARIA).md",
-    "Base/Как отослать email.md",
-    "Base/Tabs.md",
-    "Base/SVG to base64.md",
-    "Base/SVG.md"
+    "Base/useImperativeHandle.md",
+    "Base/next snipp.md",
+    "Base/useLayoutEffect.md",
+    "Base/Настройки для верстки в VS code.md",
+    "Base/Автоматическое дополнение, подсказки VS code.md"
   ]
 }

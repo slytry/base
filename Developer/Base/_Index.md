@@ -2,11 +2,13 @@
 tags: 
 aliases: 
 date created: Thursday, March 17th 2022, 9:36:45 am
-date modified: Thursday, May 12th 2022, 10:12:18 am
+date modified: Thursday, July 21st 2022, 9:54:35 am
 title: _Index
 ---
 
 # _Index
+
+https://publish.obsidian.md/help-ru/%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BE%D0%BA
 
 ## Content
 
@@ -30,8 +32,7 @@ title: _Index
 
 1. [Цифровой сад Maggie Appleton](https://maggieappleton.com/about) - вдохновение
 2. [Showcase](https://quartz.jzhao.xyz/notes/showcase/) - примеры
-
-[10 плагинов и 3 темы для Obsidian: делаем из приложения конфетку](https://fedorovpishet.ru/pimp-my-obsidian/)
+3. [10 плагинов и 3 темы для Obsidian: делаем из приложения конфетку](https://fedorovpishet.ru/pimp-my-obsidian/)
 
 ---
 

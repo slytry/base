@@ -50,6 +50,7 @@ https://courses.webdevsimplified.com/react-hooks-simplified
 - [[useMemo]]
 - [[useContext]]
 - [[useRef]]
+- [[useImperativeHandle]]
 
 ### Продвинутые темы
 

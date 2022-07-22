@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Wednesday, July 20th 2022, 7:11:14 pm
-date modified: Wednesday, July 20th 2022, 8:38:16 pm
+date modified: Wednesday, July 20th 2022, 8:39:14 pm
 ---
 
 # Какие проблеме решает React Spectrum

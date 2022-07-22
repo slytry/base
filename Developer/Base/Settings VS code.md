@@ -8,7 +8,6 @@ date modified: Thursday, April 21st 2022, 11:02:26 am
 
 # Settings VS code
 
-
 - [[Универсальные настройки VS code]]
 - [[Расширения настройка VS code]]
 - [[Настройки для винды VS code]]
