@@ -2,8 +2,8 @@
 tags: 
 aliases: null
 date created: 2022-03-18 20:53
-date updated:
-date modified: Thursday, April 21st 2022, 10:57:53 am
+date modified: Tuesday, July 26th 2022, 8:48:10 am
+date modified: Tuesday, July 26th 2022, 8:48:10 am
 ---
 
 # Fonst and Themes VS code
@@ -80,6 +80,8 @@ https://www.monolisa.dev/buy
 - [Palenight](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
 - [Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
 - [Cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
+- [codeSTACKr Theme](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
+- [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 
 ### Icons
 

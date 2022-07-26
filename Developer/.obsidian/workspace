@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§React.md",
+            "file": "Base/Fonst and Themes VS code.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§React.md",
+                "file": "Base/Fonst and Themes VS code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "6ca2c99c83939b41",
   "lastOpenFiles": [
+    "Base/VS Code.md",
+    "Base/§React.md",
     "Base/Что есть автотесты.md",
     "Base/§Testing.md",
     "Base/Что тестировать.md",
-    "Base/§React.md",
     "Base/Структура React проекта.md",
     "Base/SVG in React.md",
     "Base/§TypeScript.md",
     "Base/TypeScript and React Events.md",
-    "Base/Definitely Typed.md",
-    "Base/JSdoc.md"
+    "Base/Definitely Typed.md"
   ]
 }
