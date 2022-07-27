@@ -2,7 +2,7 @@
 aliases: spectrum
 tags: 
 date created: Wednesday, July 20th 2022, 6:43:15 pm
-date modified: Friday, July 22nd 2022, 3:47:50 pm
+date modified: Wednesday, July 27th 2022, 3:36:14 pm
 ---
 
 # React Spectrum
@@ -16,7 +16,7 @@ date modified: Friday, July 22nd 2022, 3:47:50 pm
 - [[Какие проблеме решает React Spectrum]]
 - [[Аритектура ui-kit здорового человека]]
 
-#### Сложные логические концепции
+#### Сложные концепции
 
 - [[Collection components]]
 - [[Selection]]
@@ -24,6 +24,7 @@ date modified: Friday, July 22nd 2022, 3:47:50 pm
 ## Semi-finished Componets
 
 - [[Tooltip]]
+- [[RadioGroup]]
 
 ## React Spectrum hooks
 

@@ -2,7 +2,7 @@
 tags: 
 aliases: react
 date created: 2022-02-15 09:44
-date modified: Wednesday, July 20th 2022, 6:44:27 pm
+date modified: Wednesday, July 27th 2022, 5:09:54 pm
 
 title: §React
 ---
@@ -39,6 +39,8 @@ title: §React
 ### Хуки
 
 https://courses.webdevsimplified.com/react-hooks-simplified
+
+https://usehooks-ts.com/
 
 - [[хуки]]
 - [[Кастомные хуки]]
@@ -80,12 +82,8 @@ https://courses.webdevsimplified.com/react-hooks-simplified
 
 ## Инфраструктура
 
-### Core
-
-- [[React Spectrum]]
 - [[React Query]]
 - [[react-router-DOM]]
-- [[classnames]]
 
 ### Forms
 
@@ -99,6 +97,7 @@ https://courses.webdevsimplified.com/react-hooks-simplified
 
 ### Helpers
 
+- [[classnames]]
 - [[html-react-parser]]
 - [[date-fns]]
 - [[react-scroll-wheel-handler]]
@@ -106,15 +105,11 @@ https://courses.webdevsimplified.com/react-hooks-simplified
 
 ### Бибилотеки компонентов
 
-#### Доступные компоненты без стилей
-
+- [[React Spectrum]]
 - [use-platform](https://github.com/use-platform/use-platform)
 - [React ARIA](https://react-spectrum.adobe.com/react-aria/)
 - [Reach UI](https://reach.tech/)
 - [Headless UI](https://headlessui.dev/)
-
-#### Несколько компонентов
-
 - [Ant Design](https://ant.design/)
 - [Chakra UI](https://chakra-ui.com/)
 - [MUI](https://mui.com/)

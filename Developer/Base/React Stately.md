@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Thursday, July 21st 2022, 10:13:54 am
-date modified: Thursday, July 21st 2022, 7:12:42 pm
+date modified: Wednesday, July 27th 2022, 9:22:07 am
 ---
 
 # React Stately
@@ -19,3 +19,5 @@ date modified: Thursday, July 21st 2022, 7:12:42 pm
 ---
 
 ###### References
+
+- [React Stately](https://react-spectrum.adobe.com/react-stately/index.html)

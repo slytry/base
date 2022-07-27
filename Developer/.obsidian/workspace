@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Collection components.md",
+            "file": "Base/§MOBX.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Collection components.md",
+                "file": "Base/§MOBX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,14 +109,14 @@
   "active": "942ca90ef5e2d3d6",
   "lastOpenFiles": [
     "Base/React Spectrum.md",
-    "Base/Snippets VS code.md",
-    "Base/VS Code.md",
-    "Base/Settings VS code.md",
+    "Base/§MOBX.md",
     "Base/§React.md",
-    "Base/useImperativeHandle.md",
-    "Base/next snipp.md",
-    "Base/useLayoutEffect.md",
-    "Base/Настройки для верстки в VS code.md",
-    "Base/Автоматическое дополнение, подсказки VS code.md"
+    "Base/Кастомные хуки.md",
+    "Base/useInput хуки валидации.md",
+    "Base/Создание хуков.md",
+    "Base/хуки.md",
+    "Base/useDeviceWidth Отслеживание изменения ширины экрана.md",
+    "Base/Связь с бэком на NEXT.JS.md",
+    "Base/Root Store Pattern.md"
   ]
 }
