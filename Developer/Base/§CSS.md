@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Monday, March 21st 2022, 9:21:47 am
-date modified: Tuesday, July 5th 2022, 11:44:20 am
+date modified: Wednesday, July 13th 2022, 11:09:32 pm
 title: Structure
 ---
 
@@ -78,8 +78,6 @@ title: Structure
 
 ### Функции
 
-[A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
-
 #### Размеры
 
 - [[CSS-функции min(), max() и clamp()]]
@@ -94,6 +92,8 @@ title: Structure
 
 - [Математические функции в CSS](https://yoksel.github.io/css-math/#restrictions)
 - [5 функций CSS, которые пригодятся при разработке сайтов](https://nuancesprog.ru/p/12643/)
+- [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
+
 
 ### Кастомные свойств
 
@@ -180,6 +180,3 @@ title: Structure
 - [Как добавить интерактивную карту на сайт](https://thecode.media/maps/)
 - [Как добавить кнопки «Поделиться» на страницу](https://thecode.media/quick-share/)
 - [Как очень быстро и яростно добавить музыкальный трек на страницу](https://thecode.media/comments/)
-- [Как сделать колесо фортуны на сайте](https://thecode.media/fortune/)
-- [ Как сделать интерактивную схему на SVG + jQuery](https://snipp.ru/html-css/interactive-map)
-- [Красивый цветной текст в CSS: как это сделать](https://thecode.media/fill-color/)
