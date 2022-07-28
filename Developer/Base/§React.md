@@ -77,7 +77,7 @@ https://usehooks-ts.com/
 - [React: тестируем компоненты с помощью Jest и Testing Library](https://habr.com/ru/company/timeweb/blog/670480/)
 
 ### React TypeScript
-
+- [[Props with Children]]
 - [React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
 
 ## Инфраструктура

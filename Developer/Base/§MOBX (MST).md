@@ -1,8 +1,8 @@
 ---
-aliases: 
+aliases: mst
 tags: 
 date created: Monday, May 16th 2022, 12:03:59 pm
-date modified: Wednesday, July 27th 2022, 5:21:53 pm
+date modified: Thursday, July 28th 2022, 11:24:59 am
 ---
 
 # §MOBX (MST)
@@ -19,6 +19,7 @@ date modified: Wednesday, July 27th 2022, 5:21:53 pm
 - [[Концепция MOBX]]
 - [[Root Store Pattern]]
 - [[Связь с бэком на NEXT.JS]]
+- [[Models]]
 
 ## Examples
 
@@ -58,6 +59,12 @@ https://mono.software/2019/04/16/async-webapi-calls-using-react-with-mobx/
 ---
 
 ###### References
+
+**MST**
+
+- [MST community home →](https://github.com/mobxjs/mobx-state-tree/discussions)
+
+**Helpers**
 
 - [#1 Фатальный недостаток Redux ;) - Управление состоянием](https://www.youtube.com/watch?v=GJANg9rMo5Y&list=PLZTsCOAKJJ_b_qj0W5-9XVKnu769iBXR5&index=7)
 - [React + Mobx: в чём смысл?](https://habr.com/ru/post/471048/) - habr

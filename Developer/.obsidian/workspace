@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/§MOBX.md",
+            "file": "Base/Формы на MOBX.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/§MOBX.md",
+                "file": "Base/Формы на MOBX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "942ca90ef5e2d3d6",
   "lastOpenFiles": [
-    "Base/React Spectrum.md",
-    "Base/§MOBX.md",
+    "Base/§MOBX (MST).md",
+    "Base/Models.md",
     "Base/§React.md",
+    "Base/Props with Children.md",
+    "Base/React Spectrum.md",
     "Base/Кастомные хуки.md",
     "Base/useInput хуки валидации.md",
     "Base/Создание хуков.md",
     "Base/хуки.md",
-    "Base/useDeviceWidth Отслеживание изменения ширины экрана.md",
-    "Base/Связь с бэком на NEXT.JS.md",
-    "Base/Root Store Pattern.md"
+    "Base/useDeviceWidth Отслеживание изменения ширины экрана.md"
   ]
 }
