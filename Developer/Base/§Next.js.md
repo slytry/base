@@ -18,6 +18,7 @@ date modified: Monday, May 16th 2022, 1:50:59 pm
 - [[Head. Метаданные]]
 - [[Document. Модификация документа]]
 - [[Image nextjs]]
+- [[Авторизация NextJs ]]
 
 ### Навигация
 
@@ -57,9 +58,13 @@ date modified: Monday, May 16th 2022, 1:50:59 pm
 ### Тестирование
 
 [[Настройка Jest NextJs]]
+
 ### Окуружение
 
 - [[Анимация всей встраницы NEXT.JS]]
+
+
+
 
 ---
 
