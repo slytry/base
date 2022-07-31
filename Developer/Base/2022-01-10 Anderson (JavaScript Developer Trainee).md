@@ -2,7 +2,7 @@
 tags: 
 aliases: null
 date created: 2022-01-15 21:10
-date modified: Thursday, March 31st 2022, 3:13:50 pm
+date modified: Friday, July 29th 2022, 10:44:56 am
 
 title: Anderson
 ---
@@ -64,7 +64,7 @@ console.log(a);  // { a: 10 }
 #### Вопрос 4
 
 Что записывается в свойство `[[Scope]]` функции?
-Ответ: Текущий LexicalEnvironment  [[Замыкание]]
+Ответ: Текущий LexicalEnvironment [[Замыкание]]
 
 #### Вопрос 5
 
@@ -136,9 +136,20 @@ console.log('3');
 
 ```
 
+```
+setTimeout(function timeout() {
+  console.log('1');
+}, 0);
+
+Promise.resolve().then(console.log(2)).then(console.log(4));
+
+console.log('3');
+```
+
 Promise.resolve и  setTimeout ассинхронный код. По этому сначала 3. Потом будет 2, потому что промис это микрозадача, микрозадача выполняется после каждой макрозадачи (микрозадачи это те что формируются кодом, чаще всего промисами). И последнее будет 1,   setTimeout макрозадача.
 
 [[Микрозадачи]][[Событийный цикл.   микрозадачи и макрозадания]]
+
 Ответ: 3, 2, 1
 
 #### Вопрос 11

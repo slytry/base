@@ -45,7 +45,7 @@ SSR: NextJs
 		├── /shared (UI, base) - компоненты для замены нативных
 		├── /layout компоненты повторяющиеся на каждой странице
 		├── /pages - сборка страниц (аналог контейнеров)
-		└── /simple 
+		└── /ui
 ```
 
 #### Сложные компоненты
@@ -135,7 +135,7 @@ export const sampleOne = (arr) => {
 
 - [https://tree.nathanfriend.io/](https://tree.nathanfriend.io/)
 - [How I structure my React projects](https://levelup.gitconnected.com/how-i-structure-my-react-projects-34b35e18f91e)
-- [Understanding ReactJs Project Structure and Folder Setups]()
+- [Understanding ReactJs Project Structure and Folder Setups](https://www.xenonstack.com/insights/reactjs-project-structure)
 - [React Folder Structure in 5 Steps [2022]](https://www.robinwieruch.de/react-folder-structure/)
 - [React Architecture: How to Structure and Organize a React Application](https://www.taniarascia.com/react-architecture-directory-structure/)
 - [Структура React REST API приложения + TypeScript + Styled-Components](https://vc.ru/u/758273-nikita-osin/220656-struktura-react-rest-api-prilozheniya-typescript-styled-components)

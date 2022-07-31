@@ -2,9 +2,9 @@
 tags:
   - src/Course
 aliases: null
-date updated: 2022-01-23 11:33
+date modified: Friday, July 29th 2022, 5:50:57 pm
 date created: Friday, March 18th 2022, 8:19:42 pm
-date modified: Wednesday, May 18th 2022, 8:14:00 am
+date modified: Friday, July 29th 2022, 5:50:57 pm
 ---
 
 # Теория JavaScript
@@ -187,11 +187,9 @@ date modified: Wednesday, May 18th 2022, 8:14:00 am
 - [[Классы символов]]
 - [[Unicode flag 'u' and class p{…}]]
 - [[Sticky flag 'y', searching at position]]
+
 [Префикс квантификатора № 1 - * в RegExp JavaScript](https://www.youtube.com/watch?v=DBF44p_tVYE&list=PLZTsCOAKJJ_YKA2m4bYEyewNlkJ67kV0T&index=2&t=33s)
 
-#### Tests
-
-- [[Unit tests with storybook on React]]
 
 ---
 
@@ -200,7 +198,4 @@ date modified: Wednesday, May 18th 2022, 8:14:00 am
 - [12 концепций, которые прокачают ваш JavaScript](https://tproger.ru/translations/javascript-important-concepts/)
 - [БЫСТРЫЙ FRONTEND. Оптимизация. Как писать JAVASCRIPT эффективно?](https://www.youtube.com/watch?v=VNNLNC5h7ZI)
 - [10 Tips for Writing Cleaner & Better Code](https://www.makeuseof.com/tag/10-tips-writing-cleaner-better-code/)
-- ES6 по человечески - <https://habr.com/post/305900/>
-- <https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/>
-- <https://learn.javascript.ru/>
-- <https://github.com/azat-io/you-dont-know-js-ru>
+- [you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) (Вы не знаете JS (серия книг))

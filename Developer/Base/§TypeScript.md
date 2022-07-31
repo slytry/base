@@ -2,7 +2,7 @@
 tags: 
 aliases: ts
 date created: 2022-02-16 12:35
-date modified: Wednesday, July 20th 2022, 10:47:25 am
+date modified: Friday, July 29th 2022, 5:38:21 pm
 
 title: §TypeScript
 ---
@@ -18,6 +18,7 @@ title: §TypeScript
 - [[Массивы и объекты в TS]]
 - [[Типы данных JS]]
 - [[this in a Function]]
+- [[tsconfig]]
 
 ### Тонкости
 
