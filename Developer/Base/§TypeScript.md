@@ -2,7 +2,7 @@
 tags: 
 aliases: ts
 date created: 2022-02-16 12:35
-date modified: Sunday, July 17th 2022, 6:44:37 pm
+date modified: Wednesday, July 20th 2022, 10:47:25 am
 
 title: §TypeScript
 ---
@@ -17,6 +17,7 @@ title: §TypeScript
 - [[Аннотации и определение типа в TS]]
 - [[Массивы и объекты в TS]]
 - [[Типы данных JS]]
+- [[this in a Function]]
 
 ### Тонкости
 
@@ -34,6 +35,10 @@ title: §TypeScript
 - [Why I don’t use React.FC](https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/)
 - [TypeScript + React](https://fettblog.eu/typescript-react/)
 - [Advanced TypeScript](https://fettblog.eu/advanced-typescript-guide/)
+
+## Ошибки
+
+[[Type 'X' has no properties in common with type 'Y' in TS]]
 
 ---
 

@@ -1,9 +1,15 @@
 ---
+tags: 
 aliases: null
 date created: 2022-03-01 17:51
 date updated:
+date modified: Wednesday, July 20th 2022, 8:38:16 pm
 ---
+
+# useInput хуки валидации
+
 ### useInput
+
 ```jsx
 import { useState } from 'react';
 import { useValidation } from './useValidation';
@@ -34,6 +40,7 @@ export const useInput = (initialValue, validations) => {
 ```
 
 ### useValidation
+
 ```jsx
 import { useEffect, useState } from 'react';
 
@@ -108,4 +115,3 @@ export const useValidation = (value, validations) => {
 ---
 
 ###### Citation
-

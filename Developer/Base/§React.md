@@ -2,7 +2,7 @@
 tags: 
 aliases: react
 date created: 2022-02-15 09:44
-date modified: Wednesday, July 20th 2022, 9:22:41 am
+date modified: Wednesday, July 27th 2022, 5:09:54 pm
 
 title: §React
 ---
@@ -40,6 +40,8 @@ title: §React
 
 https://courses.webdevsimplified.com/react-hooks-simplified
 
+https://usehooks-ts.com/
+
 - [[хуки]]
 - [[Кастомные хуки]]
 - [[useState]]
@@ -50,6 +52,7 @@ https://courses.webdevsimplified.com/react-hooks-simplified
 - [[useMemo]]
 - [[useContext]]
 - [[useRef]]
+- [[useImperativeHandle]]
 
 ### Продвинутые темы
 
@@ -75,15 +78,12 @@ https://courses.webdevsimplified.com/react-hooks-simplified
 
 ### React TypeScript
 
-[React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
+- [React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
 
 ## Инфраструктура
 
-### Core (Fetch data, State, Router)
-
 - [[React Query]]
 - [[react-router-DOM]]
-- [[classnames]]
 
 ### Forms
 
@@ -97,23 +97,19 @@ https://courses.webdevsimplified.com/react-hooks-simplified
 
 ### Helpers
 
+- [[classnames]]
 - [[html-react-parser]]
 - [[date-fns]]
-- [[Как отослать email]]
 - [[react-scroll-wheel-handler]]
 - [[react-beautiful-dnd]]
 
 ### Бибилотеки компонентов
 
-#### Доступные компоненты без стилей
-
+- [[React Spectrum]]
 - [use-platform](https://github.com/use-platform/use-platform)
 - [React ARIA](https://react-spectrum.adobe.com/react-aria/)
 - [Reach UI](https://reach.tech/)
 - [Headless UI](https://headlessui.dev/)
-
-#### Несколько компонентов
-
 - [Ant Design](https://ant.design/)
 - [Chakra UI](https://chakra-ui.com/)
 - [MUI](https://mui.com/)

@@ -2,13 +2,13 @@
 aliases: 
 tags: 
 date created: Monday, May 16th 2022, 12:03:59 pm
-date modified: Friday, June 17th 2022, 9:39:31 am
+date modified: Wednesday, July 27th 2022, 5:21:53 pm
 ---
 
-# §MOBX
+# §MOBX (MST)
 
 **Pros**
-- Меньше кода писать его легче. Так как нет редьюсеров диспатчей.
+- Меньше кода писать его легче. Так как нет редьюсеров и диспатчей.
 - MOBX реализует парадигму ООП, и все отсюда вытекающие совйста ООП. Например наследование
 
 **Cons**
@@ -19,6 +19,13 @@ date modified: Friday, June 17th 2022, 9:39:31 am
 - [[Концепция MOBX]]
 - [[Root Store Pattern]]
 - [[Связь с бэком на NEXT.JS]]
+
+## Examples
+
+- [Next with MST](https://github.com/vercel/next.js/tree/canary/examples/with-mobx-state-tree-typescript)
+- [TodoMVC - первый хороший пример из MST](https://github.com/mobxjs/mobx-state-tree/tree/master/packages/mst-example-todomvc)
+- [Bookshop - второй хороший пример из MST](https://github.com/mobxjs/mobx-state-tree/tree/master/packages/mst-example-bookshop)
+- [MobX-state-tree все официальные примеры](https://mobx-state-tree.js.org/intro/examples)
 
 ### Запросы на сервер
 

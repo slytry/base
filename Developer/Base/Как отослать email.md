@@ -1,8 +1,8 @@
 ---
-aliases: 
+aliases: email
 tags: 
 date created: Monday, April 11th 2022, 4:26:52 pm
-date modified: Tuesday, June 28th 2022, 9:38:57 am
+date modified: Wednesday, July 20th 2022, 6:44:08 pm
 title: Как отослать email
 ---
 
