@@ -2,10 +2,12 @@
 aliases: 
 tags: 
 date created: Friday, July 29th 2022, 3:50:46 pm
-date modified: Friday, July 29th 2022, 5:27:32 pm
+date modified: Monday, August 1st 2022, 9:09:02 am
 ---
 
 # Авторизация
+
+- [JWT. Часть 1. Теория](https://www.youtube.com/watch?v=vQldMjSJ6-w&t=58s)
 
 ---
 
