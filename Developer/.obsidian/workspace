@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Авторизация NextJs.md",
+            "file": "Influence/Рефы.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Авторизация NextJs.md",
+                "file": "Influence/Рефы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,14 +110,14 @@
   "active": "c5b575704af2bc17",
   "lastOpenFiles": [
     "Influence/§ Фото и видео.md",
-    "Influence/Тренеровки.md",
-    "Influence/Фотограф.md",
-    "Base/().md",
-    "Influence/Рефы.md",
-    "Base/§MOBX (MST).md",
-    "Base/§MTS.md",
-    "Base/§Mock.md",
-    "Base/§Next.js.md",
-    "Base/§TypeScript.md"
+    "Base/forwardRef typing.md",
+    "Base/§TypeScript.md",
+    "Base/Props with Children.md",
+    "Base/§React.md",
+    "Base/Авторизация NextJs.md",
+    "Base/Modal and overlay.md",
+    "Base/React Spectrum.md",
+    "Base/tsconfig.md",
+    "Base/soectrum.md"
   ]
 }

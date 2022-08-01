@@ -2,7 +2,7 @@
 tags: 
 aliases: ts
 date created: 2022-02-16 12:35
-date modified: Friday, July 29th 2022, 5:38:21 pm
+date modified: Monday, August 1st 2022, 5:15:35 pm
 
 title: §TypeScript
 ---
@@ -31,6 +31,10 @@ title: §TypeScript
 - [[Сигнатура и примеры]]
 
 ## React TypeScript
+
+- [[Props with Children]]
+- [[forwardRef typing]]
+- [React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
 
 - [[TypeScript and React Events]]
 - [Why I don’t use React.FC](https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/)

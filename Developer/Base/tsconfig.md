@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Friday, July 29th 2022, 5:38:21 pm
-date modified: Friday, July 29th 2022, 5:48:39 pm
+date modified: Monday, August 1st 2022, 11:42:51 am
 ---
 
 # tsconfig
@@ -42,6 +42,38 @@ date modified: Friday, July 29th 2022, 5:48:39 pm
 	},
 	"exclude": ["node_modules"],
 	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"]
+}
+
+```
+
+## Пример со стилизованного модального окна https://codesandbox.io/s/delicate-hill-j4p5vs?file=/tsconfig.json:0-593
+
+```json
+{
+  "compilerOptions": {
+    "outDir": "build/dist",
+    "module": "esnext",
+    "target": "es5",
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "sourceMap": true,
+    "allowJs": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "rootDir": "src",
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "noUnusedLocals": true,
+    "downlevelIteration": true,
+    "allowSyntheticDefaultImports": true
+  }
 }
 
 ```

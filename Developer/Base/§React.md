@@ -2,7 +2,7 @@
 tags: 
 aliases: react
 date created: 2022-02-15 09:44
-date modified: Friday, July 29th 2022, 5:52:46 pm
+date modified: Friday, July 29th 2022, 6:09:06 pm
 
 title: §React
 ---
@@ -75,11 +75,6 @@ https://usehooks-ts.com/
 - [[§Testing]]
 - [[Unit tests with storybook on React]]
 - [React: тестируем компоненты с помощью Jest и Testing Library](https://habr.com/ru/company/timeweb/blog/670480/)
-
-### React TypeScript
-
-- [[Props with Children]]
-- [React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
 
 ## Инфраструктура
 
