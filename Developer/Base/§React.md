@@ -2,7 +2,7 @@
 tags: 
 aliases: react
 date created: 2022-02-15 09:44
-date modified: Friday, July 29th 2022, 6:09:06 pm
+date modified: Wednesday, August 3rd 2022, 7:15:42 pm
 
 title: §React
 ---
@@ -83,8 +83,10 @@ https://usehooks-ts.com/
 
 ### Forms
 
-- [[react-input-mask]]
 - [[react-hook-form]]
+- [[Yup]]
+- [[libphonenumber-js]] | [[phoneinput]] - руская тема
+
 - [Creating a Schema-Based Form System](https://www.taniarascia.com/schema-based-form-system/)
 
 ### Animation

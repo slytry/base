@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Influence/Рефы.md",
+            "file": "Base/§React.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Influence/Рефы.md",
+                "file": "Base/§React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "c5b575704af2bc17",
   "lastOpenFiles": [
-    "Influence/§ Фото и видео.md",
-    "Base/forwardRef typing.md",
-    "Base/§TypeScript.md",
-    "Base/Props with Children.md",
+    "Base/react-input-mask.md",
+    "Base/phoneinput.md",
+    "Base/Автоматическая генерация контенка с бэкэнда.md",
     "Base/§React.md",
-    "Base/Авторизация NextJs.md",
-    "Base/Modal and overlay.md",
-    "Base/React Spectrum.md",
-    "Base/tsconfig.md",
-    "Base/soectrum.md"
+    "Base/fotorama.md",
+    "Base/State Menagers.md",
+    "Base/libphonenumber-js.md",
+    "Base/Yup.md",
+    "Base/react-hook-form.md",
+    "Base/Wizard Form (Funnel).md"
   ]
 }
